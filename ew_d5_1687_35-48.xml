@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m">Manuscript Suspense</title>
+            <author>Eartha M.M. White</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Michael "Dean" Rice</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.</p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder D5, Items 35-48</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>
+                        Documents are all part of a larger manuscipt titled "Suspense" by Eartha M.M. White. The documents in this file comprise pages 35-48 of the maunscript. The pages are approxiamately 8 inches by 11 inches. Most of the pages are in good condition, but a few are in poor condition. The ink has bled on almost every page, but the text is still mostly legible. The text is print.
+                     </p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.</p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1" facs="../images/ew_D5_001.jpg"/><!-- Note_1: This file picks up mid-paragraph because it is only a portion of the "Suspense" Manuscript. -->
+         <p>
+            <choice><orig>35</orig><reg/></choice>
+            guns, soldiers riding up and reading long and important-sounding<lb/>
+            proclamations that they couldn't understand, even when blue-clad Negro<lb/>
+            soldiers came to the plantations to help them celebrate. To others<lb/>
+            emancipation meant guarded whisperings, then a long wait for darkness<lb/>
+            so that they could slip away from the masters from whim they still<lb/>
+            expected harshness.<lb/>
+         </p>
+         <lb/>
+         <p>
+            <hi rend="indent">As in other states, many refused to leave their plantations. In</hi> <lb/>
+            <name type="place">Duval</name>, <name type="place">St. Johns</name>, <name type="place">Jefferson</name>, and some other counties many of the<lb/>
+            slaves remained on the plantations where their descendants may be<lb/>
+            found today under a sharecropping arrangement; others were given tracts<lb/>
+            of land for their own use.<lb/>
+         </p>     
+         <lb/>
+         <p>
+            <hi rend="indent"> Many left immediately for the cities. In <name type="place">Jacksonville</name>, where a</hi> <lb/>
+            number of Northern soldiers were quartered, temporary houses had to<lb/>
+            be provided for hundreds of them. Confusion naturally resulted,<lb/>
+            intensified by the Negro's entrance into politics, religion, and other<lb/>
+            professional fields. Economic helplessness settled on the Negro's<lb/>
+            shoulders for a time.<lb/>
+         </p>
+         <lb/>
+         <p>
+            <hi rend="indent"> <hi rend="underline">Interviews with Ex-Slaves</hi>. Perhaps no form of social life has</hi> <lb/>
+            been more viloently defended and condemned than slavery. To some,<lb/>
+            especially when viewed through the softening haze of time, the insti<lb break="no"/>
+            tution of slavery seems like paradise on earth; to others it is the<lb/>
+            opposite. What did the slaves themselves think of the system? Field<lb/>
+            workers of the Florida Writers' Project interviewed more than a score<lb/>
+            of ex-slaves and asked them to tell what they remembered. The subjects<lb/>
+            of both the following interviews were women, whether because women live<lb/>
+            longer or are better talkers than men it would be hard to say.<lb/>
+         </p>
+         <pb n="2" facs="../images/ew_D5_002.jpg"/>
+         <p>
+            <choice><orig>36</orig><reg/></choice>
+            <hi rend="indent"> <hi rend="underline"> <name type="person">Margarett Mickerson</name> </hi>. <name type="person">Margarett Mickerson</name> was born to </hi> <name type="person"> William <lb/>
+            A. Carr</name> on his plantation near <name type="place">Lake Jackson, Leon County</name>, many years<lb/>
+            ago. She now lives in <name type="place">Jacksonville</name> with her daughter.<lb/>
+         </p>   
+         <lb/>
+         <p>
+            <quote> <hi rend="indent"> <name type="person">Mr. Kilgo</name> wus de fust overseer I member; I wus big enuf to tote</hi> <lb/>
+               meat an stuff fum de smokehouse to de kitchen an to tote water in an<lb/>
+               git wood fur granny to cook de dinner an fur de sucklers who nu'sed<lb/>
+               de babies, an I ca'ied dinners back to de hans. <lb/> 
+            </quote> 
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent"> On dis plantation was bout a hunnert haid. We done de cookin</hi> <lb/>
+               in de fiahplace in iron pots, an de meals wuz plenty uf peas, greens,<lb/>
+               cornbread, burn co'n fur coffe. Sometime de marster bot coffe fur<lb/>
+               us; we got water fum de open well. Jes fore de big gun fiahed dey<lb/>
+               fetched my pa fum de bay whar he wuz makin salt; he done hear dem<lb/>   
+               say de Yankees is comin an' he shure wuz glad.<lb/> 
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent"> We done had rice an cotton an co'n an taters what got to be</hi> <lb/>
+               tended, an cowhides to be tanned an thread to be spinned. They done<lb/>
+               made de thread into ropes for plow lines.<lb/> 
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent"> <name> type="person">Ole Marse Carr</name> done feed us, but he didn care what an whar, jes </hi> <lb/> 
+               so you made money, an when you made five an six bales o cotton he<lb/>
+               say you ain done nothin'.<lb/> 
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent"> When de big gun fiahed on a Sat'day me an <name type="person">Cave</name> an <name type="person">Minnie Howard</name> </hi> <lb/>
+               wuz settin up co'n fur de plowers to come long an put dirt to em;<lb/>
+               <name type="person">Carr</name> he read de free papers to us on Sunday, an de co'n an cotton<lb/>
+            </quote>
+         </p>
+         <pb n="3" facs="../images/ew_D5_003.jpg"/>
+         <p>
+            <choice><orig>37</orig><reg/></choice>
+           <quote> dey had to be tended to. <name type="person">Marse Carr</name> he done tole us he gwine gi us<lb/> 
+              de net proceeds</quote>—here she chuckles—<quote>what turn out to be de co'n<lb/>
+                 an cotton stalks. Den he ask dem whut would stay wid him to step off<lb/>
+                 on de right, an dem dat wuz leavin to step off on de lef.<lb/> 
+              </quote> 
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">My pa made soap fum ashes when he clean de new groun; he done</hi> <lb/>
+               take a hopper to put de ashes in, made a li'le stool side de house,<lb/>
+               put de ashes in an po'red water on it to drip. Den at night when he<lb/>
+               git off fum work he done put in de grease an make de soap. I done<lb/>
+               make it myself sometime, an I makes it now.<lb/> 
+            </quote> 
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">My step-pa useter make shoes fum cowhides fur de farm han's on </hi> <lb/>
+               de plantation an fur ev'y buddy cep ole Marse an his fambly; deys wuz<lb/>
+               diffunt, fine.<lb/>
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">My gramma <name type="person">Phoebe Austin</name>—my mother wuz name <name type="person">Rachel Jackson</name> an </hi> <lb/>
+               my pa wuz name <name type="person">Edmun' Jackson</name>; my mother an uncle <name type ="person">Robert</name> an <name type="person">Joe</name> wuz<lb/>
+               stole fum <name type="place">Virginny</name> an fetched here. I don know no niggers dat listed<lb/>
+               in de War. I don member much about de War, only when dey started<lb/>
+               talking bout drillin men; <name type="person">Joe Sanders</name> wuz a Lootenen. Marse Carr's sons, <name type="person">Tom</name> an <name type="person">Willie</name> went to de War.<lb/>
+               </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">We didn had no doctors, only de grannies; we mostly used hippecat </hi> <lb/>
+               (ipecac) fur medicine.<lb/>
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">Lak I done tole you, <name type="person">Kilgo</name> wuz de fus overseer I ricollec, den</hi> <lb/>
+               <name type="person">Sanders</name> wuz nex, an <name type="person">Joe Sanders</name> atter him; <name type="person">John C. Heywood</name> came in<lb/>
+            </quote>  
+         </p>
+         <pb n="4" facs="../images/ew_D5_004.jpg"/>
+         <p>
+            <choice><orig>38</orig><reg/></choice>
+            <quote>
+               atter <name type="person">Sanders</name>, an when de big gun fiahed <name type="person">ole man Brockington</name> wuz dere.<lb/>
+        I never saw a nigger sol but dey ca'ied em fum our house an I never<lb/>
+               seen em no mo.<lb/>
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">We had church wid de white preachers an dey tole us to mine our</hi> <lb/>
+               masters and missus an we would be saved. Dey don never tole us nothin<lb/>
+               buot <name type="person">Jesus</name>.<lb/>
+            </quote>
+         </p>
+         <lb/>
+         <p>
+            <quote> <hi rend="indent">When de big gun fiahed <name type="person">Ole Man Carr</name> had six sacks uf Confederate</hi> <lb/>
+               money whut he wuz ca'ing wid him to <name type="place">Athens, Georgia</name>, an all de time<lb/>
+               if any uf us gals whar he wuz done ax him, <name type="person">Marse</name>, please gi us some<lb/>
+               money</quote>—here she raised her voice to a high, pitiful tone—<quote>he say I<lb/>
+                  aint got a cent, an right den he would have a chis so full it would<lb/>
+                  take a whole passle uv slaves to move it. He had plenty co'n, taters,<lb/>
+                  pumpkins, hogs, cows, everything, but he didn gi us nothing but strong<lb/>
+                  plain close and plenty to eat; we slep in ole common beds an my pa<lb/>
+                  made up li'le cribs an put hay in dem fur de chillan.<lb/>
+               </quote>
+         </p>
+         <lb/>
+      </body>
+  </text>
+</TEI>
