@@ -45,10 +45,21 @@
       <body>
          <pb n="1" facs="../images/ew_j2_513_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
          <p>
-            <name type="place" subtype="city">Jacksonville Fla</name> <date when="1896-06-30">6/30th 96</date><lb/>
-            
-                 Dear <name type="person">Eartha</name><lb/>
-              
+            <name type="place" subtype="city">Jacksonville Fla</name> <date when="1896-06-30">6/30th 96</date><lb/> 
+        
+         </p>
+            <div>
+             
+               <opener> 
+                <salute>
+                  Dear <name type="person">Eartha</name> :<lb/>
+               </salute>
+            </opener>
+               
+            </div>
+               
+           <div>
+              <p>
             I sit with Pen in<lb/>
             hand to tell you the <lb/>
             Sad news of our friend <lb/>
@@ -59,10 +70,10 @@
             I was very much disappointed <lb/>
             But I guess he is Better off <lb/>
             I do not <choice><sic>no</sic><corr>know</corr></choice>  what time the <lb/>
-            funeral (spelled oddly in text?) will Take Place I <lb/>
+                 <choice><sic>funural</sic><corr>funeral</corr></choice> will Take Place I <lb/>
             Suppose <choice><sic>tomarrow</sic><corr>tomorrow</corr></choice>  afternoon <lb/> 
             
-            <pb n="2"> </pb>
+                 <pb n="2" facs="../images/ew_j2_513_002.jpg"/>
             I thought that I Would <lb/>
             let you know at once <lb/>
             I have nothing <choice><sic>intristing</sic><corr>interesting</corr></choice>  <lb/>
@@ -72,6 +83,7 @@
            
          
          </p>
+           </div>
       </body>
   </text>
 </TEI>
