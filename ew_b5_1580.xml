@@ -43,7 +43,6 @@
   </teiHeader>
   <text>
       <body>
-      	<p>CM test addition, 5/24/16</p>
          <pb n="1" facs="../images/ew_b5_1580_001.jpg"/>
          <head>
             <hi rend="right">
@@ -63,12 +62,7 @@
             Dear <name type="person">Miss White</name> :<lb/>
                </salute>
             </opener>
-         <p>
-            <hi rend="right">Only a few lines<lb/></hi>
-            to let you hear from me. This<lb/>
-            leaves me well hoping that this<lb/>
-            will find you well.<lb/>
-           </p>
+         
          <p>
             Test Change for Pull Request 5/24/16
          </p>
