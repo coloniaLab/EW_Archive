@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title of your document goes here<!--still needs title--></title>
+            <title>Letters of Appeal</title>
             <author>Sarah Best</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Letter, one single-sided page, White's address is written on the back, handwritten, cursive, pencil, visible lines where it has been folded many times, paper is brown/yellowed, and the page is whole.</p>
+                     <p>Letter, one single-sided page, White's address is written on the back, handwritten, cursive, pencil, visible lines where it has been folded many times, paper is brown/yellowed, and the page is whole; there is also the original envelope addressed to White.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -46,7 +46,7 @@
          <pb n="1" facs="../images/ew_b5_1580_001.jpg"/>
          <head>
             <hi rend="right">
-               <name type="place">
+               <name type="place" subtype="address">
                <choice><abbr>Fla.</abbr><expan>Florida</expan></choice>
                State
                <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/>
@@ -62,9 +62,6 @@
             Dear <name type="person">Miss White</name> :<lb/>
                </salute>
             </opener>
-         <p>CM changing text of this 5/23/16 on 5/24/16.</p>
-         <p>coloniaLabTest test change 5/24/16.</p>
-         <p>A third coloniaLabTest change. 5/24/16.</p>
          <p>
             <hi rend="right">Only a few lines<lb/></hi>
             to let you hear from me. This<lb/>
@@ -84,7 +81,7 @@
          </p>
          <p>
             This is the <choice><abbr>Supt.</abbr><expan>Superintendant</expan></choice> address.<lb/>
-            <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/></name>
+            <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place" subtype="address"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/></name>
          </p>
          <p>
             <choice><sic>you</sic><corr>You</corr></choice> must not believe anything<lb/>
