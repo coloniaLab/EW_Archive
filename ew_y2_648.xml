@@ -43,8 +43,8 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="White Collection - Folder Y2 - 648 001.jpg"/>
-         <p>Dear Friend and Co-worker :-<lb/></p>
+         <pb n="1" facs="White Collection - Folder y2 - 648 001.jpg"/>
+         <opener>Dear Friend and Co-worker :-</opener>
          <p>At the <name type="place">Newark</name>Conference of the <orgName><choice><abbr>N.A.C.P.</abbr><expan>National Association For The Advancement Of Colored People</expan></choice></orgName>, re-<lb/>
          cently, <name role="politician">Congressman</name><name type="person">Dyer</name>said, that if one million colored<lb/>
          people and white people got together and decide Lynching would<lb/>
@@ -82,10 +82,10 @@
          tion now being carried on by the <orgName><abbr>N.A.A.C.P.</abbr><expan>National Association For The Advancement Of Colored People</expan></orgName>, to end lynching<lb/><pb/>
          and mob violence. We want to get out our stationary with your<lb/>
          name as <name role="administrator">State Director.</name></p>
-         <p>Lose no time in answering this letter.</p>
-         <p>Yours for a UNITED SISTERHOOD,<lb/></p>
-         <p><note place="bottommargin"><name type="person">Mary B Talbert</name></note></p>
-        
+         <closer>Lose no time in answering this letter.<lb/>
+         <salute>Yours for a UNITED SISTERHOOD,</salute>
+         <signed><handShift medium="pen" script="black-ink"></handShift>Mary Talbert</signed></closer>   
+         
          
       </body>
   </text>
