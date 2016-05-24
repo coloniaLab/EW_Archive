@@ -43,6 +43,7 @@
   </teiHeader>
   <text>
       <body>
+      	<p>CM test addition, 5/24/16</p>
          <pb n="1" facs="../images/ew_b5_1580_001.jpg"/>
          <head>
             <hi rend="right">
