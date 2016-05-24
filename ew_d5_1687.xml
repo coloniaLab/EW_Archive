@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Suspense</title>
+            <author>Name of author of document goes here</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Lauren Winters</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.</p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder D5, Item 1687</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.</p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1" facs="../images/ew_X_999_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+         <div>
+         <note place="marginTop">Suspense- Negro Book June 1918</note>
+            <head><label rend="case(allcaps)">Chapter I: Early History</label></head>
+         <p>
+            <hi rend="underline">The First Negroes in <name type="place">Florida</name>,</hi>Perhaps the earliest mention of<lb/>
+            a Negro in <name type="place">Florida</name> occurs in the account of the expedition of <name type="person">Narvaes</name><lb/>
+            in <date when="1528">1528</date>. It will be recalled that after the ruin of that expedition<lb/>
+            <name type="person">Cabeza de Vaca</name> and three companies reached <name type="nation">Mexico</name> after almost six<lb/>
+            years of incredible suffering. According to <name type="person">De Vaca</name>'s account, one<lb/>
+            of his companions was <name type="person">Esteban</name>, a blackamoor from <name type="place">Asomeur</name> on the west<lb/>
+            coast of <name type="nation">Morocco</name>, who was the slave of <name type="person">Dorantes</name>, capatain of infantry<lb/>
+            in <name type="person">Narvaes</name>' army.<lb/>
+         </p>
+         <p>
+            This same Negro was the guide of <name type="person">Fray Marcos de Nisa</name> in <date when="1539">1539</date>, and<lb/>
+            was sent ahead of the Corenado expedition to report the character of<lb/>
+            the country. <name type="person">Esteban</name>'s experience with Indians and his natural dramatic<lb/>
+            instinct led him to plan an impressive entrance into the new regions,<lb/>
+            but he knew <name type="person">Fray Marcos</name> would not approve. Accordingly, he persuaded<lb/>
+            the priest to allow him to travel two days in advance, and a strange<lb/>
+            procession went forward: <name type="person">Esteban</name>, borne like Indian royalty on a cano-<lb break="no"/>
+            pied seat and accompanied by hundreds of male and female attendants,<lb/>
+            while after him plodded <name type="person">Fray Marcos</name>, afoot, with only a small native<lb/>
+            guard. All went well until <name type="person">Esteban</name> reached the <name type="place">country of the Yunis</name>,<lb/>
+            who refused to be awed and fell upon him and killed him. <name type="person">Fray Marcos</name><lb/>
+            escaped a similar fate by presenting trinkets to the Indians.<lb/>
+             </p>
+         <p>
+            With slavery a widespread institution in <name type="place">Europe</name>, it was natural<lb/>
+            that slaves were used in developing <name type="place">the New World</name>. There were some<lb/>
+            Negro slaves with <name type="person">John Harkins</name> when he stopped at <name type="place">Fort Caroline</name> on the<lb/>
+            <pb n="2" facs="../images/ew_a1_342_001.jpg"/> 
+            <name type="place">St. Johns River</name> in <date when="1565">1565</date>. He had sold most of his slaves to <name type="nation">Spaniards</name><lb/>
+            in the <name type="place">West Indies</name>, but one Negro was reported lost on the shore in<lb/>
+            front of <name type="place">Fort Caroline</name>, and was believed to have been eaten by an al-<lb break="no"/>
+            ligator. It is not improbable, however, that he escaped and sought<lb/>
+            refuge among the Indians, as so many of his race did later.<lb/>
+         </p>
+         <p>
+            There were Negro slaves in <name type="place">St. Augustine</name>, probably from the very<lb/>
+            first, but their number was negligible. Negro slaves of the <name type="person"><name type="nation">Spanish</name><lb/>
+               King</name> were sent to <name type="place">Florida</name> in <date when="1581">1581</date>, and a small party of them were<lb/>
+            employed for two years in making wooden platforms for the artillery of<lb/>
+            the <name type="place">old fort at St. Augustine</name>. There is also a record of a Negro slave<lb/>
+            at the <name type="place">St. Augustine friary</name> in <date when="1469">1569</date>. In <date when="1594">1594</date> the <name type="person">Governor of <name type="place">Florida</name></name><lb/>
+            asked the <name type="person">Governor of <name type="nation">Cuba</name></name> for a number of soldiers and a "few slaves."<lb/>
+            In the first hospital in the <name type="nation">United States</name>, built at <name type="place">St. Augustine</name> in<lb/>
+            <date when="1597">1597</date>, a Negroess in the royal service tended "soldiers, Indian, and<lb/>
+            Negroes." In <date when="1603">1603</date> there were 32 Negro slaves in <name type="place">St. Augustine</name>, five<lb/>
+            of whom were women. It is likely that these Negro slaves were servants,<lb/>
+            as the <name type="nation">Spanish</name> enslaved Indians for hard labor.<lb/>
+         </p>
+         <p>
+            However, the Indians reacted so unsatisfactorily to strenuous manual<lb/>
+            labor that the arrival of Negro slaves for field work was hailed with<lb/>
+            joy. A shout went up as the ship of <name type="person">Don Juan de Aila</name> came to another in<lb/>
+            the <name type="place">harbor of St. Agustine</name> in <date when="1687">1687</date>, a shout that was the beginning of<lb/>
+            a celebration lasting all day. For, on the ship of the Don, in addition<lb/>
+            to the usual cargo, was a black slave, the one survivor of the 12 that<lb/>
+            the <name type="nation">Spaniard</name> had put on board.<lb/>
+         </p>
+         <pb n="3" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            To the <name type="nation">Spanish</name> colonists of new <name type="place">Florida</name> the slave came to mean<lb/>
+            food--someone to raise crops on the farms near <name type="place">St. Augustine</name>. The<lb/>
+            new slave had companions because the <name type="nation">Spaniards</name> were strict; in<lb/>
+            addition to other qualifications, a slave was required to become a<lb/>
+            Catholic before being brought into <name type="place">Florida</name>.<lb/>
+         </p>
+         <p>
+            The slave of <name type="person">Don Juan</name> was not long to remain alone; in the years<lb/>
+            that immediately followed he was joined, at <name type="place">St. Augustine</name> and other<lb/>
+            parts of the region, by numbers of other Negroes who sought the col-<lb break="no"/>
+            onists of the <name type="place">Carolinas</name>.<lb/>
+         </p>
+         <p>
+            It was during this period of the first <name type="nation">Spanish</name> occupation of<lb/>
+            <name type="place">Florida</name> that the connection between the Negro and the Indian first<lb/>
+            occurred. Indians were if the <name type="nation">Creek</name> and <name type="nation">Yamaneo</name> tribes, who occupied<lb/>
+            a wide territory in what was later to be <name type="place">Georgia</name>. Both Indians and<lb/>
+            Negroes frequently escaped from their masters in <name type="place">Carolina</name>, and made<lb/>
+            their way southward to the <name type="nation">Spanish</name> territory of <name type="place">Florida</name>. Here the<lb/>
+            <name type="nation">Spaniards</name> erected a fort for the refugees, a few miles north of their<lb/>
+            own <name type="place">San Marcos</name>. This fort, called <name type="place">Fort Moosa</name>,was built between <date when="1687">1687</date><lb/>
+            and <date when="1695">1695</date>; it consisted of a large square with breastwork and four<lb/>
+            bastions. In and near this fort a larger group of Negroes lived in<lb/>
+            comparative freedom.<lb/>     
+         </p>
+         <p>
+            The constant escape of Negro and Indian slaves from <name type="place">Carolina</name> to<lb/>
+            <name type="place">Florida</name> contributed to the creation of the <name type="place">Georgia</name> colony. In <name type="place">Georgia</name>,<lb/>
+         <pb n="4" facs="../images/ew_a1_342_001.jpg"/>
+           ownership of slaves was at first forbidden, as it was believed that<lb/>
+            a free state between <name type="place">Florida</name> and <name type="place">Carolina</name> would greatly reduce the<lb/>
+            number of escapes. After eight years, the need for Negro labor ended<lb/>
+            the free status of <name type="place">Georgia</name>.<lb/>
+         </p>
+         <p>
+            By <date when="1740-06">June of 1740</date>, the number of Negroes occupying <name type="place">Fort Moosa</name> had<lb/>
+            become a factor in the threatening hostilities between the <name type="nation">Spaniards</name><lb/>
+            and <name type="person">Governor James Oglethorpe of <name type="place">Georgia</name></name>. Learning that the <name type="nation">English</name>man<lb/>
+            planned an attack, the <name type="nation">Spanish</name> governor, <name type="person">Montiano</name>, strengthened both<lb/>
+            forts <name type="place">Moosa</name> and <name type="place">San Marcos</name>. A band of 80 <name type="nation">Scotch Highlnders</name>, however,<lb/>
+            captured <name type="place">Fort Moosa</name> in the early days of the <name type="person">Oglethorpe</name> invasion of<lb/>
+            <name type="place">St. Augustine</name>, and it was later retaken only after several hundred<lb/>
+            <name type="nation">Spaniards</name> and Negroes had been hurled against it. In this engagement,<lb/>
+            the <name type="nation">English</name> leader, <name type="person">Colonel Palmer</name>, was killed, and many of his men<lb/>
+            were captured and imprisoned in the <name type="place">St. Augustine</name> fort.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">The <name type="nation">Seminole</name> Increases.</hi> The infiltration of <name type="place">Georgia</name> Indians into<lb/>
+            <name type="place">Florida</name> greatly increased about <date when="1750">1750</date> when a chieftain of the <name type="nation">Creek</name> in<lb/>
+            <name type="place">Gerogia</name>, <name type="person">Seacoffee</name>, left the <name type="nation">Creek</name> tribes and moved into <name type="place">Florida</name> with<lb/>
+            a large following. They mingled with both Negroes and the <name type="nation">Miccosukee</name><lb/>
+            Indians who had preceded tham, and enjoyed many of the privileges of<lb/>
+            free <name type="nation">Spanish</name> citizenship. Gradually the Indian tribes in <name type="place">Florida</name><lb/>
+            became known as <name type="nation">Seminole</name>, meaning separatists or runaways.<lb/>
+         </p>
+         <p>
+            When <name type="place">Georgia</name> became a slave-holding province, the number of Indians<lb/>
+            and Negro runaways in <name type="place">Florida</name> increased rapidly, to the extent, finally,<lb/>
+            <pb n="5" facs="../images/ew_a1_342_001.jpg"/>
+            that in <date when="1776">1776</date> the Council for Safety of <name type="place">Georgia</name> requested from Congress<lb/>
+            a large force of troops "to prevent their slaves from deserting their<lb/>
+            Masters."<lb/>
+         </p>
+         <p>
+            About this date it became known that Indians and Negro runaways<lb/>
+            had settled in numbers around the <name type="place">Suwannee</name> and <name type="place">Apalachicola</name> Rivers, in<lb/>
+            addition to the settlements they already had in eastern and central<lb/>
+            <name type="place">Florida</name>. This brief prosperity that the Negroes and <name type="nation">Seminole</name> enjoyed--<lb/>
+            the last in their history--was made possible by the war between <name type="nation">England</name><lb/>
+            and the <name type="nation">American colonies</name>, the largely unexplored condition of <name type="place">Florida</name><lb/>
+            as a whole, and the fact that within the <name type="place">Carolina</name>, <name type="place">North Georgia</name>, and<lb/>
+            <name type="place">Florida</name> boundaries there were still savage tribes of <name type="nation">Creek</name> Indians to<lb/>
+            be encountered.<lb/>
+         </p>
+         <p>
+            The first serious threat to this breathing-spell came in <date when="1783">1783</date>,<lb/>
+            when, at the close of the Revolutionary War, the Creek of <name type="place">Georgia</name> made<lb/>
+            a treaty with the authorities of the state, in which they promised to<lb/>
+            restore all slaves residing among them. While the authenticity of this<lb/>
+            treaty was disputed, it was to have a profound effect upon the fate of<lb/>
+            the escaped Negroes and <name type="nation">Seminole</name> in <name type="place">Florida</name>.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">The Second <name type="nation">Spanish Period</name></hi>. The Second <name type="nation">Spanish</name> period was one of<lb/>-->
+            significant developments for Negroes. Although the <name type="nation">British</name>, departing<lb/>
+            from <name type="place">Florida</name> after the <name type="nation">American</name> Revolution, took their slaves with them<lb/>
+            many more were brought in by planters who moved to <name type="place">Florida</name> to take up<lb/>
+            <name type="nation">Spanish</name> grants. These adventurers from the new <name type="nation">United States</name> imported<lb/>
+            slaves direct from <name type="place">Africa</name>, a practice forbidden in the <name type="nation">>United States</name><lb/>
+            <pb n="6" facs="../images/ew_a1_342_001.jpg"/>
+            after 1808, but countenanced in <name type="place">Florida</name> by <name type="nation">Spanish</name> law. As a result,<lb/>
+            slaves were brought to <name type="place">Florida</name> in great numbers. The majority of them<lb/>
+            were then smuggled across the <name type="place"><name type="nation">American</name> border</name> into <name type="place">Georgia</name> and other<lb/>
+            states. Their value soared as cotton plantation spread over the<lb/>
+            lower South.<lb/>
+         </p>
+         <p>
+            Toward the Indians and their Negro allies the Spanish governors<lb/>
+            were not as liberal as in former years. The <name type="nation">Seminole</name> had never been<lb/>
+            <name type="nation">Spanish</name> adherents, and the <name type="place">Gerogia</name> Creek Began a series of raids into<lb/>
+            <name type="place">Florida</name>, burning villages and taking prisoners.<lb/>
+         </p>
+         <p>
+            The first treaty made under the Constitution of the <name type="nation">United States</name><lb/>
+            was in reference to Negroes involved in these border events. In a con-<lb break="no"/>
+            cession of certain lands to the <name type="place">Georgia</name> <name type="nation">Creek</name>, a repetition was made of<lb/>
+            the stipulation that Negroes were to be surrendered by the Indians.<lb/>
+            This provision set the <name type="nation">Creek</name> to invading <name type="place">Florida</name> so that they might have<lb/>
+            Negro captives to surrender. The treaty bore the date of <date when="1790-08-01">August 1, 1790</date>,<lb/>
+            and the signature of <name type="person">President George Washington</name>.<lb/>
+         </p>
+         <p>
+            The succeeding quarter of a century witnessed two interesting<lb/>
+            developments for the Negroes of <name type="place">West Florida</name> and their Indian allies:<lb/>
+            an intensification of the efforts of the officials of slaveholding<lb/>
+            <name type="place">Georgia</name> to reclaim the growing number of free Negroes in <name type="place">Florida</name>, and<lb/>
+            the tighter cementing of the bonds between Negroes and <name type="nation">Seminole</name>. The<lb/>
+            Indians and Negroes in <date when="1812">1812</date> defeated an army raised by <name type="place">Georgia</name> which had<lb/>
+            penetrated about a hundred miles into <name type="place">Florida</name>; they cut it off from its<lb/>
+            supplies, and sent it back nearly starved. In <date when="1811">1811</date> the Governor of<lb/>
+            <pb n="7" facs="../images/ew_a1_342_001.jpg"/>
+            <name type="place">Georgia</name> ordered the formation of an army large enough "to reduce<lb/>
+            <name type="place">St. Augustine</name> and punish the Indians."<lb/>
+         </p>
+         <p>
+            It was not in the <name type="place">East Florida</name> section around <name type="place">St. Augustine</name>,<lb/>
+            however, that the Negroes suffered their first major disaster. An<lb/>
+            expedition did enter that section of the state during the <name type="place">Republic of<lb/>
+               Florida</name> rebellion, but after two years returned to Georgia with little<lb/>
+            but casualties to show for its efforts.<lb/>
+         </p>
+         <p>
+            In <date when="1814">1814</date> several <name type="nation">British</name> vessels assisted the Negroes and <name type="nation">Seminole</name><lb/>
+            in the area around the <name type="place">Apelachicola River</name> to erect a fort, stock it<lb/>
+            with ammunition, and mount it with eight guns. This fort was about<lb/>
+            thirty miles above the mouth of the river, on its east bank. The fort<lb/>
+            was generally called the Negro Fort, but its official name was <name type="place">Fort<lb/>
+               Blount</name>. That the Negroes and their <name type="nation">Seminole</name> friends believed in the <lb/>
+            security of the fort seems evident from the fact that many farms and<lb/>
+            plantations sprang up in the vicinity; one historian says cultivated<lb/>
+            feields extended more than fifty miles along the river. There were<lb/>
+            hundreds of Negroes and <name type="nation">Seminole</name> in the area, and they owned large<lb/>
+            herds of cattle and horses.<lb/>
+         </p>
+         <p>
+            On the morning of <date when="1816-05-24">July 24, 1816</date>, the quiet of the fort was shat-<lb break="no"/>
+            tered by the booming of the two 18-pound guns; <name type="person">General Andrew Jackson</name>, in<lb/>
+            charge of the southern forces of the <name type="nation">United States</name> Army, had ordered<lb/>
+            <name type="person">Colonel Clinch</name> and <name type="person">Captain Loomis</name> to attack the fort, "blow it up, and<lb/>
+            return the niggers to their rightful owners."<lb/>
+         </p>
+         <pb n="8" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            After four days of attack from both land and water, a heated<lb/>
+            cannonball pierced a powder magazine incide the stockade, and all<lb/>
+            but 60 of the 334 persons inside the fort were instantly killed. Only<lb/>
+            three escaped injury. Two of the survivors, one Indian and one Negro,<lb/>
+            were executed as "leaders."<lb/>
+         </p>
+         </div>
+         <pb n="9" facs="../images/ew_a1_342_001.jpg"/>
+            <div>
+               <head>
+                  <hi rend="center"><label rend="case(allcaps)">Chapter II<lb/>
+                     <name type="place">Florida</name> Ceded to the <name type="nation">United States</name></label><lb/>
+                  </hi>
+               </head>
+          <p>
+             On <date when="1821-07-10">July 10, 1821</date>, the Negroes in <name type="place">Florida</name> saw the <name type="nation">American</name> flag<lb/>
+            raised over the Territory. It meant the enslavement of every Negro<lb/>
+             who could be captured. Under <name type="nation">Spanish</name> law a slave could file a petition<lb/>
+             for a new master, while under <name type="nation">American</name> law his testimony was not al-<lb break="no"/>
+             lowed in court. The <name type="nation">Seminole</name> also viewed <name type="nation">Americans</name> with disfavor, hav-<lb break="no"/>
+             ing fought as <name type="nation">English</name> allies against them in the Revolution. So the<lb/>
+             reaction of the <name type="nation">Seminole</name> and the Negroes associated with them was to<lb/>
+            retire deeper into the fastnesses of the <name type="place">Florida</name> swamps and forests,<lb/>
+             and to resist the <name type="nation">American</name> forces in what were to become famous as the<lb/>
+             <name type="nation">Seminole</name> Wars.<lb/>
+         </p>
+         <p>
+            <hi rend="underline"><name type="nation">Seminole</name> Wars</hi>. From the destruction of <name type="place">Fort Blount</name> in <date when="1816">1816</date>, until<lb/>
+            <date when="1842">1842</date>, the <name type="nation">Seminole</name> Wars were waged intermittantly. Actually, there had<lb/>
+            been no peace between the <name type="nation">Seminole</name> and their Negro allies on the one<lb/>
+            hand and the <name type="nation">American</name> forces on the other since the destruction of <name type="place">Fort<lb/>
+            Blount</name>. <name type="person">General Jackson</name>, with four thousand regular and volunteer<lb/>
+            troops, had already defeated Negroes in several towns around <name type="place">Lake<lb/>
+               Miccosukee</name>, the <name type="nation">Seminole</name> in <name type="place">St. Marks</name> on the <name type="place">Gulf</name>, and combines <name type="nation">Sem-<lb break="no"/>
+            inole</name> and Negro forces along the <name type="place">Suwannee</name>. Those who were not killed<lb/>
+            or captured fled to the <name type="place">Everglades</name>.<lb/>
+         </p>
+         <p>
+            On <date when="1842-08-14">Auguat 14, 1842</date>, <name type="person">General J.W. Worth</name> issued an official order<lb/>
+            that "hostilities with the Indians within these territories have<lb/>
+            ceased." The intervening 26 years had seen the question of surrender-<lb break="no"/>
+            ing the Negroes cause the postponement of peace with the <name type="nation">Seminole</name> many<lb/>
+            <pb n="10" facs="../images/ew_a1_342_001.jpg"/>
+            times; had seen the same question become a major issue first among army<lb/>
+            officials; then in the houses of Congress, and finally assist in the<lb/>
+            unloading of an attorney-general and the discomfiture of presidents <name type="person">Van<lb/>
+               Buren</name> and <name type="person">Tayler</name>.<lb/>
+         </p>
+         <p>
+            The campaigne of the <name type="nation">Seminole</name> Wars made many historic figures<lb/>
+            among whites, Negroes and Indians alike. Because of the enslavement of<lb/>
+            <name type="person">Morning Dew</name>, his <name type="nation">Creek</name>-Negro wife, the embittered young warrior <name type="person">Osceola</name><lb/>
+            became one of the most feared leaders of the <name type="nation">Seminole</name>. <name type="person">Coaccochee</name> and<lb/>
+            his inseparable friend <name type="person">Louis</name>--a forment Negro slave who led <name type="person">Major Dade</name>'s<lb/>
+            army detachment into ambush rather than assist in an attack on the Ne-<lb break="no"/>
+            groes and <name type="nation">Seminole</name>--grew so terrible in legend that there was wide-<lb break="no"/>
+            spread relief when they agreed to depart from <name type="place">Florida</name> to the west.<lb/>
+            <name type="person">Micanopy</name>, with his Negro <name type="person">Abraham</name>--who twice interpreted governmental<lb/>
+            treaties so well that clauses objectionable to the Indians had to be<lb/>
+            removed-- these and many others crosses <name type="place">Florida</name>'s history during the<lb/>
+            turbulent years of the <name type="nation">Seminole</name> Wars. For years after the close of the<lb/>
+            <name type="nation">Seminole</name> War, scattered Indians and their Negroes, usually called Maroons,<lb/>
+            were a source of concern to the settlers.<lb/>
+         </p>
+         <p>
+            Maroons were those Negroes, living among the <name type="nation">Seminole</name>, who were<lb/>
+            descendants of runaway slaves, and yet had never themselves belonged<lb/>
+            to a white man. Proof of their descent usually consisted in demon-<lb break="no"/>
+            stration of their ability to speak the <name type="nation">Seminole</name> language. The <name type="nation">United<lb/>
+            States</name> Government finally decided that Maroons might emigrate, and<lb/>
+            about four hundred of them went west with the <name type="nation">Seminole</name>.<lb/>
+         </p>
+         <pb n="11" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Capture of the Last Indian on <name type="place">Amelia Island</name></hi>. <name type="person">Morris Drummond</name>,<lb/>
+            Negro resident of <name type="place">Amelia Island</name> near the northeasten border of <name type="place">Flor-<lb break="no"/>
+            ida</name>, gave the following account of the capture of the last Indian<lb/>
+            there: "You want to hear how dey ketch de las Indian on dis hyear is-<lb break="no"/>
+            land? My granpaw say dey keep a-noticin someun in de cawn patch--de<lb/>
+            cawn was broke off, an trompled. <name type="person">Marse Harrison</name> say, 'someun stealin<lb/>
+            my cawn, an I blieve it de Indians.'<lb/>
+         </p>
+         <p>
+            "Dey notice dat dar ony one set of tranks, but dey know how tricky<lb/>
+            dem Indians is. Missis, dey mought be forty or fifty of dem critters,<lb/>
+            but dey wouldon lebe but one set of tracks--one ud dem Indians, not<lb/>
+            knowin how many dey be. So <name type="person">Marse Harrison</name> plan dat de whole bunch of<lb/>
+            buck niggahs surroun dat cawn fiel, an wait. Ifen dey be's a lot of<lb/>
+            Indian, we all gwine run; if dey be one or two, we gwine ketch em.<lb/>
+            Tareckly dark come outa de woods, widdout no sound come one Indian, an<lb/>
+            he warn't too big/ He creep inta de cawn patch an start breakin off de<lb/>
+            cawn. Den we all rush im. We ain fraid of one Indian. Dey took dat<lb/>
+            Indian an take im ta de plantation, an keep im dar under guard til de<lb/>
+            officer come an git im an take im ta de Indian Reservation. An dat was<lb/>
+            de las Indian ever seed on de <name type="place">Island of Amelia</name>."<lb/>
+         </p>
+            </div>
+         <pb n="12" facs="../images/ew_a1_342_001.jpg"/>
+            <div>
+            <head>
+               <hi rend="center"><label rend="case(allcaps)">Chapter III<lb/>
+                  Slave Days in <name type="place">Florida</name></label><lb/>
+               </hi>
+            </head>
+            
+         <p>
+           By the turn of the ninteenth century the number of Negro slaves<lb/>
+            in the state, as compared to those in neighboring states, was still<lb/>
+            small. For the most part they were runaways from the <name type="place">United States</name><lb/>
+            who had been accepted by the <name type="nation">Seminole</name>. There were some hundreds in<lb/>
+            and around <name type="place">St. Augustine</name>, and a few at <name type="place">St. Marks</name>, <name type="place">Pensacola</name>, and other<lb/>
+            smaller communities. In most cases they paid a tribute of farm produce<lb/>
+            to the Indians, under a system similar to both medieval surfdom and<lb/>
+            modern share-cropping. With none of the stringent bondage of <name type="place">Georgia</name><lb/>
+            and the <name type="place">Carolinas</name>, the Negroes had their own towns and live stock, and<lb/>
+            led an unsupervised existence.<lb/>
+         </p>
+         <p>
+            Though the number of slaves in <name type="place">Florida</name> grew slowly, they increased<lb/>
+            by leaps and bounds in <name type="place">Georgia</name>. Originally settled in <date when="1738">1738</date> as a buffer<lb/>
+            free state between the slave-holding <name type="place">Carolinas</name> and semi-free <name type="place">Florida</name>,<lb/>
+            <name type="place">Georgia</name> lost little time in becoming a slave state when the huge planta-<lb break="no"/>
+            tions, with their need for hundreds of slaves, pushed steadily towards<lb/>
+            the <name type="place">Florida</name> border.<lb/>
+         </p>
+         <p>
+            The transfer of <name type="place">Florida</name> from <name type="nation">Spain</name> to <name type="nation">America</name> early in the nine-<lb break="no"/>
+            teenth century heralded the approach of slave-holding on a large scale.<lb/>
+            Agricultural expansion began; plantations appeared on the <name type="place">Apelachicola</name>,<lb/>
+            <name type="place">Suwannee</name>,<lb/> and <name type="place">St. Johns</name>,<lb/> Rivers, and the section around <name type="place">St. Augustine</name>,<lb/>.<lb/>
+         </p>
+         <pb n="13" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Classification of Slaves</hi>. With few exceptions, the slaves of<lb/>
+            <name type="place">Florida</name> fell into one of the two major classifications: farm workers, who<lb/>
+            constituted the vast majority, and house slaves, the few lucky men<lb/>
+            and women who tended the grounds and homes of their masters. Both men<lb/>
+            and women worked in the fields, raising cotton, tobacco, and food crops.<lb/>
+            There were a few mechanics, blacksmiths, carpenters, and workers skilled<lb/>
+            in other crafts, who were, chiefly confined to the larger plantations.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">The Larger Plantations</hi>. Among the larger slaveholders was<lb/>
+            <name type="person">Zephaniah Kingsley</name> on <name type="place">Fort George Island</name>, near the mouth of the <name type="place">St.<lb/>
+               Johns River</name>s. <name type="person">Kingsley</name> was concerned with slaves in a number of ways.<lb/>
+            He brought them from <name type="place">Africa</name> in his own ships, worked them on his<lb/>
+            plantation, and trained them for sale in the slave markets. This<lb/>
+            training was many-sided; suffice it to say that at the sales in the<lb/>
+            vicinity there were usually offered a number of slaves who were<lb/>
+            described as "<name type="person">Kingsley</name>'s niggers," who brought more per head than the<lb/>
+            others, because of their special training as either house or field<lb/>
+            hands. <name type="person">Kingsley</name>'s slaves belonged to no unscrupulous pirate dealing<lb/>
+            in human flesh. Though he was a professional slavedealer, he had un-<lb break="no"/>
+            usual standards. At the height of his slave trade he wrote a book,<lb/>
+            <hi rend="underline">The Patriarchal System of Society</hi>, concerning the merits of slave-<lb break="no"/>
+            holding as a means of disseminating certain benefits to heathens.<lb/>
+            <name type="person">Kingsley</name> married a Negro woman, stating in his will that he respected<lb/>
+            fully the African rites that had united them. He provided liberally<lb/>
+            for his mulatto descendants.<lb/>
+         </p>
+         <pb n="14" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            In the vicinity of <name type="place">Jacksonville</name>, <name type="place">Mandarin</name>, and <name type="place">St. Augustine</name><lb/>
+            there were large plantations, and also public markets where slave<lb/>
+            sales were held regularly. In <name type="place">West Florida</name>, particularly in <name type="place">Columbia</name>,<lb/>
+            <name type="place">Madison</name>, and <name type="place">Jackson</name> counties, plantations were large than those in<lb/>
+            <name type="place">East Florida</name>. In <name type="place">Pensacola</name> there were dozens of liberated and semi-<lb break="no"/>
+            free slaves working on government forts and properties.<lb/>
+         </p>
+         <p>
+            One of the larget plantation in <name type="place">West Florida</name> was <hi rend="underline"><name type="place">El Destino</name></hi>,<lb/>
+            settled in <date when="1826">1826</date>. Cotton was the chief product of cultivation, and<lb/>
+            corn, oats, sugar cane, potatoes and rice were also grown; in fact,<lb/>
+            the aim was to make the plantation self-sufficient. Relations between<lb/>
+            master and slaves on this plantation were relatively commandable. Few<lb/>
+            changes of ownership occurred, as testified by the appearance of the<lb/>
+            same names in the tabulations and reports of the plantation for about<lb/>
+            thirty years. Even the War between the States brought only a slight<lb/>
+            change among the hands, due to the fact that middle <name type="place">Florida</name> was never<lb/>
+            occupied by Federal troops. After the war, many of the ex-slaves<lb/>
+            remained to work the old fields on a share-crop basis. In <date when="1919">1919</date> the<lb/>
+          <hi rend="underline"><name type="place">El Destino</name></hi> plantation was sold by descendants of the original owner<lb/>
+            for $70,000. It is 17 miles east of <name type="place">Tallahasse</name>, and its magnificent<lb/>
+            oaks and shrubbery attract frequent visitors. It is now the property<lb/>
+            of Whitehouse of <name type="place">New York City</name>.<lb/>
+         </p>
+         <pb n="15" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            The <name type="place"><name type="person">Hanson</name> plantation</name> near <name type="place">St. Augustine</name> raised sugar cane, veg-<lb break="no"/>
+            etables and fruits. It occupied the exact site of the present <name type="place"><name type="place">Florida</name><lb/>
+               Normal and Industrial Institute</name>, one of the outstanding Negro colleges<lb/>
+            in the state. What are now <name type="place">Jefferson</name> and <name type="place">Leon</name> counties, and other sec-<lb break="no"/>
+            tions of the cotton-and-tabacco belt, had their large plantations, and<lb/>
+            there were others farther west and south.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Slave Diets</hi>. While the food of the slaves seems to have been about<lb/>
+            the same on most plantations, the conditions under which it was eaten<lb/>
+            varied greatly. Some former slaves state that when the work signal<lb/>
+            sounded in the morning they had to "Git it an run," that is, snatch up<lb/>
+            a sandwich or chunk of bread they had prepared the night before and eat<lb/>
+            it on the way to the field or after arriving there. Others were allowed<lb/>
+            adequate time for breakfast.<lb/>
+         </p>
+         <p>
+            Lunch on some plantations was eaten in the field in the greatest<lb/>
+            possible haste; on others, lunch time meant a rest period of varying<lb/>
+            length for the slave who could eat rapidly.<lb/>
+         </p>
+         <p>
+            Supper was the slave's important meal. This was always eaten in<lb/>
+            his cabin, with whatever family he might be fortunate enough to have.<lb/>
+            It was cooked by his wife or mother, after her own duties were finished<lb/>
+            in the field or at the Missus' house. The children, tended during the<lb/>
+            day by a Negro woman, shared supper with their parents. Supper usually<lb/>
+            consisted of some kind of meat--often only salt pork--green vegetables,<lb/>
+            potatoes, corn bread, and coffee or some substitute. The most common<lb/>
+            substitute for coffee was corn or corn meal, parched until dark brown,<lb/>
+            <pb n="16" facs="../images/ew_a1_342_001.jpg"/>
+            then boiled. When this was not available, okra seeds and even<lb/>
+            parched potatoes were used.<lb/>
+         </p>
+         <p>
+            The corn meal was cooked into either pones or pan bread. Corn<lb/>
+            bread was sometimes baked in the top of an iron spider, a large pan<lb/>
+            wit a compartment in which coals were heaped. Potatoes were wrapped<lb/>
+            in the large leaves of the tannion plant, or sometimes in green corn<lb/>
+            shucks, and roasted in live coals. Green corn was an occasional and<lb/>
+            welcomed treat.<lb/>
+         </p>
+         <p>
+            While these were the rations that the master provided and knew<lb/>
+            about, other items were consumed that did not so readily come to his<lb/>
+            attention. Among these was the wild squash, which grew in the woods<lb/>
+            of west <name type="place">Florida</name>. Slave owners had little objection to its use by<lb/>
+            slaves, except that a trip to the woods was required to procure it,<lb/>
+            involving the possibility of escape.<lb/>
+         </p>
+         <p>
+            Pilfered eggs were another common dish. Where stumps and under-<lb break="no"/>
+            brush were burned to clear the land, the ground beneath the fire would<lb/>
+            hold an intense heat. Eggs stolen from nests would be surreptitiously<lb/>
+            buried near the fire; a few minutes later a loud crack would inform the<lb/>
+            slave that his baked egg also ready to eat. Potatoes, when not included<lb/>
+            in the regular fare, were also stolen and cooked in this manner. On<lb/>
+            large plantations the problem of feeding all of the Negro children was some-<lb break="no"/>
+            times solved by "toting" milk to a long wooden trough, tossing in corn<lb/>
+            bread and other morsels, and letting the children line up with their<lb/>
+            spoons.<lb/>
+         </p>
+         <pb n="17" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            Sundays and special occasions would bring dessert as an addition<lb/>
+            to the slave's meal. This would sometimes be potato bread made of<lb/>
+            sweet potatoes boiled until soft, then mashed, combined with the grease and<lb/>
+            coal meal, and baked till brown. None of the <name type="place">Florida</name> ex-slaves reports<lb/>
+            the use of sugar in their cabins; when sweetening of any kind was af-<lb break="no"/>
+            forded, it was sugar-cane molasses.<lb/>
+         </p>
+         <p>
+            The amount of meat eaten depended entirely upon the master; it was<lb/>
+            not considered a necessary part of a slave's diet. Some plantations<lb/>
+            provided it at least once a day, and kept well-filled storehouses.<lb/>
+            Others parceled it out very seldom, and then only the unused parts of<lb/>
+            the hogs or cows killed for the master's use. Frequent "disappearance"<lb/>
+            of hogs was a consequence.<lb/>
+         </p>
+         <p>
+            One commodity, salt, seems to have given both master and slave<lb/>
+            great cause for worry; the master, because of the expense and trouble<lb/>
+            often necessary to secure it, and the slave because he so frequently<lb/>
+            went without it. In many cases it was obtained from boiled sea-water;<lb/>
+            one plantation owner near <name type="place">Monticello</name> took a team and slave and traveled<lb/>
+            40 miles to the <name type="place">Gulf of <name type="nation">Mexico</name></name>, and there boiled down a supply. The<lb/>
+            process was slow and laborious.<lb/>
+         </p>
+         <p>
+            The slaves had other methods of obtaining it. On some plantations<lb/>
+            they would scrape the floor of the smokehouse at every opportunity.<lb/>
+            One slave would wash the smokehouse floor, carefully saving the scrub-<lb break="no"/>
+            water; with this brine she would do her seasoning. Another slave<lb/>
+            remembers chopping un a board from the smokehouse floor, and using the<lb/><!-- May need to change word "up?" -->
+            wood chips for seasoning. The wood, soaked with the meat-drippings, im-<lb break="no"/>
+            parted a flavor of both meat and salt.<lb/>
+         </p>
+         <pb n="18" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            Scraps of fat or drops of grease were seldom wasted. Grease<lb/>
+            from the "big house" and cabin alike was carefully kept in a special<lb/>
+            container.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Soap, Candles, and Cowhide</hi>. Oak or cypress wood was burned and<lb/>
+            the ashes placed in a vat or tub. The ashes were soaked in water for<lb/>
+            several days, and the water then drawn off into a pot. In this pot<lb/>
+            was placed the accumulated grease, and the whole mixture boiled for<lb/>
+            several hours. The potash and grease mixture was then poured out to<lb/>
+            cool, after which it was cut into squares. The plantation then had its<lb/>
+            supply of soap.<lb/>
+         </p>
+         <p>
+            Beef tallow, melter and poured into moulds, provided light for<lb/>
+            the plantation. Some of the slaves were adept at placing strings in<lb/>
+            the hardening tallow in such a manner that creditable candles would<lb/>
+            result. On many plantations, only the master's house used the candles;<lb/>
+            the Negro cabins were illumnated by fireplace.<lb/>
+         </p>
+         <p>
+            Oak wood was also used when leather was to be tanned. Oak chips<lb/>
+            or ashes would be soaked in water, as in potash making, and when that<lb/>
+            solution reached a certain strength cowhides were placed in it. After<lb/>
+            a few days the hides were taken out and dried, and later fashioned into<lb/>
+            shoes, harnesses, and other articles.<lb/>
+         </p>
+         <pb n="19" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Clothing</hi>. Both mistress and maid during <name type="place">Florida</name>'s slave period<lb/>
+            had a taste for gay color in dress. Cloth was made on many plantations<lb/>
+            by the women with the help of those children too young to work in the fields.<lb/>
+         </p>
+         <p>
+            White cotton cloth was dyed in a number of ways. The indigo<lb/>
+            plant--once grown in <name type="place">Florida</name> commercially and still found in a wild<lb/>
+            state--provided blue coloring, and the pokeberry gave a desirable red.<lb/>
+            Oak bark provided varying shades of brown, and the walnut an inerad-<lb break="no"/>
+            icable dark brown.<lb/>
+         </p>
+         <p>
+            On some plantations the owners gave the Negro women a white cotton<lb/>
+            dress once or twice a year, which was dyed to afford a gay change of<lb/>
+            dress for "Sunday-go-to-meetin."<lb/>
+         </p>
+         <p>
+            The daily attire of the slaves was not generally colorful; the<lb/>
+            men wore coarse pants and shirt, and the women wore tight bodices and<lb/>
+            full gathered skirts. These were the days of half a dozen petticoats.<lb/>
+            Occasionally a slave became the proud possessor of her mistress' dis-<lb break="no"/>
+            carded hoop skirt, but this was unusual. Hoops were expensive, so<lb/>
+            grape vines and bamboo often served as hoops for both mistress and<lb/>
+            slaves.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Amusements</hi>. Plantation life was not always all work and no play.<lb/>
+            There were definite occasions for merriment and even celebrations on<lb/>
+            many plantations; these ran from the usual visits of individuals or<lb/>
+            small groups to occasional festivals. <name type="person">Thomas</name> and <name type="person">Bryant Folsom</name>, in<lb/>
+          <pb n="20" facs="../images/ew_a1_342_001.jpg"/>
+            <name type="place">Jefferson County</name>, often stages rival parties to see which could give<lb/>
+            his slaves the better times. There were others who let their slaves<lb/>
+            go to other plantations for affairs at certain times.<lb/>
+         </p>
+         <p>
+            Christmas was the lost<!-- May need to change word "most?" --> popular of these occasions. On some<lb/>
+            plantations there were parties with extra food and meat allotments<lb/>
+            from the master's house, and other presents for the slaves. Few ex-<lb break="no"/>
+            slaves remember ever having been overlooked when it came to Christmas<lb/>
+            presents. The men usually recieved new shoes or srticles of clothing,<lb/>
+            while the women were made happy with household articles or discarded<lb/>
+            dresses of the mistress. Several plantations gave their slaves cash<lb/>
+            presents.<lb/>
+         </p>
+         <p>
+            New Year brought a short day in the field or a holiday, and anoth-<lb break="no"/>
+            er gift of extra food, with the highly prised meat allotment. New<lb/>
+            Year's night, on some plantations, was spent singing, dancing and visiting.<lb/>
+         </p>
+         <p>
+            The harvesting of a crop, such as tabacco, cotton or sugarcane,<lb/>
+            was cause for celebration also. In at least a few cases there were<lb/>
+            celebrations that corresponded very closely to the Green Corn Dance of<lb/>
+            the <name type="nation">Seminole</name>, though just how much the <name type="nation">Seminole</name> dance influenced the<lb/>
+            slaves is uncertain.<lb/>
+         </p>
+         <p>
+            Occasionally, visits to neighboring plantations would be made<lb/>
+            on a large scale. These would bring forth carefully hoarded stores<lb/>
+            of molasses, meal, potatoes and other foods; if there was music on<lb/>
+            improvised banjos and much jollity, the master might even contribute<lb/>
+          <pb n="21" facs="../images/ew_a1_342_001.jpg"/>
+            a few delicacies for the entertainment of the visitors. Singing and<lb/>
+            dancing around a fire in front of one of the cabins would last late<lb/>
+            inbto the night and any previously missed opportunities for courting<lb/>
+            were eagerly seized by the younger couples. Young husbands and wives,<lb/>
+            living apart, made the most of these occasions.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Marriage, Religion, and Baptism</hi>. Some plantation owners not <add type="caret">only</add> per-<lb break="no"/>
+            mitted but enouraged the marriage of their slaves. Then both parties<lb/>
+            lived on the same plantation, they might be given both legal and rel-<lb break="no"/>
+            gious ceremony to seal their union; if one party lived on another<lb/>
+            plantation, such a master might even intercede for the purchase of the<lb/>
+            other party.<lb/>
+         </p>
+         <p>
+            On other plantations, though, the marriage ceremony took the form<lb/>
+            of "jumping over the broom." This was performed after work hours in<lb/>
+            some cabin. In the presence of a few slaves a boom was placed on the<lb/>
+            bride would leap across the broom, then the groom, and so they were<lb/>
+            married.<lb/>
+         </p>
+         <p>
+            Religious teaching was often permitted; perhaps the <name type="nation">Spanish</name> in-<lb break="no"/>
+            fluence was responsible for this. Even after emancipation of the slaves<lb/>
+            there were no churches for Negroes in <name type="place">St. Augustine</name> but Negro Catholic once,<lb/>
+            and protestant Negro missionaries were beaten by Negro Catholics when<lb/>
+            they attempted to establish Baptist and Methodist churches. Throughout<lb/>
+            <name type="place">Florida</name> there was a suspicion that protestant missionaries were aboli-<lb break="no"/>
+            tionists. Some slaves were forbidden to attend church meetings. At<lb/>
+         <pb n="22" facs="../images/ew_a1_342_001.jpg"/>
+            the hamlet of <name type="place">Sixteen, Florida</name>, one slave woman saw her son killed for<lb/>
+            attending church, and was threaened with death herself if she did not<lb/>
+            cease weeping over the incident.<lb/>
+         </p>
+         <p>
+            The white churches which allowed slaves to attend required that<lb/>
+            they enter by a separate door, and sit in a section reserved for them.<lb/>
+            Some churches held special services designed for slaves after the reg-<lb break="no"/>
+            ular sermons.<lb/>
+         </p>
+         <p>
+            By <date when="1856">1856</date>, however, only a few owners refused to permit their slaves<lb/>
+            to listen to service in either the white churches or colored meetings;<lb/>
+            attendance at religious services had come to be considered an indis-<lb break="no"/>
+            pensable activity of slaves on most <name type="place">Florida</name> plantations. Reasons for<lb/>
+            this change appear to have been--from the standpoint of slave-owners--<lb/>
+            largely economic. Preachers, whether white or Negro, generally based<lb/>
+            their exortations on the theme: "Love your master. Don't steal. Be<lb/>
+            obedient." In return, slaves were assured that they would be rewarded<lb/>
+            with heavenly bliss after death; if they deviated from the code, they<lb/>
+            could expect nothing better than the fires of hell. The inference was<lb/>
+            also made that disobedient slaves would experience a more familiar form<lb/>
+            of damnation while they lived.<lb/>
+         </p>
+         <p>
+            Baptismal services were held at or near the larger plantations.<lb/>
+            After several weeks had been spent prepring the slaves for "acceptance<lb/>
+            of Christ," a large enough group would be ready to hold a "Christnin."<lb/>
+            Robed in a single dress-like garment of white, the candidates, men and<lb/>
+            women, would be taken to some nearby stream. There the preacher would<lb/>
+         <pb n="23" facs="../images/ew_a1_342_001.jpg"/>
+            go through an elaborate ceremony, accompanied by the singing and "fall-<lb break="no"/>
+            ing out" of the witnesing slaves. "Falling out" the other slave would<lb/>
+            continue their singing and shouting. A triumphal march back to the<lb/>
+            water. These ceremonies take place today in many rural communities.<lb/>
+         </p>
+         <p>
+            Some plantations permitted regular Sunday school classes, some-<lb break="no"/>
+            times taught by kindly young daughters of the masters or by house<lb/>
+            slaves who could read. Other owners made attendance at the Sunday<lb/>
+            meetings compulsory. One slave complains that "after we had worked in<lb/>
+            de fields fun half-pas four ta half-pas six ever day in de week, we'd<lb/>
+            have ta git up at sebm o'clock on Sunday an listen to d preacher."<lb/>
+            At least one plantation is known to have used a full-time preacher, who<lb/>
+            wasn't too well-liked "cause he went roun dressed up in a high hat all<lb/>
+            de time, watchin us an meddlin and tellin de master everthing we done.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Beliefs, Superstitions, Cures</hi>. The constant efforts of the<lb/>
+            preachers to center the slaves' thoughts on the hereafter did not stop<lb/>
+            them from having an elaborate system of sgns, beliefs, and cures for<lb/>
+            their multitudinous earthly troubles. Many of their remedies for ill-<lb break="no"/>
+            ness, like ipecac, were no doubt efficacious, though their potency was<lb/>
+            usually given a supernatural rather than a natural explanation.<lb/>
+         </p>
+         <p>
+            A reported aid to escape was the mixture of "graveyard dust an<lb/>
+            lightwood splinters that my Uncle Bob an Uncle July smeared on their<lb/>
+         <pb n="24" facs="../images/ew_a1_342_001.jpg"/>
+            feet when they run away, an <name type="person">Bob Amos</name>' hounds coulden break the spell<lb/>
+            an ketch em." While they were hiding in the woods, cotton seed sprin-<lb break="no"/>
+            kled on the ground kept them from getting cold.<lb/>
+         </p>
+         <p>
+            Hogs, according to the belief of the slaves, could see the wind<lb/>
+            with ease and it was always blood-red to them. Early on every Christ-<lb break="no"/>
+            mas morning all animal were believed to talk fluently. The rind of<lb/>
+            a watermelon worn around the neck would eliminate all trouble for a<lb/>
+            child in teething, and if melons were not in season, a pearl button<lb/>
+            would accomplish the same result. A concoction of boiled wasps' nests<lb/>
+            and vinegar would aid the child who was slow in learning to walk. Occa-<lb break="no"/>
+            sional nursing at the breast by a child of two, three, or more years<lb/>
+            would save it from trouble with its teeth and bones. Sheep droppings<lb/>
+            made an excellent remedy, used either as a liniment or a medicine and<lb/>
+            the ipecac plant was a great favorite for any ailment of stomach or<lb/>
+            respiratory tract.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Slave Education</hi>. Education for slaves was almost entirely voca-<lb break="no"/>
+            tional that is, they were trained in order to increase their efficiency<lb/>
+            and value to their owner. On some plantations reading and writing was<lb/>
+            permited, and on at least one, <name type="person">Kingsley</name>'s, it was part of the intelli-<lb break="no"/>
+            gent slave's training. In <name type="place">Leon County</name> one master's daughter spent each<lb/>
+            Sunday teaching the slaves to read and write. On a plantation near<lb/>
+            <name type="place">Pensacola</name>, slaves caught attempting to write had their finger cut off.<lb/>
+         </p>
+         <pb n="25" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Eugenics to Order</hi>. The rapid breeding of slaves, to replace<lb/>
+            deaths and for purposes of sale and trade, was desired on most planta-<lb break="no"/>
+            tions. Thus there were women whose chief function was that of<lb/>
+            "breeder," and whose daily chores were confined to light work around<lb/>
+            the house. Their job was to have big healthy children, and they were<lb/>
+            mated with the most promising of the men. It was not unusual for the<lb/>
+            breeder to bear twelve of fourteen children during her active life.<lb/>
+         </p>
+         <p>
+            Some of the Negro women were mated with their white master or<lb/>
+            overseer; this resulted in the much sought-after mulattoes, used as<lb/>
+            house slaves. They were thought to be less strong than other Negroes,<lb/>
+            and care was used in working them.<lb/>
+         </p>
+         <p>
+            Another plantation job was that of "suckler." Her duty was to<lb/>
+            nurse the babies while their mothers were at work in the fields.<lb/>
+            Still others tended the young children. Many women did not leave their<lb/>
+            work in the fields until their labor pains started, and their babies<lb/>
+            were given to sucklers when only a few weeks old.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Treatment of <name type="place">Florida</name> Slaves</hi>. Conditions under which <name type="place">Florida</name> slaves<lb/>
+            lived varied greatly. From the kindnesses of the <name type="person">Kingsley</name>s, <name type="person">Sanderson</name>s,<lb/>
+            and <name type="person">Blount</name>s--all of whom were known to discharge brutal overseers--<lb/>
+            treatment went to other extreme as on the <name type="place"><name type="person">Lopez</name> plantation</name> near <name type="place">St.<lb/>
+            Augustine</name>, where ex-slaves say they were beaten for hours at a time by<lb/>
+            the master himself.<lb/>
+         </p>
+         <pb n="26" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            There seem to have been few really "hard" plantations in<lb/>
+            <name type="place">Florida</name>  than in other states where there were more and larger planta-<lb break="no"/>
+            tions. Some owners, like the <name type="person">Sandersons</name> and <name type="person">Reids</name> in <name type="place">Duval County</name> ,<lb/>
+            and the <name type="person">Hansons</name> in <name type="place">St. Johns</name> , carefully avoided separating families<lb/>
+            when buying or selling slaves; others almost never sold a slave, and<lb/>
+            refused to employ overseers who beat slaves. One slave remembers<lb/>
+            that he was never forced to do any strenuous work as long as he beat<lb/>
+            the slaves of the other masters at marbles; another was permitted to earn<lb/>
+            extra money by distilling moonshine. Several recall having been per-<lb break="no"/>
+            mitted to plant small gardens for themselves near their cabins.<lb/>
+         </p>
+         <p>
+            That some of these kind masters may have been known to the slaves<lb/>
+            is evident in the fact that there are several instances of Negroes who<lb/>
+            voluntarily entered slavery in order to secure the freedom of others.<lb/>
+            One such instance occurred on the <name type="place"><name type="person">Cone</name> plantation</name> in <name type="place">Columbia County</name> ;<lb/>
+            another three years period of voluntary slavery was entered nto in the<lb/>
+            vicinity of <name type="place">St. Augustine</name> . In this case the sum of $850 had to be paid<lb/>
+            in work. In <name type="place">Columbia County</name> , <name type="person">Cato Smith</name>, a free <name type="place">Connecticut</name>  Negro<lb/>
+            traveling in <name type="place">Florida</name>  out of curiosity, entered into a 7-year period<lb/>
+            of slavery in order to free the woman he wanted to marry. He was for-<lb break="no"/>
+            tunate and within four years he had his wife, as well as a small in-<lb break="no"/>
+            come from his labor.<lb/>
+         </p>
+         <p>
+            Slaves reacted differently to cruel masters; some were thoroughly<lb/>
+            broken in spirit, while others resorted to retaliation, not always<lb/>
+            open, but smetimes quite effective. One woman, tiring of the beat-<lb break="no"/>
+            ings given her by an overseer, hacked him to death with a hoe; anoth-<lb break="no"/>
+          <pb n="27" facs="../images/ew_a1_342_001.jpg"/>
+            or killed the Negro overseer on her master's plantation when he goaded<lb/>
+            her too far, then went to her master and bade him punish her as he saw<lb/>
+            fit. She says that he sent her to a cabin by herself and told her to<lb/>
+            "keep your mouth shut and only do whatever work your mistess has for<lb/>
+            you to do and behave yourself."<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Escapes</hi>. Due to the friendliness of the <name type="nation">Seminole</name> Indians and the<lb/>
+            relative inexperience of <name type="place">Florida</name> slave owners in practices of slavery,<lb/>
+            the number of Negroes who escaped or attempted escape was still high<lb/>
+            as late as <date when="1835">1835</date>-<date when="1840">40</date>; after that time many plantations employed the<lb/>
+            "buck-and-gag" treatment for runaway slaves, a punishment wherein the<lb/>
+            slave was doubled about a hoe, shovel or board, tied, and left to lie<lb/>
+            in the hot sun. The "bell-and-stocks" system, where an iron halter<lb/>
+            was placed around the waist and neck of the slave and a loud bell<lb/>
+            attached to it, was another popular method of punishment. And of<lb/>
+            course recalcitrant slaves could always be sold to other masters.<lb/>
+         </p>
+         <p> Some masters dealt summarily with slaves who attempted to escape;<lb/>
+            others regarded the desire to seek liberation as natural, and even<lb/>
+            forbade the patrollers to punish their escaped slaves before or upon<lb/>
+            returning them. One slave escaped three times as a boy, returned vol-<lb break="no"/>
+            untarily twice, and when his master went to war he remained on the<lb/>
+            plantation as the most dutiful servant of his mistress. Another<lb/>
+            escaped slave was captured, severely beaten, and buried alive; other<lb/>
+            slaves exhumed him, revived him, and sent him on his way again. Nor<lb/>
+            was he recaptured.<lb/>
+        </p>
+         <pb n="28" facs="../images/ew_a1_342_001.jpg"/>          <p>
+            The use of bloodhounds is recorded as early as <date when="1837">1837</date>, when several<lb/>
+            were imported from <name type="nation">Cuba</name> and loosened in the <name type="place">St. Johns River</name> area to<lb/>
+            regain a number of Indians who had escaped into the country occupied<lb/>
+            jointly by the <name type="nation">Seminole</name> and free Negroes. On that occasion the blood-<lb break="no"/>
+            hounds did not succeed in locating a single refugee.<lb/>
+         </p>
+         <p>
+            Some escapes were dramatic. One slave was pursued by bloodhounds,<lb/>
+            and when tracked to his hiding place in a creak, one by one the bodies<lb/>
+            of the hounds who entered the water after him came floating to the<lb/>
+            surface. He was not captured.<lb/>
+         </p>
+         <p>
+            Despite the fact that escapes were blamed on whatever free Negroes<lb/>
+            could be found in a section, many escapes were aided or engineered by<lb/>
+            white people who were either abolition-minded or desired slaves<lb/>
+            for purposes of traffic.<lb/>
+         </p>
+         <p>
+            <hi rend="underline">Slave Raiders.</hi> Slave raiders were other "fleas on the body" of the<lb/>
+            institution of slavery. <name type="person">Florida Clayton</name>, daughter of a white father and<lb/>
+            a free Negro mother, relates that a large covered wagon used to appear<lb/>
+            periodically in her section near <name type="place">Tallahassee</name>. The slave raiders would<lb/>
+            remain for several weeks, rounding up with hounds unfortunate escaped<lb/>
+            slaves, and often even kidnapping slaves from plantations. The cap-<lb break="no"/>
+            tured slaves were bound, imprisoned in the wagon, and eventually car-<lb break="no"/>
+            ried army. <name type="place">Florida</name> recalls the names of "Mister Nimrod" and "Mister<lb/>
+            Sheehee" as leaders of the enterprise. She believes the slaves were<lb/>
+            taken to <name type="place">Alabama</name> and sold.<lb/>
+         </p>
+         <pb n="29" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Petrollers</hi>. The petrollers were not usually slave raiders.<lb/>
+            Their duties were the return of slaves to their masters, and they<lb/>
+            were particularly active after the War between the States took many<lb/>
+            masters away from their plantations.<lb/>
+         </p>
+         <p>
+            The fear in which the petrollers were held was due to the fact<lb/>
+            that they administered beatings to captured slaves before returning<lb/>
+            them to their owners. This was the most dread factor the escaping<lb/>
+            slave had to take into consideration.<lb/>
+         </p>
+         <p>
+            Self-appointed patrollers were not uncommon: sometimes they were<lb/>
+            thrill-seeking young hoodlums who saw in the patrol idea an opportunity<lb/>
+            to catch and beat unfortunate Negro runaways, and at the same time re-<lb break="no"/>
+            ceive a considerable profit.<lb/>
+         </p>
+         <p>
+            <name type="person">"Parson" Andrews</name>, a Negro nearing his hundredth birthday and full<lb/>
+            of reminiscences about early days in <name type="place">Florida</name>, describes the attempt of<lb/>
+            the patrollers to round up a group of slaves and return them to their<lb/>
+            plantations. The slaves, he says, were on their way back to their<lb/>
+            cabins anyway, but had stopped at the home of another slave for a brief<lb/>
+            visit. As they started to leave several of the dread patrollers burst<lb/>
+            in. One of the slaves reached into a pile of hot ashes, and threw<lb/>
+            them into the faces of the patrollers. In the resulting confusion all<lb/>
+            the slaves escaped and returned to their cabins.<lb/>
+         </p>
+         <pb n="30" facs="../images/ew_a1_342_001.jpg"/>
+         <p>
+            <hi rend="underline">Abolitioists</hi>. In <name type="place">Leon County</name> near the <name type="place"><name type="person">Campbell</name> plantation</name>, there<lb/>
+            were several abolitionists who assisted many of the slaves of the vicin-<lb break="no"/>
+            ity to gain freedom. And in <name type="place">Jefferson</name> and <name type="place">Madison</name> counties, surrounding<lb/>
+            the <name type="person">Panell</name> and <name type="person">Lenton</name> plantations, there were poorer slave owners who<lb/>
+            assisted in the escape of slaves from the larger plantations, and then<lb/>
+            sold the escaped slaves to itinerant slave traders who came through the<lb/>
+            section around the first of the year.<lb/>
+         </p>
+         <p>
+            Among the abolitionaist the case of the <name type="person">Hanson</name> brothers in <name type="place">St.<lb/>
+               Augustine</name> is interesting. Both brothers came to <name type="place">Florida</name> during the<lb/>
+            early days of the <name type="nation">Seminole</name> War to fight Indians. One of them returned<lb/>
+            to his native <name type="place">New England</name>, thoroughly convinced of the iniquity of the<lb/>
+            institution of human bondage; the other remained in the state and estab-<lb break="no"/>
+            lished a large slave plantation about three miles southwest of <name type="place">St. Augu-<lb break="no"/>
+               stine</name>. Slaves escaped from one <name type="person">Hanson</name> to be aided in reaching <name type="nation">Canada</name><lb/>
+            by the other.<lb/>
+         </p>
+         <p>
+            (Add writeup on <name type="person">Jonathan Walker</name>, the white abolitionist who was<lb/>
+            branded on the hand at <name type="place">Pensacola</name> in <date when="1844">1844</date>.)<lb/>
+         </p>
+         <pb n="31" facs="../images/ew_a1_342_001.jpg"/>
+               <p>
+                  <hi rend="underline">Outstanding Slaves</hi>. 
+               </p>
+            </div>
+     </body>
+  </text>
+</TEI>
