@@ -59,7 +59,7 @@
          </head>
             <opener>
                <salute>
-            Dear <name type="person">Miss White</name> :<lb/>
+                  Dear <name type="person">Miss White</name> :<lb/>
                </salute>
             </opener>
          <p>
@@ -69,13 +69,10 @@
             will find you well.<lb/>
            </p>
          <p>
-            Test Change for Pull Request 5/24/16
-         </p>
-         <p>
             <hi rend="right"><name type="person">Miss White</name> I am very<lb/></hi>
             anxious to get back home. And<lb/>
             if you will get in touch with the<lb/>
-            Superintendant and see about<lb/>
+            Superintendant and see about<lb/>test
             getting me out I will pay you<lb/>
             <choice><orig>what ever</orig><reg>whatever</reg></choice> the cost is when I get<lb/>
             home. And I do wish that you see<lb/>
