@@ -18,9 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Your text goes here.</p>
-         <p>more text.</p>
-         <p>here is a test change.</p>
+         <p>altered copy</p>
       </body>
   </text>
 </TEI>
