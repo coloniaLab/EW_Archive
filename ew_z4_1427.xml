@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>White, Eartha M.M. -- Financial Affairs, Cancelled Checks Bank Statements -- The Citizens Bank of Jacksonville Advertisement </title>
+            <author>The Citizens Bank of Jacksonville</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Michael "Dean" Rice</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.
+            </p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder Z4, Item 1427</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>
+                        Document is a pamphlet advertising charge accounts. Document contains 4 pages at approxiamately 3 inches by 8 inches each. Document is print. Document is in good condition.
+                     </p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>
+              This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.
+           </p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+   <text>
+      <body>
+         <pb n="1" facs="../images/ew_z4_1427_001.jpg"/> 
+         <p>
+               <graphic url="fig1.png"/> 
+         </p>
+          <p>      
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">you are invited</hi></hi></hi><lb/>  
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">to open a </hi> </hi></hi><lb/>
+               <lb/> 
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">charge</hi></hi></hi></hi><lb/>
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">account</hi></hi></hi></hi><lb/>
+               <lb/>
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">that</hi></hi></hi></hi><lb/>
+             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">builds</hi></hi></hi></hi><lb/>
+             <hi rend="case(allcaps)"> <hi rend="xx-large"><hi rend="bold"><hi rend="center">dollars</hi></hi></hi></hi><lb/> 
+          </p>
+         <p>
+               <graphic url="fig2.png"/>
+         </p>
+         <pb n="2" facs="../images/ew_z4_1427_002.jpg"/>
+         <p> 
+            <hi rend="case(allcaps)">you are invited</hi> to open a<lb/>
+            charge account for one year with<lb/>
+            The Citizens Bank of Jacksonville, and<lb/>
+            accumulate a definite sum by <date when="1932-12-01">the first <lb/>
+            of December, 1932</date>.<lb/>
+         </p>   
+         <p>
+            In our Christmas Savings Club Depart<lb break="no"/>
+            ment we have found so many of our<lb/>
+            regular savers, from year to year prefer<lb/>
+            to open a Christmas Savings Account<lb/>
+            and have <hi rend="italic">us </hi>make the deposits for them<lb/>
+            each week, by charging their checking<lb/>
+            accounts.   In this way they are relieved<lb/>
+            of the trouble of coming to the bank<lb/>
+            every Monday.  They simply maintain<lb/>
+            their checking accounts and we transfer<lb/>
+            enough to the Christmas Savings Ac<lb break="no"/>
+            count to meet the weekly payments, and<lb/>
+            when they receive their bank statements<lb/>
+            and cancelled checks at the end of each<lb/>
+            month, the charge tickets show the<lb/>
+            amounts that have been deducted and<lb/>
+            deposited to their credit in the Christ<lb break="no"/>
+            mas Savings Account.<lb/>
+         </p>
+         <p>
+            This method is exceedingly simple and<lb/>
+            <hi rend="italic">Satisfactory.</hi><lb/>
+         </p>
+         <p>
+            For the year <date when="1931">1931</date>, we had almost one<lb/>
+            hundred charge accounts in our Christ<lb break="no"/>
+            mas Savings Club Department. The<lb/>
+            $5.00 per week plan seemed the most<lb/> 
+            popular. By this method a large num<lb break="no"/>
+            ber of our depositors saved $5.00 each<lb/>
+        </p>
+         <p>
+            <graphic url="fig3.png"/>
+        </p>
+        
+         <pb n="3" facs="../images/ew_z4_1427_003.jpg"/>
+         <p>
+            week for fifty weeks, giving them<lb/>  
+            $250.00 plus interest at the end of the<lb/> 
+            year. Though a great many were also<lb/>  
+            saving in larger as well as smaller<lb/>  
+            amounts.<lb/>  
+         </p> 
+         <p>
+            This money is returned to the depositor<lb/>  
+            on the <choice><abbr>1st</abbr><expan>first</expan></choice> day of December of each year,<lb/>  
+            and is used to meet Christmas expenses,<lb/>  
+            pay Taxes, Insurance premiums, Sum<lb break="no"/>
+            mer trips and in a few instances to make<lb/>
+            payments on mortgages.<lb/>
+         </p>  
+         <p>
+            It is an ideal way to accumulate funds<lb/>
+            during the year.  The temptation is<lb/>
+            always strong to spend from your earn<lb break="no"/>
+            ings deposited in the checking account<lb/>
+            but by having us transfer small amounts<lb/>
+            to the Christmas Club Account, you are<lb/>
+            enabled to lay aside a certain amount<lb/>
+            each week with the assurance of having<lb/>
+            a fixed sum to your credit by the first<lb/>
+            of December.   This is also an excellent<lb/>
+            way to make every one live within one's<lb/>
+            budget.<lb/>
+         </p>
+         <p>
+            Charge accounts can be opened from 25<lb/>
+            cents per week to $20.00 per week, and<lb/>
+            we extend to each of our depositors an<lb/>
+            invitation to avail themselves of this<lb/>
+            opportunity to save a fixed amount by<lb/>
+            next December <choice><abbr>1st</abbr><expan>first</expan></choice>.<lb/>
+         </p>
+         <p>
+            Accounts may be opened at Window<lb/>
+            22, <name type="person">Miss Y.E. Sears</name> in charge.<lb/>
+         </p> 
+         <p>
+            <graphic url="fig4.png"/>
+         </p>
+         <p>
+            <hi rend="case(allcaps)"><hi rend="large">a simple easy plan to catch those </hi></hi><lb/> 
+            <hi rend="case(allcaps)"><hi rend="large">elusive dollars and have them when </hi></hi><lb/> 
+               <hi rend="case(allcaps)"><hi rend="large">you need them.</hi></hi><lb/>
+         </p>
+         <note type="editorial">The text "a simple easy plan to catch those elusive dollars and have them when you need them." begins on the bottom of page 3 and runs across the bottom of page 4.</note>
+         <pb n="4" facs="../images/ew_z4_1427_004.jpg"/>
+         <p>
+            <graphic url="fig5.png"/>
+         </p>
+         <p>
+            <hi rend="case(allcaps)"><hi rend="large"><hi rend="center">the charge account</hi></hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="large"><hi rend="center">that builds dollars</hi></hi></hi><lb/>
+         </p>
+         <p>
+            <hi rend="case(allcaps)"><hi rend="x-large">a plan to pay</hi></hi><lb/>
+            <lb/>
+            <hi rend="large"><hi rend="indent">Taxes</hi></hi><lb/>
+            <lb/>
+            <hi rend="large"><hi rend="indent">Insurance Premiums</hi></hi><lb/>
+            <lb/>
+            <hi rend="large"><hi rend="indent">Vacation Expenses</hi></hi><lb/>
+            <lb/>
+            <hi rend="large"><hi rend="indent">And to provide funds to</hi></hi><lb/>
+            <hi rend="large"><hi rend="indent"><hi rend="indent">meet the demands at</hi> </hi></hi><lb/>
+            <hi rend="large"><hi rend="indent"><hi rend="indent">Christmas time.</hi></hi></hi><lb/>
+         </p>
+         <p>
+            <hi rend="case(allcaps)"><hi rend="x-large"><hi rend="bold"><hi rend="center">the citizens bank</hi></hi></hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">of jacksonville</hi></hi></hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="bold"><hi rend="center"><name type="place">broad street near bay</name></hi></hi></hi><lb/>
+         </p>
+         <p>
+            <hi rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">officers:</hi></hi></hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">chas. h. mann</name>,</hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center">chairman of the board</hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">c. h. chesnut</name>, president</hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">f. g. yerkes</name>, vice president</hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">wm. h. johnson</name>, cashier</hi></hi><lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">r. c. tooke</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></hi> <lb/>
+            <hi rend="case(allcaps)"><hi rend="center"><name type="person">miss y. e. sears</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></hi> <lb/>
+         </p>
+      </body>
+  </text>
+</TEI>
