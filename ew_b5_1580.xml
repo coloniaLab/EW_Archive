@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Letter, one single-sided page, White's address is written on the back, handwritten, cursive, pencil, visible lines where it has been folded many times, paper is brown/yellowed, and the page is whole; there is also the original envelope addressed to White.</p>
+                     <p>Letter, one single-sided page, White's address is written on the back, handwritten, cursive, pencil, visible lines where it has been folded many times, paper is brown from age, and the page is whole; there is also the original envelope addressed to White.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -63,16 +63,20 @@
                </salute>
             </opener>
          <p>
-            <hi rend="right">Only a few lines<lb/></hi>
+            <hi rend="right">
+               Only a few lines<lb/>
+            </hi>
             to let you hear from me. This<lb/>
             leaves me well hoping that this<lb/>
             will find you well.<lb/>
            </p>
          <p>
-            <hi rend="right"><name type="person">Miss White</name> I am very<lb/></hi>
+            <hi rend="right">
+               <name type="person">Miss White</name> I am very<lb/>
+            </hi>
             anxious to get back home. And<lb/>
             if you will get in touch with the<lb/>
-            Superintendant and see about<lb/>test
+            <choice><sic>Superintendant</sic><corr>Superintendent</corr></choice> and see about<lb/>
             getting me out I will pay you<lb/>
             <choice><orig>what ever</orig><reg>whatever</reg></choice> the cost is when I get<lb/>
             home. And I do wish that you see<lb/>
@@ -80,7 +84,7 @@
             of them until I get back.<lb/>
          </p>
          <p rend="indent">
-            This is the <choice><abbr>Supt.</abbr><expan>Superintendant</expan></choice> address.<lb/>
+            This is the <choice><abbr>Supt.</abbr><expan>Superintendent</expan></choice> address.<lb/>
             <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place" subtype="address"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/></name>
          </p>
          <p>
@@ -91,11 +95,14 @@
          </p>
          <closer>
             <salute>
-               <hi rend="center"><choice><sic>your</sic><corr>Your</corr></choice> sister in Christ.<lb/>
+               <hi rend="center">
+                  <choice><sic>your</sic><corr>Your</corr></choice> sister in Christ.<lb/>
                   </hi>
             </salute>
                   <signed>
+                     <hi rend="right">
                      <name type="person">Sarah Best</name>.<lb/>
+                     </hi>
                   </signed>
                </closer>
       </body>
