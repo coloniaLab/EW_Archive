@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title of your document goes here</title>
-            <author>Name of author of document goes here</author>
+            <title></title>
+            <author></author>
             <respStmt>
                <resp>Transcribed and encoded to XML by</resp>
                <name>Chad Germany</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>This document is a 10" x 8" program with numerous moisture stains, several 1cm tears on the top edge and one 1in tear on the bottom edge of the paper.</p>
+                     <p>This document is a 10" x 8" program for a speaking by Mrs. Booker T Washington, with numerous moisture stains, several 1cm tears on the top edge and one 1in tear on the bottom edge of the paper.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
