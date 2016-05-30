@@ -47,6 +47,7 @@
         <div>
         <head>
            <hi rend="right">
+              This is ANOTHER Test
               <name type="place" subtype="address">
                  <choice><abbr>Fla.</abbr><expan>Florida</expan></choice>
                  State
@@ -127,9 +128,6 @@
               <salute>sincerely yours,</salute>
               <signed>So-and-so</signed>
            </closer>
-           <postscript>
-              This is a P.S.
-           </postscript>
         </div>
       </body>
   </text>
