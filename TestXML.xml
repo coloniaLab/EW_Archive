@@ -47,7 +47,6 @@
         <div>
         <head>
            <hi rend="right">
-              This is ANOTHER Test
               <name type="place" subtype="address">
                  <choice><abbr>Fla.</abbr><expan>Florida</expan></choice>
                  State
@@ -83,6 +82,7 @@
         </p>
         <p>
         	THIS IS A TEST 5/30/2016
+        	THIS IS A MODIFICATION 
         </p>
         <p rend="indent">
            This is the <choice><abbr>Supt.</abbr><expan>Superintendant</expan></choice> address.<lb/>
