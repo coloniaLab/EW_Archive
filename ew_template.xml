@@ -43,7 +43,7 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_X_999_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+         <pb n="1" facs="../images/ew_X_999_001.jpg"/>
          <p>
             The first line of your transcription goes here.<lb/>
             The second line of your transcription goes here.<lb/>
