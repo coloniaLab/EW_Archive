@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>a full page (four sides) taken from a small book, half of one page is missing but doesn't seem to be missing any text. Approximately 5x9. Very good condition</p>
+                     <p>Date Written: June, 30, 1896. A full page (four sides) taken from a small book, half of one page is missing but doesn't seem to be missing any text. Approximately 5x9. Very good condition</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -63,7 +63,7 @@
             I sit with Pen in<lb/>
             hand to tell you the <lb/>
             Sad news of our friend <lb/>
-            <name type="person">James Jordan</name> he <choice><sic>pass</sic><corr>passed</corr></choice> <lb/>
+                 <name type="person">James Jordan</name><choice><orig/><reg>.</reg></choice> he <choice><sic>pass</sic><corr>passed</corr></choice> <lb/>
             away this afternoon<lb/>
                  after four 4- Clock<choice><orig/><reg>.</reg></choice> I did <lb/>
                 
@@ -81,8 +81,6 @@
             to tell you in this <lb/>
                  letter<choice><orig/><reg>.</reg></choice>         Your Friend<choice><orig/><reg>,</reg></choice>  <lb/>
             George <lb/>
-           
-         
          </p>
            </div>
       </body>
