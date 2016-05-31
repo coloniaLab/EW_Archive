@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title></title>
-            <author></author>
+            <title>A Lecture by Mrs. Booker T Washington</title>
+            <author>[Author Unknown]</author>
             <respStmt>
                <resp>Transcribed and encoded to XML by</resp>
                <name>Chad Germany</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>This document is a 10" x 8" program for a speaking by Mrs. Booker T Washington, with numerous moisture stains, several 1cm tears on the top edge and one 1in tear on the bottom edge of the paper.</p>
+                     <p>This document is a 1913 10" x 8" program for a speaking by Mrs. Booker T Washington, with numerous moisture stains, several 1cm tears on the top edge and one 1in tear on the bottom edge of the paper.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,7 +43,7 @@
   </teiHeader>
   <text>
      <body>
-        <pb n="1" facs="ew_q4_1164_001.jpg"/>
+        <pb n="1" facs="../images/ew_q4_1164_001.jpg"/>
         <cb n="1"/>
         <list rend="simple">
         <head rend="center">Officers</head>
