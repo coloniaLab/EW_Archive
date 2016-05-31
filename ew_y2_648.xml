@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title></title>
+            <title>Forming an N.A.A.C.P Anti-Lynching Committee</title>
             <author><name type="person">Mary B. Talbert</name></author>
             <respStmt>
                <resp>Encoded into XML and transcribed by</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>The document is a 2 page letter printed on a 10" x 8" sheet of paper. Type has faded in several places, both pages appear to have been folded and there is a 1/2 cm tear on the top edge of the first page.</p>
+                     <p>The document is a 2 page, 1922 letter, from Mary B. Talbert to Eartha M.M. White printed on a 10" x 8" sheet of paper. Type has faded in several places, both pages appear to have been folded and there is a 1/2 cm tear on the top edge of the first page.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,7 +43,7 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="ew_y2_648_001.jpg"/>
+         <pb n="1" facs="../images/ew_y2_648_001.jpg"/>
          <opener> Dear Friend and Co-worker :- </opener>
          <p rend="indent">At the <name type="place">Newark</name>Conference of the <orgName type="acronym"><choice><abbr>N.A.C.P.</abbr><expan>National Association For The Advancement Of Colored People</expan></choice></orgName>, re-<lb/>
          cently, <name role="politician"> Congressman </name><name type="person"> Dyer </name> said, that if one million colored<lb/>
@@ -80,13 +80,11 @@
          ceptance. This is to be the biggest campaign ever untaken by <lb/>
          colored women. Our object is to place money into the legistla-<lb/>
          tion now being carried on by the <orgName type="acronym"><choice><abbr> N.A.A.C.P.</abbr><expan> National Association For The Advancement Of Colored People </expan></choice></orgName>, to end lynching <lb/><pb/>
-         <pb n="2" facs="ew_y2_648_001.jpg"/> and mob violence. We want to get out our stationary with your<lb/>
+         <pb n="2" facs="../images/ew_y2_648_002.jpg"/> and mob violence. We want to get out our stationary with your<lb/>
          name as <name role="administrator">State Director.</name></p>
          <closer> Lose no time in answering this letter.<lb/>
          <salute> Yours for a <emph rend="allcaps"> United Sisterhood </emph>, </salute><lb/>
          <signed> <handShift medium="pen" script="cursive"></handShift> Mary Talbert </signed><lb/></closer>  
-         
-         
-      </body>
+     </body>
   </text>
 </TEI>
