@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Appeal for Release from Mental Institution</title>
+            <title>Letters of Appeal - Release from Mental Institution</title>
             <author>Sarah Best</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>4/10/1929; letter, one single-sided page, White's address is written on the back, handwritten, cursive, pencil, visible lines where it has been folded many times, paper is brown from age, and the page is whole; there is also the original envelope addressed to White.</p>
+                     <p>Handwritten letter of appeal from Sarah Best to Eartha M. M. White on 4/10/1929 concerning Best's release from Florida State Hospital, Chattahoochee.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -54,7 +54,7 @@
                <name type="place" subtype="city">
                   Chattahoochee, <choice><abbr>Fla</abbr><expan>Florida</expan></choice><lb/>
                </name>
-               <date when="1929-04-10">4 - 10 - 29</date><lb/>
+               <date when="1929-04-10"><choice><abbr>4 - 10 - 29</abbr><expan>April tenth, nineteen twenty-nine</expan></choice></date><lb/>
             </hi>
          </head>
             <opener>
