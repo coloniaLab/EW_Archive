@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>This document is a letter on a 10" x 8" piece of printing paper with one 1/2 centimeter tear on the top edge and two 1 inch tears on the left edge.</p>
+                     <p>This document is a 1922 letter from E.B. De Lany to Eartha M.M. White on a 10" x 8" piece of printing paper with one 1/2 centimeter tear on the top edge and two 1 inch tears on the left edge.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,7 +43,7 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="ew_w2_648_001.jpg"/>
+         <pb n="1" facs="../images/ew_w2_648_001.jpg"/>
          <head n="1" rend="left"> Chain of Mission Stations <lb/>
          <name type="place" subtype="country"> Liberia </name><lb/>
          West Coast <name type="place" subtype="continent"> Africa </name><lb/>
@@ -51,7 +51,7 @@
          <head n="2" rend="right"> Address: <lb/>
          <name type="place" subtype="address">7 Sussex Avenue<lb/>
          East Orange, <choice><abbr> N.J. <expan> New Jersey </expan></abbr></choice></name></head>
-         <figure><graphic url="ew_w2_648_002.jpg"></graphic></figure>
+         <figure><graphic url="../images/ew_w2_648_002.jpg"></graphic></figure>
 <note place="marginmiddle"><date when="1922-07-21"></date></note>
 <opener> Dear Friend: </opener>
 <p rend="indent"> Your name has been given to me as one especially able to ad- <lb/>
