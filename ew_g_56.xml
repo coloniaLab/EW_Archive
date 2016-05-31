@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"Mary McLeod Bethune Night"</title>
+            <author>The Mary McLeod Bethune Circle</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Bethany Jerger</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.</p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder G, Item 56</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p> Date: Monday April 23, 1945. Small booklet, program. Blue and cream pages, red UNF stamp on cover</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.</p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1" facs="../images/ew_g_56_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+        <div>
+         <p>
+            <name type="organization">The Mary McLeod Bethune Circle</name><lb/>
+            Presents<lb/>
+            <name type="event">"Mary McLeod Bethune Night"</name><lb/>
+           A Musical and Hymnal Festival<lb/>
+            (picture)
+            Monday <date when="1945-04-23">April 23, 1945</date>      At 8:00 P.M.<lb/>
+            <name type="place">Ebenezer Methodist Church</name> <lb/>
+            <name type="person">Rev. C.K. Brown, Pastor</name> <lb/>
+            (Address at bottom of page)
+            <note type="editorial">UNF in red ink stamped at bottom of page</note>
+         </p>
+        </div>
+            <pb n="2" facs="../images/ew_g_56_002.jpg"/>
+      <div>
+         <p>
+         
+            <name type="business">Afro-American<lb/>
+            Life Insurance Company</name> <lb/>
+            Forty-four Years of Helpful Service, <lb/>
+            Relief That's Dependable.<lb/>
+            
+            An ever present help when help is most needed, <lb/>
+            A Policy for Every Member of Every Family!<lb/>
+            A Child's Educational and Endowment Policy that guarantees<lb/>
+            The Welfare of your child
+         </p>
+      </div>
+         <div>
+         <p>
+           
+            
+         <table>
+               <row>
+           <cell> SICK AND ACCIDENT</cell>
+            <cell>INDUSTRIAL LIFE</cell>
+               </row>
+               <row>
+           <cell>WHOLE LIFE</cell>
+            <cell>ENDOWMENT</cell>
+               </row>
+               <row>
+        
+                  <cell><hi rend="center">GROUP AND FAMILY PROTECTION</hi></cell>
+               </row>
+            </table>
+         </p>
+         </div>
+        <div>
+           
+                  <head> Everybody says that the "Afro" Pays</head><lb/>
+     <p>
+            See An Afro Agent Today<lb/>
+            Tomorrow May be too Late<lb/>
+            
+            Officers:<lb/>
+            <name type="person">Dr. A.L. Lewis</name>, Chairman of Board of Directors &amp; Treasurer<lb/>
+            <name type="person">James H. Lewis</name>, .................................... President <lb/>
+            <name type="person">L. D. Ervin</name>, ...................... Vice President and Cashier<lb/>
+            <name type="person">W. H. Lee</name>, ....................... Vice President and Secretary<lb/>
+            <name type="person">J. L. Lewis</name> ............. Vice President and Assistant Treasurer <lb/>
+            
+            Home Office: 
+            <name type="place" subtype="address">101-105 East Union St.</name>     Phone 5-7813
+            Jacksonville 2, Florida
+        </p>
+        </div>
+            <pb n="3" facs="../images/ew_g_56_003.jpg"/>
+          <div>     
+         
+            
+             <head> Program</head><lb/>
+            <p>
+            Master of Ceremonies, <name type="person">Attorney D. W. Perkins</name><lb/>
+            
+            "Lift Every Voice and Sing" ........................ Congregation <lb/>
+            Invocation.................................... <name type="person">Rev. S. P. Rutlege</name> <lb/>
+            Selection............................... <name type="person_group">Ebenezer Methodist Choir</name> <lb/>
+            Selection............................ <name type="person_group">New Century Industrial School</name><lb/>
+            Solo...........................................<name type="person"> Mrs. Bernice Curvin</name><lb/>
+            Selections.................................... <name type="person_group">Bethel Baptist Choir</name><lb/>
+            Selections............................... <name type="person_group">Boys of the Parental Home</name><lb/>
+            Solo.......................................... <name type="person">Mrs. Ethel Davenport</name><lb/>
+            Selection................................. <name type="person_group">Mt. Ararat Baptist Choir</name><lb/>
+            Selection..................................Tuesday Evening Musical <lb/>
+            Selection................................... <name type="person_group">St. Paul A.M.E. Choir </name><lb/>
+            Selections..........................<name type="person_group"> Bethune-Cookman College Group </name><lb/>
+            Selection................................... <name type="person_group"> Mt. Zion A.M.E. Choir</name> <lb/>
+            Selection...............................<name type="person_group"> St. Stephens A.M.E. Choir </name> <lb/>
+            Solo...........................................<name type="person"> Miss Rossie French</name> <lb/>
+            Selection....................... <name type="person_group">Mt. Olive Primitive Baptist Choir</name> <lb/>
+            Selections..............................<name type="person_group"> Boylan-Haven Choral Group</name> <lb/>
+            Selection.................................. Tuesday Evening Musical<lb/>
+            Selection.................................. <name type="person_group">Mt. Sinai Baptist Choir</name> <lb/>
+            Selections ..................................<name type="person_group"> Mt. Olive A.M.E Choir </name><lb/>
+            Selection................................. <name type="person_group">Day Spring Baptist Choir</name> <lb/>
+            Solo................................... <name type="person">Mrs. Josephine Brown Limbric</name> <lb/>
+            Presentation of Speaker............................. <name type="person">Rev. C.K. Brown</name> <lb/>
+            Address.....................................<name type="person"> Dr. Mary McLeod Bethune</name> <lb/>
+            President Emeritus of <name type="place">Bethune-Cookman College</name>,<lb/>
+            President of the <name type="organization">National Council of Negro Women, Inc.</name> <lb/>
+            Selection......................................<name type="person_group">Mt. Zion A.M.E. Choir</name><lb/>
+            Announcements<lb/> 
+            Benediction <lb/> 
+               </p>
+          </div>
+            <pb n="4" facs="../images/ew_g_56_004.jpg"/>
+            <div>
+            <p>
+            Compliments of<lb/> 
+            <name type="business">Brad's Cafe</name><lb/> 
+            City-Wide Fame<lb/> 
+            <name type="place" subtype="address">623 W. ASHLEY STREET</name><lb/> 
+            Phone 3 9382  <name type="person">J.B. Bradley, Prop.</name> <lb/> 
+            </p>
+               <p>
+            Compliments of<lb/> 
+            <name type="business">Avenue Shoe Factory</name><lb/> 
+            Shoes For The Family<lb/> 
+            Repairing - Merchandise <lb/> 
+            <name type="place" subtype="address">1073 FLORIDA AVENUE</name><lb/> 
+            Phone 5-9628     <name type="person">O. Earl Mathis, Prop.</name><lb/> 
+               </p>
+               <p>
+            Trade And Save At The<lb/> 
+            <name type="business">Florida Cut-Rate Pharmacy</name><lb/> 
+            Jacksonville's only Co'ored Cut-Rate<lb/> 
+            Chain Drug Store <lb/> 
+            <name type="place" subtype="address">1230 FLORIDA AVE</name> Phone 5-2883<lb/> 
+            <name type="place" subtype="address">601 W. ASHLEY ST.</name> Phone 5-7253
+               </p>
+           <p>
+            Compliments of<lb/> 
+            <name type="business">Nickerson's Beauty School</name><lb/> 
+            Courses for Beginners and Teachers<lb/> 
+            <name type="place" subtype="address">1503 MYRTLE AVENUE</name><lb/> 
+            Phone 5-3459  <name type="person">Mrs. S. N. Starks, Prop.</name><lb/> 
+           </p>
+               <p>
+            Compliments of <lb/> 
+            <name type="business">Central Life Insurance Co.</name> <lb/> 
+            <name type="person">J.W. Sweat, District Mgr.</name> <lb/> 
+            <name type="place" subtype="address">417 1/2 BROAD ST. PHONE 3-1478</name><lb/> 
+               </p>
+            <p>
+            
+            Compliments of<lb/> 
+            <name type="business">Sowell Funeral Home</name><lb/> 
+            Ambulance Service    Lady Attendant<lb/> 
+            We Own Our Own Cemetery<lb/> 
+            <name type="person">Eddie Sowell</name>, Owner and Manager<lb/> 
+            <name type="place" subtype="address">1439 DAVIS STREET</name><lb/> 
+            PHONES 5-2204 and 3-1714 J<lb/> 
+            
+            Center Row:
+            
+            - Compliments of -<lb/> 
+            <name type="business">Tea Kettle Cafe 623</name> <lb/> 
+            "The Home of Better Foods"   <name type="place" subtype="address">508 BROAD STREET</name>  PHONE 5-9535 <lb/> 
+            <name type="person">Mrs. Johnnie Bandy</name>, Prop. <lb/> 
+            
+            Compliments of<lb/> 
+            <name type="business">Reid Tailors</name><lb/> 
+            Alterations Neatly Done         All Work Guaranteed<lb/> 
+            <name type="place" subtype="address">519 BROAD ()TREET</name>                        PHONE 5-4890<lb/> 
+            
+            Compliments of <lb/> 
+            <name type="business">Lee's Ocean "V" Inn</name><lb/> 
+            <name type="address">Route 2, American Beach, Fernandina, Fla.</name>           Jacksonville Phone 3-2084 W<lb/> 
+            <name type="person">Mr. and Mrs. Ralph A. Lee</name>, Owners and Proprietors<lb/> 
+            </p>
+            </div>
+            <pb n="5" facs="../images/ew_g_56_005.jpg"/>
+            
+            <div>
+            <head>Sponsors:</head>
+               <p>
+            
+            <table>
+               <row>
+            
+                  <cell><name type="person"> Mrs. G.W. Geter</name></cell>
+                  <cell><name type="person">Mrs. Marie V. Edwards</name></cell>
+                  <cell><name type="person">Mrs. Zera Culler Brown</name></cell>
+                  <cell><name type="person">Dr. and Mrs. A.L. Lewis</name></cell>
+                  <cell><name type="person">Mrs. Lola Robinson</name></cell>
+                  <cell><name type="person">Mrs. Bernice Vance Albert</name></cell>
+                  <cell><name type="person">Mr. and Mrs. Clifford R. Davis</name></cell>
+                  <cell><name type="person">Dr. and Mrs. R.A. Jackson</name></cell>
+                  <cell><name type="person">Mrs. Inez Evans</name></cell>
+                  <cell><name type="person">Mr. Alonza Davis</name></cell>
+                  <cell><name type="person">Mr. and Mrs. W.O. Lancaster</name></cell>
+                  <cell><name type="person">Mr. and Mrs. J.S. McLane</name></cell>
+                  <cell><name type="person">Mrs. Margaret Simms</name></cell>
+                  <cell><name type="person">Mr. and Mrs. Al C. Joyner</name></cell>
+                  <cell><name type="person">Dr. and Mrs. E.H. Washington</name></cell>
+                  <cell><name type="person">Attorney and Mrs. D.W. Perkins</name></cell>
+                  <cell><name type="person">Dr. J.E. Bush</name></cell>
+                  <cell><name type="person">Mrs. Jennie L. Harper</name></cell>
+                  <cell><name type="person">Mrs. Matthew Livingston</name></cell>
+                  <cell><name type="person">Mrs. Carrie Webster</name></cell>
+                  <cell><name type="person">Sgt. and Mrs. Willard Prince Smith</name></cell> 
+                  <cell><name type="person">Mr. and Mrs. Geo. W. Powell</name></cell>
+                  <cell><name type="person">Mr. and Mrs. Paul Keen</name></cell>
+                  <cell><name type="person"> Mrs. Birdie Dunbar</name></cell>
+                  <cell><name type="person"> Mr. and Mrs. L.D. Ervin</name></cell>
+                  <cell><name type="person"> Miss Olivia Walker</name></cell>
+                  <cell><name type="person"> Mr. G.B. Washington </name></cell>
+                  <cell><name type="person"> Miss M.L. Savelle </name></cell>
+                  <cell><name type="person">Dr. Herman A. Spearing</name></cell>
+                  <cell><name type="person">Mr. and Mrs. J.B. Jenkins</name></cell>
+                  <cell><name type="person">Mrs. Thelma Livingston Harris</name></cell>
+                  <cell><name type="person"> Mrs. Thelma Harris Livingston</name></cell>
+                  <cell><name type="person"> 1- Anonymous</name></cell>
+                  <cell><name type="person"> 2- Anonymous</name></cell>
+                  <cell><name type="person">3- Anonymous</name></cell>
+                  <cell><name type="person">Mrs. Stazzie Hudson</name></cell>
+                  <cell><name type="person"> Mr. F.W. Barnes</name></cell>
+                  <cell><name type="person"> Mrs. Alexander Kinner</name></cell>
+                  <cell><name type="person"> Rev. and Mrs. C.A. Weaver</name></cell>
+                  <cell><name type="person"> Mrs. Lula E. Courtney</name></cell>
+               </row>
+               <row>
+          
+                  <cell><name type="person">Mrs. Leona Styles Argrett</name></cell>
+                  <cell><name type="person">Attorney S.D. McGill</name></cell>
+                  <cell><name type="person">Attorney and Mrs. J. Leonard Lewis</name></cell>
+                  <cell><name type="person">Mr. N.W. Townsend</name></cell>   
+                  <cell><name type="person">Mr. E.L. Gant</name></cell>
+                  <cell><name type="person">Mr. S. Harper</name></cell>
+                  <cell><name type="person">Mrs. Julia Burwell</name></cell>
+                  <cell><name type="person">Mr. Fred Bellamy</name></cell>
+                  <cell><name type="person">Mr. and Mrs. Ralph A. Lee</name></cell>
+                  <cell><name type="person">Mrs. Idella Green Carter</name></cell>
+                  <cell><name type="person">Mr. and Mrs. J.B. Thompson, Sr.</name> </cell>
+                  <cell><name type="person">Mr. and Mrs. J.B. Thompson, Jr.</name> </cell>
+                  <cell><name type="person">Mr. J.H. Morris</name></cell>
+                  <cell><name type="person">Dr. Theodore Christopher</name></cell>
+                  <cell><name type="person">L.B. Childs, M.D.</name></cell> 
+                  <cell><name type="person">Mrs. Nora Hinds Davis</name></cell>
+                  <cell><name type="person">Mr. J.M. Baker</name></cell>
+                  <cell><name type="person">Mrs. C.F. Duncan</name></cell>
+                  <cell><name type="person">Mr. and Mrs. S.A. Hull</name></cell>
+                  <cell><name type="person">Mrs. Pauline Platt</name></cell>
+                  <cell><name type="person">Mrs. Laura Graham</name></cell>
+                  <cell><name type="person">Mrs. Hattie Jefferson</name></cell>
+                  <cell><name type="person">Mrs. Hattie Jefferson</name></cell>
+                  <cell><name type="person">Mrs. Kate Meeks</name></cell>
+                  <cell><name type="person">Miss Lucille Haygood</name></cell>
+                  <cell><name type="person">Mrs. Lilliam Dorsey</name></cell>
+                  <cell><name type="person">Mrs. Claudie Burris</name></cell>
+                  <cell><name type="person">Dr. and Mrs. C.A. Gibbs</name></cell>
+                  <cell><name type="person">Mr. W.A. Anderson</name></cell>
+                  <cell><name type="person">Mrs. Bennie Joyner</name></cell>
+                  <cell><name type="person">Mallie Meeks Hunter</name></cell>
+                  <cell><name type="person">Prof. W.M. Sweet</name></cell>
+                  <cell><name type="person">Bishop and Mrs. H.Y. Tookes</name></cell>
+                  <cell><name type="person">Rev. C.M. Shaw</name></cell>
+                  <cell><name type="person">Mrs. L.M. Harris</name></cell>
+                  <cell><name type="person">Mr. J.D. Brooks</name></cell>
+                  <cell><name type="person">Mrs. Edith Carter</name></cell>
+                  <cell><name type="person">Miss Georgia Hurd</name></cell>
+                  <cell><name type="person">Mrs. Brodie Smith</name> </cell>
+               </row>
+            </table>
+               </p>
+            <p>
+            Compliments of<lb/> 
+            <name type="business">Hollywood Music Store</name><lb/> 
+            <name type="person">J.E. Higdon, Prop</name><lb/> 
+            <name type="place" subtype="address">605 W. ASHLEY STREET</name>                 PHONE 3-9270<lb/> 
+            </p>
+            </div>
+         
+            <pb n="6" facs="../images/ew_g_56_006.jpg"/>
+         <div>
+            <p>
+              
+            Compliments of<lb/> 
+            Duck Inn<lb/> 
+            <name type="place" subtype="address">800 BROAD STREET</name>         <name type="person">ALONZA DAVIS</name>, PROP.<lb/> 
+            </p>
+            <p>
+            - Compliments of - <lb/> 
+            <name type="person">George W. Powell</name><lb/> 
+            Registered Real Estate Broker<lb/> 
+            <name type="place" subtype="address">410 BROAD STREET</name>                     PHONE 5-4241<lb/> 
+            </p>
+            <p>
+            Compliments of <lb/> 
+            <name type="business">Barber's Fruit Market</name><lb/> 
+            We Specialize In Fresh Fruits, Vegetable and Meats<lb/>
+            <name type="place" subtype="address">804 DAVIS STREET</name><lb/> 
+            </p>
+            <p>
+            Compliments of <lb/> 
+            <name type="person">C. Frederick Duncan, M.D.</name><lb/> 
+            Physician and Surgeon<lb/> 
+            TELEPHONE 5-6486
+            </p>
+            <p>
+            Compliments of<lb/> 
+            <name type="business">Bubber's Coffee Shop</name><lb/> 
+            <name type="person">Carl Ford</name>, Prop.            <name type="place" subtype="address">641 WEST ASHLEY STREET</name><lb/> 
+            </p>
+            <p>
+            Compliments of<lb/> 
+            <name type="person">L.D. Childs, M.D.</name><lb/> 
+            <name type="place" subtype="address">947 DAVIS STREET</name>             PHONE 5-7786<lb/> 
+            </p>
+            <p>
+            Compliments of<lb/> 
+            <name type="business">Lawton L. Pratt Funeral Home<lb/> 
+            Ambulance Service</name><lb/> 
+            <name type="place" subtype="address">525 W. BEAVER STREET</name>        PHONE 5-2241 <lb/> 
+            </p>
+         </div>
+            <pb n="7" facs="../images/ew_g_56_007.jpg"/>
+            <div>
+               <p>
+               
+            Real Estate<lb/> 
+            To Buy It Or Sell It, See Me<lb/> 
+            <name type="person">F. Henry Williams</name><lb/> 
+            Registered Real Estate Broker<lb/> 
+            Sales, Rentals, Mortgage Loans, Property Management<lb/> 
+            ROOMS 201-202         <name type="place" subtype="address">410 BROAD STREET</name>    PHONE 5-0065<lb/> 
+               </p>
+               <p>
+            <name type="company">The Colored Theatre Enterprises</name><lb/> 
+            PAY THEIR COMPLIMENTS TO A<lb/> 
+            Great Leader and Citizen<lb/> 
+            <name type="person">DR. MARY McLEOD BETHUNE</name><lb/> 
+            <name type="business">Strand and New Frolic Theatres</name><lb/> 
+            <name type="person">Gus and Mont Seligman</name>, Owner              John A. Sims Managing Director<lb/> 
+               </p>
+               <p>
+            Compliments of<lb/> 
+            Keene and Keene<lb/> 
+            PHILADELPHIA'S OUTSTANDING MORTICIANS<lb/> 
+            Courteous and Efficient Service<lb/> 
+            <name type="place" subtype="address">1939 W. DIAMOND STREET </name>                   PHILADELPHIA 21, PA. <lb/> 
+               </p>
+               <p>
+            Compliments of<lb/> 
+            G.A. Sutton Grocery and Market<lb/> 
+            <name type="place" subtype="address">21st STREET AND MYRTLE AVENUE</name>             PHONE 5-3461 <lb/> 
+               </p>
+               <p>
+            ACKNOWLEDGEMENT<lb/> 
+            We gratefully acknowledge and appreciate the courtesies and cooper-<lb/> 
+            ation of our friends and advertisers, and request your patronage of them.<lb/>
+            A double vote of thanks is due our artists of tonight! First, thanks<lb/> 
+               for a very inspirational, <choice><sic>intertainungl</sic><corr>entertaining</corr></choice>, and well executed performance.<lb/> 
+            Second, thanks for cheerfully and freely donating your time and talent<lb/> 
+            for this worthy affair.<lb/> 
+               </p>
+            <p>
+            <name type="person">Mrs. Ada M. Lee, President</name>. 
+            </p>
+            </div>
+            <pb n="8" facs="../images/ew_g_56_008.jpg"/>
+       <div>
+          <p>
+       
+            Greetings:<lb/>
+             
+          
+            To <name type="organization">The Mary McLeod<lb/> 
+            Bethune Circle</name> and <name type="person">Dr. Mary<lb/> 
+            McLeod Bethune</name><lb/> 
+            
+            From<lb/> 
+            
+            <name type="person">Dr. and Mrs. A.L. Lewis</name><lb/> 
+            
+            "BUY WAR BONDS"
+            
+            
+            Compliments of<lb/> 
+            <name type="person">Andrew J. Huff</name><lb/> 
+            Ambulance Service<lb/> 
+            <name type="place" subtype="address">1337 Davis Street</name>          Phone 5-4646<lb/> 
+            
+            
+          </p>
+       </div>
+   
+      </body>
+  </text>
+</TEI>

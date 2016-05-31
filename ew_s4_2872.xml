@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p> Full half page from a newspaper, high-quality scan on legal-size white paper.</p>
+                     <p> Date: 1933, before World's Fair. Full half page from a newspaper, high-quality scan on legal-size white paper.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -73,7 +73,7 @@
                      <cell><name type="place" subtype="city">ST. AUGUSTINE</name> ............. 32.05 </cell>
                      <cell><name type="place" subtype="city">DAYTONA BEACH</name> ............. 34.20 </cell>
                      <cell><name type="place" subtype="city">LAKELAND</name> .................. 38.05 </cell> 
-                    
+         
                  </row>
                   <row>
                      <cell><name type="place" subtype="city">MIAMI</name> ............. $43.15 </cell>
@@ -81,11 +81,12 @@
                      <cell><name type="place" subtype="city">ORLANDO</name> ............ 36.75<lb/></cell>
                      <cell><name type="place" subtype="city">TAMPA</name> .............. 38.05</cell>
                   </row>
+                  <row>
+                    <cell><hi rend="center"><name type="place" subtype="city">ST. PETERSBURG</name> ............. 39.25</hi> </cell>
+                  </row>
                </table>
                </p>
-               <p>
-                  <hi rend="center"><name type="place" subtype="city">ST. PETERSBURG</name> ............. 39.25</hi>
-               </p>
+   
             </div>
          <div>
             <p rend="indent">
