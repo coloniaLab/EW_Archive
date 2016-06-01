@@ -51,7 +51,9 @@
       <body>
          <pb n="1" facs="../images/ew_z4_1427_001.jpg"/> 
          <p>
-               <graphic url="fig1.png"/> 
+            <figure>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_001_001.jpg"></graphic>
+            </figure>
          </p>
           <p>      
              <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">you are invited</hi></hi></hi><lb/>  
@@ -65,7 +67,9 @@
              <hi rend="case(allcaps)"> <hi rend="xx-large"><hi rend="bold"><hi rend="center">dollars</hi></hi></hi></hi><lb/> 
           </p>
          <p>
-               <graphic url="fig2.png"/>
+            <figure>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_001_002.jpg"></graphic>
+            </figure>
          </p>
          <pb n="2" facs="../images/ew_z4_1427_002.jpg"/>
          <p> 
@@ -108,7 +112,9 @@
             ber of our depositors saved $5.00 each<lb/>
         </p>
          <p>
-            <graphic url="fig3.png"/>
+            <figure>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_002_003.jpg"></graphic>
+            </figure>
         </p>
         
          <pb n="3" facs="../images/ew_z4_1427_003.jpg"/>
@@ -154,7 +160,9 @@
             22, <name type="person">Miss Y.E. Sears</name> in charge.<lb/>
          </p> 
          <p>
-            <graphic url="fig4.png"/>
+            <figure>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_003_004.jpg"></graphic>
+            </figure>
          </p>
          <p>
             <hi rend="case(allcaps)"><hi rend="large">a simple easy plan to catch those </hi></hi><lb/> 
@@ -164,7 +172,9 @@
          <note type="editorial">The text "a simple easy plan to catch those elusive dollars and have them when you need them." begins on the bottom of page 3 and runs across the bottom of page 4.</note>
          <pb n="4" facs="../images/ew_z4_1427_004.jpg"/>
          <p>
-            <graphic url="fig5.png"/>
+            <figure>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_004_005.jpg"></graphic>
+            </figure>
          </p>
          <p>
             <hi rend="case(allcaps)"><hi rend="large"><hi rend="center">the charge account</hi></hi></hi><lb/>
