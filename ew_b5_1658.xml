@@ -7,11 +7,11 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Bethel Baptist Church</title>
+            <title>Letters of Appeal - Letter from Rev. Drake</title>
             <author>Name of author of document goes here</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
-               <name>Aislinn Kelly</name>
+               <name>Your name here</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -25,11 +25,11 @@
                   <settlement>Jacksonville</settlement>                  
                   <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
                   <collection>Eartha M.M. White Collection</collection>
-                  <idno>Folder B5, Item 1657</idno>                  
+                  <idno>Folder B5, Item 1658</idno>                  
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p>Handwritten letter on St. John Baptist Church printed stationary from Rev. J. W. Drake to Eartha M. M. White on 4/18/1929 regarding; rust damage from paperclips at top and bottom of paper.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,27 +43,21 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_b5_1657_001.jpg"/>
+         <pb n="1" facs="../images/ew_b5_1558_001.jpg"/>
          <head>
-            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
-            <date when="1930-04-13">April the <choice><abbr>4-13-1930</abbr><expan>April thirteenth, nineteen thirty</expan></choice></date><lb/>
+            <hi rend="right">
+               <date when="1929-04-18">April <choice><abbr>18, 1929</abbr><expan>eighteenth, nineteen twenty-nine</expan></choice></date><lb/>
+               </hi>
          </head>
+         <opener>
+            <name type="person"><choice><abbr>Sis. E.</abbr><expan>Sister Eartha</expan></choice> M. White.</name><lb/>
+            <name type="place" subtype="city">Jacksonville, <choice><abbr>Fla.</abbr><expan>Florida</expan></choice></name><lb/>
+            <salute>Dear Co-Worker;</salute><lb/>
+         </opener>
          <p>
-            <name type="person">Miss <choice><sic>Birth</sic><corr>Eartha</corr></choice> White</name> i am askin<lb/>
-            ya to please help me in my<lb/>
-            Rally <choice><sic>af</sic><corr>of</corr></choice> <choice><sic>seckan</sic><corr>second</corr></choice> Bethel<lb/>
-            Baptist L <choice><sic>Hhurch</sic><corr>Church</corr></choice><choice><orig/><reg>.</reg></choice> we are in<lb/>
-            a $100.00 dollar Rally<choice><orig/><reg>.</reg></choice> Each district ar to Report $2.50<lb/>
-            dollars<choice><orig/><reg>.</reg></choice> we are a few in number<lb/>
-            please vote for district no 2<lb/>
-            <!--this whole following section is rough-->
-            i Know ya dont mo one<lb/>
-            By my name we are all waring<lb/>
-            For the Land i am sending<lb/>
-            ya this card decan W<lb/>
-            James sister Gracie Armstrong<lb/>
-            <choice><sic>chearman</sic><corr>chairman</corr></choice><!--missing words, hard/impossible to read--><lb/>
-            <name type="place" subtype="address">1812 Prince St</name> please doe all ya can miss White<lb/>
+            The first line of your transcription goes here.<lb/>
+            The second line of your transcription goes here.<lb/>
+            Etc.<lb/>
          </p>
       </body>
   </text>
