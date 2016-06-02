@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indigent Hospital Patients Admitted for Treatment<lb/> in Duval County during Year Ending June 30th, 1915.</title>
+            <author>Name of author of document goes here</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Joseph Fricks</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.</p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder Y1, Item 2468</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.</p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1" facs="../images/ew_y1_2468_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+         <table rows="4" cols="4">
+            <row>               
+               <cell/>               
+               <cell>                  
+                  From City                  
+               </cell>               
+               <cell>                  
+                  From <choice><sic>Country</sic><corr>County</corr></choice>                  
+               </cell>               
+               <cell>                 
+                  From Outside County.                  
+               </cell>               
+            </row>            
+            <row>               
+               <cell>          
+                  At County Hospital:                  
+               </cell>               
+               <cell>                 
+                  452                  
+               </cell>               
+               <cell>              
+                  153                  
+               </cell>               
+               <cell>
+                  54                                 
+               </cell>               
+            </row>            
+            <row>               
+               <cell>
+                  At St. Luke's Hospital:                                    
+               </cell>               
+               <cell>
+                  645                                                    
+               </cell>               
+               <cell>
+                  52                                    
+               </cell>               
+               <cell>
+                  36                                    
+               </cell>               
+            </row>            
+            <row>               
+               <cell>                                   
+               </cell>               
+               <cell>                  
+                  1097                  
+               </cell>               
+               <cell>                  
+                  205                  
+               </cell>               
+               <cell>                  
+                  90                  
+               </cell>               
+            </row>
+         </table>
+         <table rows="3" cols="4">
+            <row>
+               <cell>
+                  Total number admitted:
+               </cell>
+               <cell>
+                  1392.
+               </cell>
+               <cell>
+                  From City
+               </cell>
+               <cell>
+                  79%
+               </cell>
+            </row>
+            <row>
+               <cell>                  
+               </cell>
+               <cell>                  
+               </cell>
+               <cell>
+                  From Country
+               </cell>
+               <cell>
+                  15%
+               </cell>
+            </row>
+            <row>
+               <cell>                  
+               </cell>
+               <cell>                  
+               </cell>
+               <cell>
+                  From Outside County
+               </cell>
+               <cell>
+                  6%
+               </cell>
+            </row>
+         </table>
+         <table rows="2" cols="2">
+            <row>
+               <cell>
+                  Percentage of County Realty Taxes Derived from City Realty
+               </cell>
+               <cell>
+                  80%
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  Percentage of County Realty Taxes Derived from Country Realty
+               </cell>
+               <cell>
+                  20%
+               </cell>
+            </row>
+         </table>
+         <table rows="2" cols="2">
+            <row>
+               <cell>
+                  Percentage of Number Admitted for Treatment at expense of City
+               </cell>
+               <cell>
+                  52%
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  Percentage of Number Admitted for Treatment at expense of County
+               </cell>
+               <cell>
+                  48%
+               </cell>
+            </row>
+         </table>
+         <p rend="indent">
+            During the year ending <date when="1915-06-30">June 30th, 1915</date>, <name type="place" subtype="county">Duval County</name>, and <name type="place" subtype="city">City<lb/>
+            of Jacksonville</name>, spent $46,393.58 for the care of indigent hospital<lb/>
+            patients. If all these cases could have been cared for at the County<lb/>
+            hospital, the total expense would have been not over $33,000.00, estima<lb break="no"/>
+            ting upon the basis of the expense incurred by the county for care of<lb/>
+            cases handled at the county hospital. In other words, if the county<lb/>
+            hospital facilities had been adequate to handle all the indigent hospit<lb break="no"/>
+            al cases that devolved upon the public during that period, a saving of<lb/>
+            at least $13,000.00 of the tax payers' money would have been effected.<lb/>
+         </p>
+         <p rend="indent">
+            Not only was this extra expenditure necessitated by lack of<lb/>
+            adequate facilities but the county authorities were prevented from ef<lb break="no"/>
+            fecting many economies that might have been possible with a better<lb/>
+            equipment, and from furnishing the public the emergency hospital service<lb/>
+            that is so urgently needed. In short, the enforced neglect of many de<lb break="no"/>
+            serving cases in this county that has resulted in probably preventable<lb/>
+            deaths because of the lack of adequate public hospital facilities, is<lb/>
+            so disgraceful a matter as to be no longer tolerated by a civilized<lb/>
+            community.<lb/>
+         </p>
+         <p rend="indent">
+            To carry a bond issue of $120,000.00 - the amount needed for<lb/>
+            the erection and equipment of an up-to-date hospital building of approx<lb break="no"/>
+            imately two hundred bed capacity - would necessitate the assessment of<lb/>
+            $10,000.00 annually or one-quarter mill on a dollar valuation, for in<lb break="no"/>
+            terest and sinking fund, an amount $3,000.00 less than the possible sav<lb break="no"/>
+            ing in the indigent hospital expenses incurred within the county last<lb/>
+            year. This possible saving would be augmented by the returns from in<lb break="no"/>
+            terest on the sinking fund accumulations and by the increased economies<lb/>
+            that could be effected if indigent cases, and pay cases at cost, could<lb/>
+            be handled in one properly designed and adequately equipped institution.<lb/>
+            The expense for caring for indigent patients at St. Luke's hospital last<lb/>
+            year was approximately, $2.00 per day's treatment; at the county hospit<lb break="no"/>
+            al, approximately, 80 cents per day's treatment.<lb/>
+         </p>
+         <p>
+            <label rend="case(allcaps)">City Commissioners</label>:<lb/>
+            <name type="person">T. I. Imeson</name>, Chairman,<lb/>
+            <name type="person">Ernest Anders</name>,<lb/>
+            <name type="person">Dr. M. B. Herlong</name>,<lb/>
+            <name type="person">Fred Valz</name>,<lb/>
+            <name type="person">St. Elmo W. Acosta</name>.<lb/>
+         </p>
+         <p>
+            <head>
+               Standing Committees - City Council
+            </head>
+            <head>
+               June 1932.
+            </head>
+            <label rend="case(allcaps)">
+               Laws and Rules:
+            </label>
+            <label>
+               <name type="person">John M. King</name>, <name type="person">M. D. Gooding</name>, <name type="person">John F. Hall</name>, <name type="person">T. G. Gordon</name>,<lb/>
+               <name type="person">Inman P. Crutchfield</name>.<lb/>
+            </label>
+            <label>
+               Budget: Julian E. Fant, Paul C. Marion, E. H. Price, Geo. W. Milam,<lb/>
+               W. C. Pilcher,<lb/>
+            </label>
+            <label>
+               Paving, Drainage, and Sewerage: V. T. Reynolds, L. B. McCullough,<lb/>
+               H. H. Burns, E. H. Price, W. F. Rogers,<lb/>
+            </label>
+            <label>
+               Officers and Police: W. H. Rowton, V. T. Reynolds, L. B. McCullough,<lb/>
+               J. R. Permenter, H. H. Burns,<lb/>
+            </label>
+            <label>
+               Public Service: M. D. Gooding, W. H. Rowton, V. T. Reynolds,<lb/>
+               W. F. Rogers, R. T. Gray,<lb/>
+            </label>
+            <label>
+               Taxation: Inman P. Crutchfield, J. Y. Marr, V. T. Reynolds, W. H. Rowton,<lb/>
+               R. T. Gray,<lb/>
+            </label>
+            <label>
+               Fire: L. B. McCullough, W. H. Rowton, H. H. Burns, M. E. Hunt, R. T. Gray,<lb/>
+            </label>
+            <label>
+               Parks and Boulevards: Paul C. Marion, T. S. Adams, E. H. Price,<lb/>
+               Fuller Warren, M. D. Selph,<lb/>
+            </label>
+            <label>
+               Docks and Terminals: J. R. Permenter, W. F. Rogers, J. Y. Marr,<lb/>
+               L. B. McCullough, Geo. W. Milam,<lb/>
+            </label>
+            <label>
+               Claims: M. E. Hunt, Fuller Warren, Inman P. Crutchfield, W. C. Pilcher,<lb/>
+               Paul C. Marion,<lb/>
+            </label>
+            <label>
+               New Territory: T. G. Gordon, M. D. Gooding, Geo. G. Robinson,<lb/>
+               M. D. Selph, M. E. Hunt,<lb/>
+            </label>
+            <label>
+               Advertising: Geo. W. Milam, Inman P. Crutchfield, W. F. Rogers,<lb/>
+               John F. Hall, Fuller Warren<lb/>
+            </label>
+            <label>
+               Health and Sanitation: T. S. Adams, R. T. Gray, E. H. Price,<lb/>
+               J. R. Permenter, V. T. Reynolds,<lb/>
+            </label>
+            <label>
+               Finance: John F. Hall, T. S. Adams, Paul C. Marion, M. D. Gooding,<lb/>
+               Geo. W. Milam<lb/>
+            </label>
+            <label>
+               Bridges and Viaducts: R. T. Gray, J. R. Permenter, Geo. G. Robinson,<lb/>
+               Fuller Warren, M. D. Selph,<lb/>
+            </label>
+            <label>
+               Printing: John F. Hall, T. S. Adams, M. E. Hunt, J. Y. Marr,<lb/>
+               W. C. Pilcher,<lb/>
+            </label>
+            <label>
+               Commerce and Manufacturing: W. C. Pilcher, Gordon, W. H. Rowton,<lb/>
+               H. H. Burns, L. B. McCullough,<lb/>
+            </label>
+            <label>
+               City Property: T. G. Gordon, Paul C. Marion, Geo. G. Robinson,<lb/>
+               John F. Hall, T. S. Adams,<lb/>
+            </label>
+            <label>
+               Water and Electricity: H. H. Burns, W. C. Pilcher, M. D. Gooding,<lb/>
+               Julian E. Fant, John F. Hall,<lb/>
+            </label>
+            <label>
+               Prison Farm: Geo. G. Robinson, M. D. Selph, M. E. Hunt, J. Y. Marr,<lb/>
+               Inman P. Crutchfield,<lb/>
+            </label>
+            <label>
+               Appraisal: W. F. Rogers, Julian E. Fant, T. G. Gordon, John F. Hall,<lb/>
+               Geo. W. Milam,<lb/>
+            </label>
+            <label>
+               Statistics: M. D. Selph, R. T. Gray, Geo. G. Robinson, Fuller Warren,<lb/>
+               J. R. Permenter,<lb/>
+            </label>
+            <label>
+               Motor Transportation: Fuller Warren, Julian E. Fant, J. Y. Marr,<lb/>
+               Paul C. Marion, M. E. Hunt,<lb/>
+            </label>
+            <label>
+               Aviation: J. Y. Marr, Julian E. Fant, T. G. Gordon, T. S. Adams,<lb/>
+               M. D. Selph,<lb/>
+            </label>
+            <label>
+               Auditing: E. H. Price, L. B. McCullough, H. H. Burns, W. H. Rowton,<lb/>
+               W. F. Rogers,<lb/>
+            </label>
+            <label>
+               License: R. T. Gray, John F. Hall, Geo. W. Milam, Julian E. Fant,<lb/>
+               J. R. Permenter,<lb/>
+            </label>
+            <label>
+               Insurance Investigation: Geo. W. Milam, W. F. Rogers, Julian E. Fant.<lb/>
+            </label>
+         </p>
+      </body>
+  </text>
+</TEI>
