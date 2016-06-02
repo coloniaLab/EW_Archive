@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal</title>
+            <title>Letters of Appeal - Employment Appeal from Former School Teacher</title>
             <author>G. R. Swain</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Letter, one single-sided page, lined paper, undamaged, brown from age, handwritten, cursive, pen, ink. </p>
+                     <p>Handwritten letter from Mrs. G. R. Swain to Eartha M. M. White on 4/11/1929 regarding a position doing office work or plain sewing.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -46,7 +46,7 @@
          <pb n="1" facs="../images/ew_b5_1648_001.jpg"/>
          <head>
             <hi rend="right">
-               <name type="place" subtype="city">City,</name> <note type="editorial"><mentioned>City</mentioned>refers to Jacksonville because the following address corresponds to one in Jacksonville</note><name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
+               <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned>refers to Jacksonville because the following address corresponds to one in Jacksonville</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
             <date when="1929-04-11">April, 11, 1929</date><lb/>
             </hi>
          </head>

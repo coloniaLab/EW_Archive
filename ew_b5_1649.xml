@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal</title>
+            <title>Letters of Appeal - Funds for St. John's School House</title>
             <author>J. A. Wynn and S. G. Bellamy</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>One singled-sided page, paper is damaged on mostly the upper right corner and where it was folded, holes in paper, print, typewritten, date handwritten in dark blue ink, brown paper from age.</p>
+                     <p>Typed letter, with handwritten additions, from J. A. Wynn and S. G. Bellamy to Eartha M. M. White on 1/29/1925 requesting donations for a school house at St. John.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -50,7 +50,7 @@
                Marianna,
                <supplied reason="hole in paper" cert="high"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice></supplied>
             </name>,
-            <handShift script="cursive" medium="dark-blue-ink"/><date when="1925-01-09">Jan <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied><handShift script="print" medium="black-ink"/>, 192<handShift script="cursive" medium="dark-blue-ink"/>5</date><lb/>
+               <handShift script="cursive" medium="dark-blue-ink"/><date when="1925-01-09"><choice><abbr>Jan</abbr><expan>January</expan></choice> <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied><handShift script="print" medium="black-ink"/>, <choice><abbr>192<handShift script="cursive" medium="dark-blue-ink"/>5</abbr><expan>nineteen twenty-five</expan></choice></date><lb/>
             </hi>
          </head>
          <p rend="indent">

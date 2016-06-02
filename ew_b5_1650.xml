@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal</title>
+            <title>Letters of Appeal - Letter on Behalf of James Benley</title>
             <author>Mrs. F. V. Williams</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Two singled-sided pages, lined paper, handwritten, pencil, A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p>Handwritten letter from Mrs. F. V. Williams to Eartha M. M. White on 7/9/1934, written on behalf of James Benley, who requests a reply from White.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -48,8 +48,8 @@
         <head>
            <hi rend="right">
            <name type="place" subtype="address">341 North King St</name><lb/>
-           <name type="place" subtype="city">Hampton, VA.</name>
-           <date when="1934-07-09">July 9. 1934.</date>
+              <name type="place" subtype="city"><choice><sic>Hompton</sic><corr>Hampton</corr></choice>, VA.</name>
+              <date when="1934-07-09">July <choice><abbr>9. 1934.</abbr><expan>ninth, nineteen thirty-four.</expan></choice></date>
            </hi>
         </head>
         <opener>
@@ -60,8 +60,8 @@
            to let you know that<lb/>
            <name type="person">James Benley</name> is <choice><sic>sill</sic><corr>still</corr></choice> alive<lb/>
            and is Visiting the <name type="place">com<lb break="no"/>
-              munity <choice><sic>sinter</sic><corr>center</corr></choice></name>
-           <!--large section of text that I did not transcribe yet-->
+              munity <choice><sic>sinter</sic><corr>center</corr></choice></name> Which I<lb/>
+           
            from you as he is expecting<lb/>
            to draw a <choice><sic>pincion</sic><corr>pension</corr></choice> 
            soon.<lb/>
