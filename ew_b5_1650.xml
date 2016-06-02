@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Letter on Behalf of James Benley</title>
+            <title>Letters of Appeal - Letter on Behalf of James Renley</title>
             <author>Mrs. F. V. Williams</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from Mrs. F. V. Williams to Eartha M. M. White on 7/9/1934, written on behalf of James Benley, who requests a reply from White.</p>
+                     <p>Handwritten letter from Mrs. F. V. Williams to Eartha M. M. White on 7/9/1934, written on behalf of James Renley, who requests a reply from White.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -58,10 +58,17 @@
         <p rend="indent">
            I am only Writing<lb/>
            to let you know that<lb/>
-           <name type="person">James Benley</name> is <choice><sic>sill</sic><corr>still</corr></choice> alive<lb/>
+           <name type="person">James Renley</name> is <choice><sic>sill</sic><corr>still</corr></choice> alive<lb/>
            and is Visiting the <name type="place">com<lb break="no"/>
               munity <choice><sic>sinter</sic><corr>center</corr></choice></name> Which I<lb/>
-           
+           am the <add type="no_caret">house</add> keeper<choice><orig/><reg>.</reg></choice> miss White<choice><orig/><reg>,</reg></choice><lb/>
+           he is so anxious to <choice><sic>here</sic><corr>hear</corr></choice><lb/>
+           from you. he is yet in<lb/>
+           the soldiers home.<lb/>
+           he <choice><sic>come</sic><corr>comes</corr></choice> over every day<lb/>
+           and play the piano he<lb/>
+           is very <choice><sic>fawn</sic><corr>fond</corr></choice> <note type="editorial">I am not entirely sure that is says <mentioned>fawn</mentioned>, but that is what it looks like.</note> of playing<lb/> 
+           music. Anxious to <choice><sic>here</sic><corr>hear</corr></choice><lb/>
            from you as he is expecting<lb/>
            to draw a <choice><sic>pincion</sic><corr>pension</corr></choice> 
            soon.<lb/>
@@ -73,21 +80,22 @@
         <pb n="2" facs="../images/ew_b5_1650_002.jpg"/>
         <div>
         <head>
-           <hi rend="center">(2)</hi>
+           <hi rend="center">/2)</hi>
         </head>
            <p>
               so he ask me to<lb/>
               Write <supplied reason="omitted-in-original">to</supplied> see if I could<lb/>
-              get one. <choice><sic>he</sic><corr>He</corr></choice> say that<lb/>
+              get one. he say that<lb/>
               you was so nice to<lb/>
               him that he really<lb/>
-              want to <choice><sic>here</sic><corr>hear</corr></choice> 
-              from you<choice><orig/><reg>.</reg></choice>
+              Want to <choice><sic>here</sic><corr>hear</corr></choice> 
+              from you<choice><orig/><reg>.</reg></choice> From<lb/>
            </p>
            <closer>
-              From<lb/>
               <signed>
+                 <hi rend="right">
                  <name type="person">Mrs F. V. Williams</name>
+                 </hi>
               </signed>
               <choice><sic>hope</sic><corr>Hope</corr></choice> to <choice><sic>here</sic><corr>hear</corr></choice> from you soon<lb/>
            </closer>
