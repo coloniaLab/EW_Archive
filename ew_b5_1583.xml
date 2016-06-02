@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from H. B. Perkins to Eartha M. M. White regarding employment. It is accompanied by an envelope hand-addressed to Miss. White, but without a street address.</p>
+                     <p>Handwritten letter from H. B. Perkins to Eartha M. M. White on 8/19/1930 regarding employment. It is accompanied by an envelope hand-addressed to Miss. White, but without a street address.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -45,7 +45,7 @@
       <body>
          <pb n="1" facs="../images/ew_b5_1583_001.jpg"/>
          <head>
-            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19">8 19. 1930.</date>
+            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August nineteenth, nineteen thirty</expan></choice></date>
          </head>
          <p>
             Dear miss <name type="person">White</name><choice><orig/><reg>.</reg></choice> <choice><sic>i</sic><corr>I</corr></choice> was over<lb/>
