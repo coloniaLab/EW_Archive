@@ -45,16 +45,16 @@
       <body>
          <pb n="1" facs="../images/ew_b5_1660_001.jpg"/>
          <head>
-            Jacksonville Fla
-            Feb 16-30
+            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
+            <date when="1930-02-16"><choice><abbr>Feb 16-30</abbr><expan>February sixteenth, nineteen thirty</expan></choice></date><lb/>
          </head>
          <opener>
             <salute>
-               Dear <name type="person">Miss White</name>,__
+               Dear <name type="person">Miss White</name>,__<lb/>
             </salute>
          </opener>
          <p>
-            This comes to notify you of Turanza Decasta<lb/>
+            This comes to notify you of <name type="person">Torenza Decosta</name><lb/>
             death, he died at the County Hospital, I am<lb/>
             asking you for any<lb/>
             donation you may<lb/>
@@ -65,7 +65,7 @@
          </p>
          <closer>
             <name type="person">Mrs Deborah Daniels</name><lb/>
-            <name type="place" subtype="address">#1177 Bredier St</name>
+            <name type="place" subtype="address">#1177 <choice><sic>Bredier</sic><corr>Bridier</corr></choice> <choice><abbr>St</abbr><expan>Street</expan></choice></name>
             P.S. <name type="person">L. L. Pratt</name> has body.
          </closer>
       </body>
