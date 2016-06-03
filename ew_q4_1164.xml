@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>A Lecture by Mrs. Booker T Washington</title>
-            <author>[Author Unknown]</author>
+            <author><name type="organization">City Federation of Colored Women's Clubs</name></author>
             <respStmt>
                <resp>Transcribed and encoded to XML by</resp>
                <name>Chad Germany</name>
@@ -43,8 +43,48 @@
   </teiHeader>
   <text>
      <body>
-        <pb n="1" facs="../images/ew_q4_1164_001.jpg"/>
+        <pb n="1" facs="../images/ew_q4_1164_002.jpg"/>
         <cb n="1"/>
+        <list rend="simple">
+        <head rend="center"><hi rend="bold">Presidents of Clubs</hi></head>
+        <item><name type="person"> Mrs. W.H. Alexander</name>, <name type="organization"> M.E.C. Smith Woman's Club</name><lb/></item>
+        <item>"<name type="person"> T.G. Freeland</name>, <name type="organization"> Mother's Club</name></item><lb/>
+        <item>"<name type="person"> M.E. Gray</name>, <name type="organization"> <choice><sic> Brooklin</sic><corr> Brooklyn</corr></choice> Brooklin Improvement Club </name></item>
+        <item>"<name type="person"> Bell Anderson</name>, <name type="organization"> The L.C. Fleming Club </name></item><lb/>
+        <item>"<name type="person"> I.A. Ross</name>, <name type="organization"> The Phillis Wheatley Club</name></item><lb/>
+        <item>"<name type="person"> A.C. Corner</name>, <name type="organization"> Mary Church Terrell Club</name></item><lb/>
+        <item>"<name type="person"> G.N. Barnes</name>, <name type="organization"> The Orphanage Home Association</name></item><lb/>
+        <item>"<name type="person"> H.L. Dennis</name>, <name type="organization"> The Ladies Auxiliary of the Academy</name></item><lb/>
+        <item>"<name type="person"> Flora Wright</name>, <name type="organization"> Pulpit Aid of Bethel Church</name></item><lb/>
+        <item><name type="person"> Miss Eartha M.M. White</name>, <name type="organization"> The Old Folks Home Association</name></item><lb/>
+        <item>"<name type="person"> S.A. Blocker</name>, <name type="organization"> Improvement Club</name></item><lb/>
+        </list>
+        <p><hi rend="center">________________________</hi></p>
+        <list rend="simple">
+        <head rend="center"><hi rend="bold"> Lady Attendents</hi></head><lb/>
+        <item><hi rend="left"><name type="person"> Mrs. Pollie Duval</name></hi></item><item><hi rend="right"><name type="person"> Mrs. Alice Anderson</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> J.W. Agaer</name></hi></item><item><hi rend="right"> "<name type="person"> Phillip Elmore</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> M.A. Bennett</name></hi></item><item><hi rend="right"> "<name type="person"> Julia Keith</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> Williams</name></hi></item><item><hi rend="right"> "<name type="person"> Thompson</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> G.L. Thomas</name></hi></item><item><hi rend="right"> "<name type="person"> Brockington</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> H.E. Lee</name></hi></item><item><hi rend="right"> "<name type="person"> Silvia Bram</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> E. Lena Williams</name></hi></item><item><hi rend="right"> "<name type="person"> Clara Fulford</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> Thomas McIntosh</name></hi></item><item><hi rend="right"> "<name type="person"> R.E. Blair</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> Maria Anderson</name></hi></item><item><hi rend="right"> "<name type="person"> Mrs. Rodgers</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> Amia White</name></hi></item><item><hi rend="right"> "<name type="person"> L.L. Powell</name></hi></item><lb/>
+        <item>"<hi rend="left"><name type="person"> C.S. Tucker</name></hi></item><item><hi rend="right"> "<name type="person"> Oneil</name></hi></item><lb/>
+        </list>
+        <cb n="2"/>
+        <p><name type="organization">City Federation of<lb/>
+              Colored Women's Clubs<lb/></name>
+              at <name type="organization">Bethel Baptist Institutional Church<lb/>
+              </name> Monday evening, <date when="1913-03-24"> March 24 <hi rend="superscript">th</hi></date><lb/>
+              nineteen hundred and thirteen<lb/>
+              <name type="person"> Mrs. Booker T. Washington</name>,<lb/>
+              Honored Guest<lb/>
+              Eight O'Clock<lb/></p>
+        <pb n="2" facs="../images/ew_q4_1164_001.jpg"/>
+        <cb n="2"/>
         <list rend="simple">
         <head rend="center">Officers</head>
            <item><name type="person"> Mrs. J.W. Ward </name>,<name role="administrator"> President </name></item>
@@ -55,7 +95,7 @@
            <item><name type="person"> Mrs. G.N. Griffin </name>,<name role="administrator"> Corresponding Secretary </name></item>
            <item><name type="person"> Miss Eartha M.M. White </name>,<name role="administrator"> City Organizer </name></item>
        </list>
-       <cb n="2"/>
+       <cb n="3"/>
        <list rend="simple">
        <head n="2" rend="center"><hi rend="bold"><hi rend="underline"></hi></hi> Programme </head>
        <item rend="left"> Singing </item><item rend="right"><name type="person"> Mrs. Henrietta Dennis </name></item><lb/>
