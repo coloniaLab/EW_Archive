@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - </title>
+            <title>Letters of Appeal - <!--NEEDS TITLE--></title>
             <author>Name of author of document goes here</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p>Typed letter with handwritten signature from Edward Jones to Eartha M. M. White on 4/11/1967 regarding <!--needs further info-->; letter accompanied by envelope.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -44,9 +44,31 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b5_1656_001.jpg"/>
+         <head>
+            <hi rend="center">
+            <name type="place" subtype="address"><name type="place">Florida Agricultural and Mechanical University</name><lb/>
+            <name type="place" subtype="city">Tallahassee, Florida</name><lb/>
+               32307</name><lb/>
+               <hi rend="case(allcaps)"><name type="person">George W. Gore. Jr.</name>, President</hi><lb/>
+               <date when="1967-04-11">April 11, 1967</date><lb/>
+            </hi>
+            <hi rend="left">
+               <hi rend="case(allcaps)">Vocational-Technical Institute</hi><lb/>
+            </hi>
+         </head>
+         <head>
+            <name type="person">Miss <choice><sic>Ertha</sic><corr>Eartha</corr></choice> White</name><lb/>
+            <name type="place" subtype="address">1449 Milnor Avenue</name><lb/>
+            <name type="place" subtype="city">Jacksonville, Florida</name>
+         </head>
+         <opener>
+         <salute>
+            Dear <name type="person">Miss White</name>:<lb/>
+         </salute>
+         </opener>
          <p>
-            The first line of your transcription goes here.<lb/>
-            The second line of your transcription goes here.<lb/>
+            I am soliciting your help<lb/>
+            <lb/>
             Etc.<lb/>
          </p>
       </body>
