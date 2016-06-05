@@ -65,6 +65,9 @@
             <choice><sic>chearman</sic><corr>chairman</corr></choice><!--missing words, hard/impossible to read--><lb/>
             <name type="place" subtype="address">1812 Prince St</name> please doe all ya can miss White<lb/>
          </p>
+         <p>
+            District <choice><abbr>no 2</abbr><expan>number two</expan></choice> <name type="person">W James</name><note type="editorial">this is written on the <mentioned>card</mentioned>that accompanies the letter.</note><lb/>
+         </p>
       </body>
   </text>
 </TEI>
