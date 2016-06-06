@@ -7,11 +7,11 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Debt</title>
-            <author>H. B. Barnes</author>
+            <title>Letters of Appeal - Request for Reply</title>
+            <author>S. Boston</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
-               <name>Aislinn Kelly</name>
+               <name>Your name here</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -25,11 +25,11 @@
                   <settlement>Jacksonville</settlement>                  
                   <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
                   <collection>Eartha M.M. White Collection</collection>
-                  <idno>Folder B5, Item 1654</idno>                  
+                  <idno>Folder B5, Item 1655</idno>                  
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from H. B. Barnes to Eartha M. M. White on 9/28/1900 regarding debt.</p>
+                     <p>Handwritten letter from S. Boston to Eartha M. M. White on 1/13/1930 requesting a response from White.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,29 +43,26 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_b5_1654_001.jpg"/>
+         <pb n="1" facs="../images/ew_b5_1655_001.jpg"/>
          <head>
-            <date when="1900-09-28"><choice><abbr>9-28-19<hi rend="superscript">00</hi></abbr><expan>September twenty-eighth, nineteen hundred</expan></choice></date><lb/>
-            <!--don't know what this line says, check in special collections--><lb/>
-            <name type="person">Miss E. M. White</name><lb/>
+            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
+            <date when="1930-01-13"><choice><abbr>Feb, 13, 1930</abbr><expan>February thirteenth, nineteen thirty</expan></choice></date><lb/>
+            Mrs E. M. White.<lb/>
          </head>
          <p>
-            <hi rend="left">Dear madam</hi><lb/>
-            I <supplied reason="messy handwriting" cert="medium">sent</supplied> <del type="strikeout">I</del> my debt Write you<lb/>
-            to Let you that I Truble<lb/>
-            my House got 
-            Last <choice><sic>Nitght</sic><corr>Night</corr></choice> Last <supplied reason="text-smudged" cert="low">alh</supplied><lb/>
-            that we what<lb/>
-            you give Mrs barnes<lb/>
-            Please take this <choice><sic>Pertision</sic><corr>Petition</corr></choice>
-            and Do what you can<lb/>
-            for me<lb/>
+            <hi rend="left">Dear. Just a few</hi><lb/>
+            lines to let you hear from me<lb/>
+            a <choice><sic>strangle</sic><corr>stranger</corr></choice> to you, but not to<lb/>
+            god, is my <choice><sic>belive</sic><corr>belief</corr></choice><choice><orig/><reg>.</reg></choice> Mrs White w<lb break="no"/>
+            hen <!--unclear word--> my way I wish to<lb/>
+            <supplied reason="messy handwriting" cert="medium">Have</supplied> a talk please with you<lb/>
+            disable to come to you. Will<lb/>
+            you please let me <choice><sic>Here</sic><corr>hear</corr></choice><lb/>
+            from you. Oblige<lb/>
+            Spucile<lb/>
+            Boston<lb/>
+            <name type="place" subtype="address">1506 Haines <choice><abbr>ave.</abbr><expan>Avenue</expan></choice></name><lb/>
          </p>
-         <closer>
-            <signed>
-               <name type="person">H. b. barnes</name>
-            </signed>
-         </closer>
       </body>
   </text>
 </TEI>

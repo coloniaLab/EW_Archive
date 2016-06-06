@@ -44,6 +44,7 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b5_1558_001.jpg"/>
+         <div>
          <head>
             <hi rend="right">
                <date when="1929-04-18">April <choice><abbr>18, 1929</abbr><expan>eighteenth, nineteen twenty-nine</expan></choice></date><lb/>
@@ -55,10 +56,44 @@
             <salute>Dear Co-Worker;</salute><lb/>
          </opener>
          <p>
-            The first line of your transcription goes here.<lb/>
-            The second line of your transcription goes here.<lb/>
-            Etc.<lb/>
+            you will see from this, that<lb/>
+            I am, on the job. to put <name type="place"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice></name> over the<lb/>
+            top. I am greatly depending upon<lb/>
+            you sisters to help me raise our<lb/>
+            <supplied reason="messy handwriting" cert="medium">quota</supplied> of fifty thousand quarters<lb/>
+            for <name type="place">Florida</name>.
          </p>
+         <p>
+            I mailed our letters yesterday<lb/>
+            and to-day to every Moderator in<lb/>
+            the state.<lb/>
+         </p>
+         <p>
+            I am, now writing you sisters<lb/>
+            to <supplied reason="messy handwriting" cert="medium">begin</supplied> to line up your district<lb/>
+            see your pastor, and plan your Meetings.
+         </p>
+         <p>
+            If any time I can be of any<lb/>
+            service to you write or wire me,<lb/>
+            as I have <choice><sic>planed</sic><corr>planned</corr></choice> to visit every association<lb/>
+         </p>
+         </div>
+         <pb n="2" facs="../images/ew_b5_1558_002.jpg"/>
+         <div>
+            <p>
+            in the state. I have a few 20¢ <supplied reason="messy handwriting" cert="medium">gleaners</supplied><lb/>
+               if you can use a few write me.<lb/>
+               May I be favored with an<lb/>
+               early reply from you.<lb/>
+            </p>
+            <closer>
+               <salute>
+               yours for redemption of Africa<lb/>
+               </salute>
+               <signed><name type="person">J. W. Drake</name>.</signed>
+            </closer>
+         </div>
       </body>
   </text>
 </TEI>
