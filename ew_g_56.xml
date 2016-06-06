@@ -54,7 +54,7 @@
             Monday <date when="1945-04-23">April 23, 1945</date>      At 8:00 P.M.<lb/>
             <name type="place">Ebenezer Methodist Church</name> <lb/>
             <name type="person">Rev. C.K. Brown, Pastor</name> <lb/>
-            (Address at bottom of page)
+            <name type="place" subtype="address">CLIPPER PRESS, 1150 EVERGREEN AVE.</name> 
             <note type="editorial">UNF in red ink stamped at bottom of page</note>
          </p>
         </div>
@@ -398,7 +398,7 @@
             We gratefully acknowledge and appreciate the courtesies and cooper-<lb/> 
             ation of our friends and advertisers, and request your patronage of them.<lb/>
             A double vote of thanks is due our artists of tonight! First, thanks<lb/> 
-               for a very inspirational, <choice><sic>intertainungl</sic><corr>entertaining</corr></choice>, and well executed performance.<lb/> 
+               for a very inspirational, <choice><sic>intertaining</sic><corr>entertaining</corr></choice>, and well executed performance.<lb/> 
             Second, thanks for cheerfully and freely donating your time and talent<lb/> 
             for this worthy affair.<lb/> 
                </p>
