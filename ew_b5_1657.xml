@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Bethel Baptist Church</title>
-            <author>Name of author of document goes here</author>
+            <title>Letters of Appeal - Bethel Baptist Church Rally</title>
+            <author>Author Unknown</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Aislinn Kelly</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p>Handwritten letter from an Unknown/Unclear Author to Eartha M. M. White on 4/13/1930 regarding a rally for the second Bethel Baptist Church.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -51,19 +51,20 @@
          <p>
             <name type="person">Miss <choice><sic>Birth</sic><corr>Eartha</corr></choice> White</name> i am askin<lb/>
             ya to please help me in my<lb/>
-            Rally <choice><sic>af</sic><corr>of</corr></choice> <choice><sic>seckan</sic><corr>second</corr></choice> Bethel<lb/>
-            Baptist L <choice><sic>Hhurch</sic><corr>Church</corr></choice><choice><orig/><reg>.</reg></choice> we are in<lb/>
-            a $100.00 dollar Rally<choice><orig/><reg>.</reg></choice> Each district ar to Report $2.50<lb/>
-            dollars<choice><orig/><reg>.</reg></choice> we are a few in number<lb/>
-            please vote for district no 2<lb/>
-            <!--this whole following section is rough-->
-            i Know ya dont mo one<lb/>
-            By my name we are all waring<lb/>
+            Rally of <choice><sic>seckan</sic><corr>second</corr></choice> Bethel<lb/>
+            Baptist L <choice><sic>Hhurch</sic><corr>Church</corr></choice><choice><orig/><reg>.</reg></choice> We are in<lb/>
+            a $100.00 Dollar Rally<choice><orig/><reg>.</reg></choice> Each<lb/>
+            District <choice><sic>ar</sic><corr>are</corr></choice> to Report $2.50<lb/>
+            Dollars<choice><orig/><reg>.</reg></choice> we are a few in number<lb/>
+            please vote for District <choice><abbr>no 2</abbr><expan>number two</expan></choice><lb/>
+            i Know ya dont <choice><sic>no</sic><corr>know</corr></choice> me<lb/>
+            By my name we <choice><sic>ar</sic><corr>are</corr></choice> all <supplied reason="handwriting unclear" cert="low">waring</supplied><lb/>
             For the Land i am sending<lb/>
-            ya this card decan W<lb/>
+            ya this card Decan W<lb/>
             James sister Gracie Armstrong<lb/>
-            <choice><sic>chearman</sic><corr>chairman</corr></choice><!--missing words, hard/impossible to read--><lb/>
-            <name type="place" subtype="address">1812 Prince St</name> please doe all ya can miss White<lb/>
+            <choice><sic>chearman</sic><corr>chairman</corr></choice> R <supplied reason="handwriting unclear" cert="low">q O'Beacly</supplied> pastor<lb/>
+            <name type="place" subtype="address">1812 Prince <choice><abbr>st</abbr><expan>Street</expan></choice></name> please doe all<lb/>
+            ya can miss White<lb/>
          </p>
          <p>
             District <choice><abbr>no 2</abbr><expan>number two</expan></choice> <name type="person">W James</name><note type="editorial">this is written on the <mentioned>card</mentioned>that accompanies the letter.</note><lb/>
