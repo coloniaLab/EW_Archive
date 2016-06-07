@@ -75,7 +75,7 @@
          <p> 
             <emph rend="case(allcaps)">you are invited</emph> to open a<lb/>
             charge account for one year with<lb/>
-            <name type="company">The Citizens Bank of Jacksonville</name>, and<lb/>
+            <name type="company">The Citizens Bank of <name type="place" subtype="city">Jacksonville</name></name>, and<lb/>
             accumulate a definite sum by <date when="1932-12-01">the first<lb/>
             of December, 1932</date>.<lb/>
          </p>   
