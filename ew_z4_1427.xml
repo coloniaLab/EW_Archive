@@ -32,7 +32,7 @@
                <physDesc>
                   <objectDesc>
                      <p>
-                        Document is a pamphlet advertising charge accounts. Document contains 4 pages at approxiamately 3 inches by 8 inches each. Document is print. Document is in good condition.
+                        Document is a pamphlet advertising savings accounts. Document contains 4 pages at approxiamately 3 inches by 8 inches each. Document is print. Document is in good condition.
                      </p>
                   </objectDesc>
                </physDesc>
@@ -52,31 +52,31 @@
          <pb n="1" facs="../images/ew_z4_1427_001.jpg"/> 
          <p>
             <figure>
-               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_001_001.jpg"></graphic>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><lb/><graphic url="../images/ew_z4_1427_001_001.jpg"></graphic>
             </figure>
          </p>
           <p>      
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">you are invited</hi></hi></hi><lb/>  
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">to open a </hi> </hi></hi><lb/>
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">you are invited</hi></hi></emph><lb/>  
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="center">to open a </hi> </hi></emph><lb/>
                <lb/> 
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">charge</hi></hi></hi></hi><lb/>
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">account</hi></hi></hi></hi><lb/>
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">charge</hi></hi></hi></emph><lb/>
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">account</hi></hi></hi></emph><lb/>
                <lb/>
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">that</hi></hi></hi></hi><lb/>
-             <hi rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">builds</hi></hi></hi></hi><lb/>
-             <hi rend="case(allcaps)"> <hi rend="xx-large"><hi rend="bold"><hi rend="center">dollars</hi></hi></hi></hi><lb/> 
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">that</hi></hi></hi></emph><lb/>
+             <emph rend="case(allcaps)"><hi rend="xx-large"><hi rend="bold"><hi rend="center">builds</hi></hi></hi></emph><lb/>
+             <emph rend="case(allcaps)"> <hi rend="xx-large"><hi rend="bold"><hi rend="center">dollars</hi></hi></hi></emph><lb/> 
           </p>
          <p>
             <figure>
-               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_001_002.jpg"></graphic>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><lb/><graphic url="../images/ew_z4_1427_001_002.jpg"></graphic>
             </figure>
          </p>
          <pb n="2" facs="../images/ew_z4_1427_002.jpg"/>
          <p> 
-            <hi rend="case(allcaps)">you are invited</hi> to open a<lb/>
+            <emph rend="case(allcaps)">you are invited</emph> to open a<lb/>
             charge account for one year with<lb/>
-            The Citizens Bank of Jacksonville, and<lb/>
-            accumulate a definite sum by <date when="1932-12-01">the first <lb/>
+            <name type="company">The Citizens Bank of Jacksonville</name>, and<lb/>
+            accumulate a definite sum by <date when="1932-12-01">the first<lb/>
             of December, 1932</date>.<lb/>
          </p>   
          <p>
@@ -113,7 +113,7 @@
         </p>
          <p>
             <figure>
-               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_002_001.jpg"></graphic>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><lb/><graphic url="../images/ew_z4_1427_002_001.jpg"></graphic>
             </figure>
         </p>
         
@@ -161,52 +161,55 @@
          </p> 
          <p>
             <figure>
-               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_003_001.jpg"></graphic>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><lb/><graphic url="../images/ew_z4_1427_003_001.jpg"></graphic>
             </figure>
          </p>
          <p>
-            <hi rend="case(allcaps)"><hi rend="large">a simple easy plan to catch those </hi></hi><lb/> 
-            <hi rend="case(allcaps)"><hi rend="large">elusive dollars and have them when </hi></hi><lb/> 
-               <hi rend="case(allcaps)"><hi rend="large">you need them.</hi></hi><lb/>
+            <emph rend="case(allcaps)"><hi rend="large">a simple easy plan to catch those </hi></emph><lb/> 
+            <emph rend="case(allcaps)"><hi rend="large">elusive dollars and have them when </hi></emph><lb/> 
+               <emph rend="case(allcaps)"><hi rend="large">you need them.</hi></emph><lb/>
          </p>
          <note type="editorial">The text "a simple easy plan to catch those elusive dollars and have them when you need them." begins on the bottom of page 3 and runs across the bottom of page 4.</note>
          <pb n="4" facs="../images/ew_z4_1427_004.jpg"/>
          <p>
             <figure>
-               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><graphic url="../images/ew_z4_1427_004_001.jpg"></graphic>
+               <desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder Z4, Item 1427.</desc><lb/><graphic url="../images/ew_z4_1427_004_001.jpg"></graphic>
             </figure>
          </p>
          <p>
-            <hi rend="case(allcaps)"><hi rend="large"><hi rend="center">the charge account</hi></hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="large"><hi rend="center">that builds dollars</hi></hi></hi><lb/>
+            <emph rend="case(allcaps)"><hi rend="large"><hi rend="center">the charge account</hi></hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="large"><hi rend="center">that builds dollars</hi></hi></emph><lb/>
          </p>
          <p>
-            <hi rend="case(allcaps)"><hi rend="x-large">a plan to pay</hi></hi><lb/>
+            <list rend="simple"><head><emph rend="case(allcaps)"><hi rend="x-large">a plan to pay</hi></emph></head><lb/>
             <lb/>
-            <hi rend="large"><hi rend="indent">Taxes</hi></hi><lb/>
+               <item><hi rend="large">Taxes</hi></item><lb/>
             <lb/>
-            <hi rend="large"><hi rend="indent">Insurance Premiums</hi></hi><lb/>
+               <item><hi rend="large">Insurance Premiums</hi></item><lb/>
             <lb/>
-            <hi rend="large"><hi rend="indent">Vacation Expenses</hi></hi><lb/>
+               <item><hi rend="large">Vacation Expenses</hi></item><lb/>
             <lb/>
-            <hi rend="large"><hi rend="indent">And to provide funds to</hi></hi><lb/>
-            <hi rend="large"><hi rend="indent"><hi rend="indent">meet the demands at</hi> </hi></hi><lb/>
-            <hi rend="large"><hi rend="indent"><hi rend="indent">Christmas time.</hi></hi></hi><lb/>
+               <item><hi rend="large">And to provide funds to</hi><lb/>
+            <lb/>
+               <hi rend="large">meet the demands at</hi><lb/>
+            <lb/>
+               <hi rend="large">Christmas time.</hi></item><lb/>
+            </list>
          </p>
          <p>
-            <hi rend="case(allcaps)"><hi rend="x-large"><hi rend="bold"><hi rend="center">the citizens bank</hi></hi></hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">of jacksonville</hi></hi></hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="bold"><hi rend="center"><name type="place">broad street near bay</name></hi></hi></hi><lb/>
+            <emph rend="case(allcaps)"><hi rend="x-large"><hi rend="bold"><hi rend="center">the citizens bank</hi></hi></hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">of jacksonville</hi></hi></hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="bold"><hi rend="center"><name type="place" subtype="address">broad street near bay</name></hi></hi></emph><lb/>
          </p>
          <p>
-            <hi rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">officers:</hi></hi></hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">chas. h. mann</name>,</hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center">chairman of the board</hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">c. h. chesnut</name>, president</hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">f. g. yerkes</name>, vice president</hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">wm. h. johnson</name>, cashier</hi></hi><lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">r. c. tooke</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></hi> <lb/>
-            <hi rend="case(allcaps)"><hi rend="center"><name type="person">miss y. e. sears</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></hi> <lb/>
+            <emph rend="case(allcaps)"><hi rend="large"><hi rend="bold"><hi rend="center">officers:</hi></hi></hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">chas. h. mann</name>,</hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center">chairman of the board</hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">c. h. chesnut</name>, president</hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">f. g. yerkes</name>, vice president</hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">wm. h. johnson</name>, cashier</hi></emph><lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">r. c. tooke</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></emph> <lb/>
+            <emph rend="case(allcaps)"><hi rend="center"><name type="person">miss y. e. sears</name>, <choice><abbr>asst.</abbr><expan>assistant</expan></choice> cashier</hi></emph> <lb/>
          </p>
       </body>
   </text>
