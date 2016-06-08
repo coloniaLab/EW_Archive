@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Release from Mental Institution</title>
+            <title>Letters of Appeal - Florida State Hospital</title>
             <author>Sarah Best</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -48,9 +48,7 @@
             <hi rend="right">
                <name type="place" subtype="address">
                <choice><abbr>Fla.</abbr><expan>Florida</expan></choice>
-               State
-               <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/>
-               </name>
+               State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/><location><geo>30.706597 -84.841442</geo></location></name>
                <name type="place" subtype="city">
                   Chattahoochee, <choice><abbr>Fla</abbr><expan>Florida</expan></choice><lb/>
                </name>
@@ -85,7 +83,7 @@
          </p>
          <p rend="indent">
             This is the <choice><abbr>Supt.</abbr><expan>Superintendent</expan></choice> address.<lb/>
-            <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place" subtype="address"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/></name>
+            <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place" subtype="address"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/><location><geo>30.706597 -84.841442</geo></location></name>
          </p>
          <p>
             <choice><sic>you</sic><corr>You</corr></choice> must not believe anything<lb/>
