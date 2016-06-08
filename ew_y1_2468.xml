@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Indigent Hospital Patients Admitted for Treatment<lb/> in Duval County during Year Ending June 30th, 1915.</title>
-            <author>Name of author of document goes here</author>
+            <author>Author Unknown</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Joseph Fricks</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p>This is a paper document which consists of two pages of printed text. The first page contains both a statistical table of indigent hospital patients admitted in Duval County and a letter expressing concern with the county’s inadequate hospital funds. The second page contains a list of standing committee members for the Jacksonville city council, as well as the administrative functions assigned to these individuals.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -212,131 +212,212 @@
             year was approximately, $2.00 per day's treatment; at the county hospit<lb break="no"/>
             al, approximately, 80 cents per day's treatment.<lb/>
          </p>
-         <p>
-            <label rend="case(allcaps)">City Commissioners</label>:<lb/>
-            <name type="person">T. I. Imeson</name>, Chairman,<lb/>
-            <name type="person">Ernest Anders</name>,<lb/>
-            <name type="person">Dr. M. B. Herlong</name>,<lb/>
-            <name type="person">Fred Valz</name>,<lb/>
-            <name type="person">St. Elmo W. Acosta</name>.<lb/>
+         <pb n="2" facs="../images/ew_y1_2468_002.jpg"/>
+         <div>
+         <p><!-- let's re-do this using <list> (see http://unfdhi.org/editing-the-eartha-m-m-white-archives-element-reference/)-->
+            <list rend="simple">
+               <head rend="case(allcaps)">City Commissioners:</head>
+               <item><name type="person">T. I. Imeson</name>, Chairman,</item>
+               <item><name type="person">Ernest Anders</name>,</item>
+               <item><name type="person">Dr. M. B. Herlong</name>,</item>
+               <item><name type="person">Fred Valz</name>,</item>
+               <item><name type="person">St. Elmo W. Acosta</name>.</item>
+            </list>
          </p>
-         <p>
-            <head>
-               Standing Committees - City Council
-            </head>
-            <head>
+         </div>
+         <div>         
+            <head rend="center">
+               Standing Committees - City Council<lb/>            
                June 1932.
-            </head>
-            <label rend="case(allcaps)">
-               Laws and Rules:
-            </label>
-            <label>
-               <name type="person">John M. King</name>, <name type="person">M. D. Gooding</name>, <name type="person">John F. Hall</name>, <name type="person">T. G. Gordon</name>,<lb/>
+            </head>            
+               <p><!-- let's re-do the rest of this list to look like these first two entries. (each category in a <p> of its own -->
+                  <label rend="case(allcaps)">
+                     Laws and Rules:
+                  </label><lb/>
+                  <name type="person">John M. King</name>, <name type="person">M. D. Gooding</name>, <name type="person">John F. Hall</name>, <name type="person">T. G. Hordon</name>,<lb/>
+                  <name type="person">Inman P. Crutchfield</name>.<lb/>                  
+               </p>
+               <p>
+                  <label rend="case(allcaps)">
+                     Budget:
+                  </label>
+                  <name type="person">Julian E. Fant</name>, <name type="person">Paul C. Marion</name>, <name type="person">E. H. Price</name>, <name type="person">Geo. W. Milam</name>,<lb/>
+                  <name type="person">W. C. Pilcher</name>,<lb/>                     
+               </p>
+               <p>
+                  <label rend="case(allcaps)">
+                     Paving, Drainage, and Sewerage:
+                  </label>
+                  <name type="person">V. T. Reynolds</name>, <name type="person">L. B. McCullough</name>,<lb/>
+                  <name type="person">H. H. Burns</name>, <name type="person">E. H. Price</name>, <name type="person">W. F. Rogers</name>,<lb/>
+               </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Officers and Police:
+               </label>
+               <name type="person">W. H. Rowton</name>, <name type="person">V. T. Reynolds</name>, <name type="person">L. B. McCullough</name>,<lb/>
+               <name type="person">J. R. Permenter</name>, <name type="person">H. H. Burns</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Public Service:
+               </label>
+               <name type="person">M. D. Gooding</name>, <name type="person">W. H. Rowton</name>, <name type="person">V. T. Reynolds</name>,<lb/>
+               <name type="person">W. F. Rogers</name>, <name type="person">R. T. Gray</name>,<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Taxation:
+               </label>
+               <name type="person">Inman P. Crutchfield</name>, <name type="person">J. Y. Marr</name>, <name type="person">V. T. Reynolds</name>, <name type="person">W. H. Rowton</name>,<lb/>
+               <name type="person">R. T. Gray</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Fire:
+               </label>
+               <name type="person">L. B. McCullough</name>, <name type="person">W. H. Rowton</name>, <name type="person">H. H. Burns</name>, <name type="person">M. E. Hunt</name>, <name type="person">R. T. Gray</name><lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Parks and Boulevards:
+               </label>
+               <name type="person">Paul C. Marion</name>, <name type="person">T. S. Adams</name>, <name type="person">E. H. Price</name>,<lb/>
+               <name type="person">Fuller Warren</name>, <name type="person">M. D. Selph</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Docks and Terminals:
+               </label>
+               <name type="person">J. R. Permenter</name>, <name type="person">W. F. Rogers</name>, <name type="person">J. Y. Marr</name>,<lb/>
+               <name type="person">L. B. McCullough</name>, <name type="person">Geo. W. Milam</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Claims:
+               </label>
+               <name type="person">M. E. Hunt</name>, <name type="person">Fuller Warren</name>, <name type="person">Inman P. Crutchfield</name>, <name type="person">W. C. Pilcher</name>,<lb/>
+               <name type="person">Paul C. Marion</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  New Territory:
+               </label>
+               <name type="person">T. G. Gordon</name>, <name type="person">M. D. Gooding</name>, <name type="person">Geo. G. Robinson</name>,<lb/>
+               <name type="person">M. D. Selph</name>, <name type="person">M. E. Hunt</name>,<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Advertising:
+               </label>
+               <name type="person">Geo. W. Milam</name>, <name type="person">Inman P. Crutchfield</name>, <name type="person">W. F. Rogers</name>,<lb/>
+               <name type="person">John F. Hall</name>, <name type="person">Fuller Warren</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Health and Sanitation:
+               </label>
+               <name type="person">T. S. Adams</name>, <name type="person">R. T. Gray</name>, <name type="person">E. H. Price</name>,<lb/>
+               <name type="person">J. R. Permenter</name>, <name type="person">V. T. Reynolds</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Finance:
+               </label>
+               <name type="person">John F. Hall</name>, <name type="person">T. S. Adams</name>, <name type="person">Paul C. Marion</name>, <name type="person">M. D. Gooding</name>,<lb/>
+               <name type="person">Geo. W. Milam</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Bridges and Viaducts:
+               </label>
+               <name type="person">R. T. Gray</name>, <name type="person">J. R. Permenter</name>, <name type="person">Geo. G. Robinson</name>,<lb/>
+               <name type="person">Fuller Warren</name>, <name type="person">M. D. Selph</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Printing:
+               </label>
+               <name type="person">John F. Hall</name>, <name type="person">T. S. Adams</name>, <name type="person">M. E. Hunt</name>, <name type="person">J. Y. Marr</name>,<lb/>
+               <name type="person">W. C. Pilcher</name>,<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Commerce and Manufacturing:
+               </label>
+               <name type="person">W. C. Pilcher</name>, <name type="person">Gordon</name>, <name type="person">W. H. Rowton</name>,<lb/>
+               <name type="person">H. H. Burns</name>, <name type="person">L. B. McCullough</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  City Property:
+               </label>
+               <name type="person">T. G. Gordon</name>, <name type="person">Paul C. Marion</name>, <name type="person">Geo. G. Robinson</name>,<lb/>
+               <name type="person">John F. Hall</name>, <name type="person">T. S. Adams</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Water and Electricity:
+               </label>
+               <name type="person">H. H. Burns</name>, <name type="person">W. C. Pilcher</name>, <name type="person">M. D. Gooding</name>,<lb/>
+               <name type="person">Julian E. Fant</name>, <name type="person">John F. Hall</name>,<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Prison Farm:
+               </label>
+               <name type="person">Geo. G. Robinson</name>, <name type="person">M. D. Selph</name>, <name type="person">M. E. Hunt</name>, <name type="person">J. Y. Marr</name>,<lb/>
                <name type="person">Inman P. Crutchfield</name>.<lb/>
-            </label>
-            <label>
-               Budget: Julian E. Fant, Paul C. Marion, E. H. Price, Geo. W. Milam,<lb/>
-               W. C. Pilcher,<lb/>
-            </label>
-            <label>
-               Paving, Drainage, and Sewerage: V. T. Reynolds, L. B. McCullough,<lb/>
-               H. H. Burns, E. H. Price, W. F. Rogers,<lb/>
-            </label>
-            <label>
-               Officers and Police: W. H. Rowton, V. T. Reynolds, L. B. McCullough,<lb/>
-               J. R. Permenter, H. H. Burns,<lb/>
-            </label>
-            <label>
-               Public Service: M. D. Gooding, W. H. Rowton, V. T. Reynolds,<lb/>
-               W. F. Rogers, R. T. Gray,<lb/>
-            </label>
-            <label>
-               Taxation: Inman P. Crutchfield, J. Y. Marr, V. T. Reynolds, W. H. Rowton,<lb/>
-               R. T. Gray,<lb/>
-            </label>
-            <label>
-               Fire: L. B. McCullough, W. H. Rowton, H. H. Burns, M. E. Hunt, R. T. Gray,<lb/>
-            </label>
-            <label>
-               Parks and Boulevards: Paul C. Marion, T. S. Adams, E. H. Price,<lb/>
-               Fuller Warren, M. D. Selph,<lb/>
-            </label>
-            <label>
-               Docks and Terminals: J. R. Permenter, W. F. Rogers, J. Y. Marr,<lb/>
-               L. B. McCullough, Geo. W. Milam,<lb/>
-            </label>
-            <label>
-               Claims: M. E. Hunt, Fuller Warren, Inman P. Crutchfield, W. C. Pilcher,<lb/>
-               Paul C. Marion,<lb/>
-            </label>
-            <label>
-               New Territory: T. G. Gordon, M. D. Gooding, Geo. G. Robinson,<lb/>
-               M. D. Selph, M. E. Hunt,<lb/>
-            </label>
-            <label>
-               Advertising: Geo. W. Milam, Inman P. Crutchfield, W. F. Rogers,<lb/>
-               John F. Hall, Fuller Warren<lb/>
-            </label>
-            <label>
-               Health and Sanitation: T. S. Adams, R. T. Gray, E. H. Price,<lb/>
-               J. R. Permenter, V. T. Reynolds,<lb/>
-            </label>
-            <label>
-               Finance: John F. Hall, T. S. Adams, Paul C. Marion, M. D. Gooding,<lb/>
-               Geo. W. Milam<lb/>
-            </label>
-            <label>
-               Bridges and Viaducts: R. T. Gray, J. R. Permenter, Geo. G. Robinson,<lb/>
-               Fuller Warren, M. D. Selph,<lb/>
-            </label>
-            <label>
-               Printing: John F. Hall, T. S. Adams, M. E. Hunt, J. Y. Marr,<lb/>
-               W. C. Pilcher,<lb/>
-            </label>
-            <label>
-               Commerce and Manufacturing: W. C. Pilcher, Gordon, W. H. Rowton,<lb/>
-               H. H. Burns, L. B. McCullough,<lb/>
-            </label>
-            <label>
-               City Property: T. G. Gordon, Paul C. Marion, Geo. G. Robinson,<lb/>
-               John F. Hall, T. S. Adams,<lb/>
-            </label>
-            <label>
-               Water and Electricity: H. H. Burns, W. C. Pilcher, M. D. Gooding,<lb/>
-               Julian E. Fant, John F. Hall,<lb/>
-            </label>
-            <label>
-               Prison Farm: Geo. G. Robinson, M. D. Selph, M. E. Hunt, J. Y. Marr,<lb/>
-               Inman P. Crutchfield,<lb/>
-            </label>
-            <label>
-               Appraisal: W. F. Rogers, Julian E. Fant, T. G. Gordon, John F. Hall,<lb/>
-               Geo. W. Milam,<lb/>
-            </label>
-            <label>
-               Statistics: M. D. Selph, R. T. Gray, Geo. G. Robinson, Fuller Warren,<lb/>
-               J. R. Permenter,<lb/>
-            </label>
-            <label>
-               Motor Transportation: Fuller Warren, Julian E. Fant, J. Y. Marr,<lb/>
-               Paul C. Marion, M. E. Hunt,<lb/>
-            </label>
-            <label>
-               Aviation: J. Y. Marr, Julian E. Fant, T. G. Gordon, T. S. Adams,<lb/>
-               M. D. Selph,<lb/>
-            </label>
-            <label>
-               Auditing: E. H. Price, L. B. McCullough, H. H. Burns, W. H. Rowton,<lb/>
-               W. F. Rogers,<lb/>
-            </label>
-            <label>
-               License: R. T. Gray, John F. Hall, Geo. W. Milam, Julian E. Fant,<lb/>
-               J. R. Permenter,<lb/>
-            </label>
-            <label>
-               Insurance Investigation: Geo. W. Milam, W. F. Rogers, Julian E. Fant.<lb/>
-            </label>
-         </p>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Appraisal:
+               </label>
+               <name type="person">W. F. Rogers</name>, <name type="person">Fulian E. Fant</name>, <name type="person">T. G. Gordon</name>, <name type="person">John F. Hall</name>,<lb/>
+               <name type="person">Geo. W. Milam</name>,<lb/>
+            </p>
+            <p>
+               <label>
+                  Statistics:
+               </label>
+               <name type="person">M. D. Selph</name>, <name type="person">R. T. Gray</name>, <name type="person">Geo. G. Robinson</name>, <name type="person">Fuller Warren</name>,<lb/>
+               <name type="person">J. R. Permenter</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Motor Transportation:
+               </label>
+               <name type="person">Fuller Warren</name>, <name type="person">Julian E. Fant</name>, <name type="person">J. Y. Marr</name>,<lb/>
+               <name type="person">Paul C. Marion</name>, <name type="person">M. E. Hunt</name>,<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Aviation:
+               </label>
+               <name type="person">J. Y. Marr</name>, <name type="person">Julian E. Fant</name>, <name type="person">T. G. Gordon</name>, <name type="person">T. S. Adams</name>,<lb/>
+               <name type="person">M. D. Selph</name>.<lb/>
+            </p>
+            <p>
+               <label rend="person">
+                  Auditing:
+               </label>
+               <name type="person">E. H. Price</name>, <name type="person">L. B. McCullough</name>, <name type="person">H. H. Burns</name>, <name type="person">W. H. Rowton</name>,<lb/>
+               <name type="person">W. F. Rogers</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  License:
+               </label>
+               <name type="person">R. T. Gray</name>, <name type="person">John F. Hall</name>, <name type="person">Geo. W. Milam</name>, <name type="person">Julian E. Fant</name>,<lb/>
+               <name type="person">J. R. Permenter</name>.<lb/>
+            </p>
+            <p>
+               <label rend="case(allcaps)">
+                  Insurance Investigation;
+               </label>
+               <name type="person">Geo. W. Milam</name>, <name type="person">W. F. Rogers</name>, <name type="person">Julian E. Fant</name>.<lb/>
+            </p>            
+         </div>
       </body>
   </text>
 </TEI>

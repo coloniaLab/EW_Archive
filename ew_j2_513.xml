@@ -43,16 +43,16 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_j2_513_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+         <pb n="1" facs="../images/ew_j2_513_001.jpg"/>
          <p>
-            <name type="place" subtype="city">Jacksonville Fla</name> <date when="1896-06-30">6/30th 96</date><lb/> 
+            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name> <date when="1896-06-30">6/30th 96</date><lb/> 
         
          </p>
             <div>
              
                <opener> 
                 <salute>
-                  Dear <name type="person">Eartha</name> :<lb/>
+                  Dear <name type="person">Eartha</name><lb/>
                </salute>
             </opener>
                
@@ -75,12 +75,15 @@
                  Suppose <choice><sic>tomarrow</sic><corr>tomorrow</corr></choice>  afternoon<choice><orig/><reg>.</reg></choice>  <lb/> 
             
                  <pb n="2" facs="../images/ew_j2_513_002.jpg"/>
-            I thought that I Would <lb/>
+            I thought that I would <lb/>
                  let you know at once<choice><orig/><reg>.</reg></choice>  <lb/>
             I have nothing <choice><sic>intristing</sic><corr>interesting</corr></choice>  <lb/>
             to tell you in this <lb/>
                  letter<choice><orig/><reg>.</reg></choice>         Your Friend<choice><orig/><reg>,</reg></choice>  <lb/>
             George <lb/>
+                 <gap reason="part of page missing from document"/> 
+                 <note type="editorial">Highly confident missing part of page does not contain more of the letter</note>
+                
          </p>
            </div>
       </body>
