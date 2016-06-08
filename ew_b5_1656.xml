@@ -100,7 +100,7 @@
             <signed>
                <handShift script="cursive" medium="blue pen"/><name type="person">Edward Jones</name><lb/>
                <handShift script="typed" medium="black ink"/><name type="person">Edward Jones</name><lb/>
-               Department of Painting and Decorating
+               Department of Painting and Decorating<lb/>
             </signed>
             EJ:as<lb/>
             P. S. I command you to read <hi rend="underline">Carpetbag Rule in Florida</hi>, by <name type="person">John Wallace</name>,<lb/>
@@ -111,22 +111,18 @@
          <div>
          <head>
             <name type="place" subtype="address">
-               Florida A. &amp; M. Univrsity<lb/>
+               Florida A. &amp; M. University<lb/>
                <hi rend="case(allcaps)">Vocational-Technical Institute</hi><lb/>
-               <name type="place" subtype="city">Tallahassee, Florida 32307</name><lb/>
+               Tallahassee, Florida 32307<lb/>
+               <location><geo>30.425673 -84.287195</geo></location>
             </name>
          </head>
             <p>
                <name type="person">Miss Ertha White</name><lb/>
-               <name type="place" subtype="address">
-                  <del type="strikeout">1449 Milnor Avenue</del><lb/>
-                  <name type="place" subtype="city">Jacksonville, Florida</name><lb/>
-               </name>
-               <add type="no_caret">
-                  <handShift script="cursive" medium="pencil"/><name type="place" subtype="address">613 W. Ashley<lb/>
-                     32202<lb/>
-                  </name>
-               </add>
+               <name type="place" subtype="address"><del type="strikeout">1449 Milnor Avenue</del><location><geo>30.342118 -81.638860</geo></location></name><lb/>
+               <name type="place" subtype="city">Jacksonville, Florida</name><lb/>
+               <add type="no_caret"><handShift script="cursive" medium="pencil"/><name type="place" subtype="address">613 W. Ashley<lb/>
+                  32202</name></add><lb/>
             </p>
          </div>
       </body>

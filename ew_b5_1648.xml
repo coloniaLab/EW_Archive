@@ -46,17 +46,16 @@
          <pb n="1" facs="../images/ew_b5_1648_001.jpg"/>
          <head>
             <hi rend="right">
-               <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned>refers to Jacksonville because the following address corresponds to one in Jacksonville</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
+               <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned> likely refers to Jacksonville because the following address corresponds to one in Jacksonville</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
                <date when="1929-04-11">April, <choice><abbr>11, 1929</abbr><expan>eleventh, nineteen twenty-nine</expan></choice></date><lb/>
             </hi>
          </head>
          <opener>
             <name type="person">Mrs. E. M. M. White.</name><lb/>
-            <name type="place" subtype="city">City.<note type="editorial"><mentioned>City</mentioned>refers to Jacksonvile because White lived there</note></name><lb/>
-            <salute>Dear <name type="person">Mrs. White</name>:</salute>
+            <name type="place" subtype="city">City.<note type="editorial">again, <mentioned>City</mentioned> refers to Jacksonvile because White lived there</note></name><lb/>
          </opener>
          <p>
-            I am trying to<lb/>
+            Dear <name type="person">Mrs. White</name>: I am trying to<lb/>
             find a nice position<choice><orig>,</orig><reg>.</reg></choice> I wish to<lb/>
             know if probably you could be of<lb/>
             assistance to me. I am a widow,<lb/>
@@ -73,18 +72,12 @@
          </p>
          <closer>
             <salute>
-               <hi rend="center">
-            Yours Very Truly,<lb/>
-               </hi>
+               <hi rend="center">Yours Very Truly,</hi><lb/>
             </salute>
             <signed>
-               <hi rend="center">
-               <name type="person">(Mrs) G. R. Swain,</name><lb/>
-               </hi>
+               <hi rend="center"><name type="person">(Mrs) G. R. Swain,</name></hi><lb/>
             </signed>
-            <hi rend="right">
-            <name type="place" subtype="address">1624 Davis <choice><abbr>St.</abbr><expan>Street</expan></choice></name><lb/>
-            </hi>
+            <hi rend="right"><name type="place" subtype="address">1624 Davis <choice><abbr>St.</abbr><expan>Street</expan></choice></name></hi><lb/>
          </closer>
       </body>
   </text>

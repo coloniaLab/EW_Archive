@@ -47,15 +47,16 @@
          <p>
             In case <del type="strikeout">ly</del> you get me the janitor<lb/>
             job or any other kind please let<lb/>
-            me know <supplied reason="illegible" cert="low">I am</supplied><!--check this again--> the same man what<lb/>
+            me Know<choice><orig/><reg>.</reg></choice> <supplied reason="illegible" cert="high">I am</supplied> the same man what<lb/>
             was around there the other day.<lb/>
          </p>
          <closer>
+            
             <signed>
-               <name type="person">Willie Harn</name><lb/>
+               <hi rend="center"><name type="person">Willie Harn</name></hi><lb/>
             </signed>
-            <name type="place" subtype="address">324 North <choice><abbr>st.</abbr><expan>Street</expan></choice></name><lb/>
-            And you<choice><sic>want</sic><corr><supplied>won't</supplied></corr></choice> lose anything for it.<lb/>
+            <hi rend="center"><name type="place" subtype="address">324 North <choice><abbr>st.</abbr><expan>Street</expan></choice></name></hi><lb/>
+               And you <choice><sic>want</sic><corr><supplied reason="illegible" cert="medium">won't</supplied></corr></choice> lose anything for it.<lb/>
          </closer>
       </body>
   </text>

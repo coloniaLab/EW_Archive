@@ -47,20 +47,20 @@
         <div>
         <head>
            <hi rend="right">
-           <name type="place" subtype="address">341 North King St</name><lb/>
-              <name type="place" subtype="city"><choice><sic>Hompton</sic><corr>Hampton</corr></choice>, VA.</name>
-              <date when="1934-07-09">July <choice><abbr>9. 1934.</abbr><expan>ninth, nineteen thirty-four.</expan></choice></date>
+              <name type="place" subtype="address">341 North King St<location><geo>37.030589 -76.345623</geo></location></name><lb/>
+              <name type="place" subtype="city">Hampton, VA.</name><lb/>
+              <date when="1934-07-09">July <choice><abbr>9. 1934.</abbr><expan>ninth, nineteen thirty-four.</expan></choice></date><lb/>
            </hi>
         </head>
         <opener>
-           Dear <name type="person">miss White</name>
+           Dear <name type="person">miss White</name><lb/>
         </opener>
         <p rend="indent">
            I am only Writing<lb/>
            to let you know that<lb/>
            <name type="person">James Renley</name> is <choice><sic>sill</sic><corr>still</corr></choice> alive<lb/>
            and is Visiting the <name type="place">com<lb break="no"/>
-              munity <choice><sic>sinter</sic><corr>center</corr></choice></name> Which I<lb/>
+              munity <choice><sic>sinter</sic><corr>center</corr></choice></name><choice><orig/><reg>,</reg></choice> Which I<lb/>
            am the <add type="no_caret">house</add> keeper<choice><orig/><reg>.</reg></choice> <name type="person">miss White</name><choice><orig/><reg>,</reg></choice><lb/>
            he is so anxious to <choice><sic>here</sic><corr>hear</corr></choice><lb/>
            from you. he is yet in<lb/>
@@ -80,7 +80,7 @@
         <pb n="2" facs="../images/ew_b5_1650_002.jpg"/>
         <div>
         <head>
-           <hi rend="center">/2)</hi>
+           <hi rend="center">(2)</hi>
         </head>
            <p>
               so he ask me to<lb/>

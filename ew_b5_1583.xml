@@ -45,21 +45,21 @@
       <body>
          <pb n="1" facs="../images/ew_b5_1583_001.jpg"/>
          <head>
-            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August nineteenth, nineteen thirty</expan></choice></date>
+            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August nineteenth, nineteen thirty</expan></choice></date><lb/>
          </head>
          <p>
-            Dear miss <name type="person">White</name><choice><orig/><reg>.</reg></choice> <choice><sic>i</sic><corr>I</corr></choice> was over<lb/>
+            Dear <name type="person">miss White</name><choice><orig/><reg>.</reg></choice> i was over<lb/>
             to see you again about work<choice><orig/><reg>.</reg></choice><lb/>
             <choice><sic>im</sic><corr>I'm</corr></choice> the one that was here last<lb/>
             monday one week ago monday<lb/>
-            gone<choice><orig/><reg>.</reg></choice> <choice><sic>if</sic><corr>If</corr></choice> you have any jobs<lb/>
+            gone<choice><orig/><reg>.</reg></choice> if you have any jobs<lb/>
             please let me know at<lb/>
-            once. <choice><sic>i</sic><corr>I</corr></choice> will <choice><sic>apprashate</sic><corr>appreciate</corr></choice> it<choice><orig/><reg>.</reg></choice><lb/>
+            once. i will <choice><sic>apprashate</sic><corr>appreciate</corr></choice> it<choice><orig/><reg>.</reg></choice><lb/>
          </p>
          <closer>
             <name type="place" subtype="address">1723. W. Beaver<choice><abbr>St</abbr><expan>Street</expan></choice>
-            </name>
-            <signed><name type="person">H. B. Perkins</name></signed>
+               <location><geo>30.335235 -81.686038</geo></location></name><lb/>
+            <signed><name type="person">H. B. Perkins</name></signed><lb/>
          </closer>
       </body>
   </text>

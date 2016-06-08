@@ -59,17 +59,13 @@
                </salute>
             </opener>
          <p>
-            <hi rend="right">
-               Only a few lines<lb/>
-            </hi>
+            <hi rend="right">Only a few lines</hi><lb/>
             to let you hear from me. This<lb/>
             leaves me well hoping that this<lb/>
             will find you well.<lb/>
            </p>
          <p>
-            <hi rend="right">
-               <name type="person">Miss White</name> I am very<lb/>
-            </hi>
+            <hi rend="right"><name type="person">Miss White</name> I am very</hi><lb/>
             anxious to get back home. And<lb/>
             if you will get in touch with the<lb/>
             <choice><sic>Superintendant</sic><corr>Superintendent</corr></choice> and see about<lb/>
@@ -84,21 +80,17 @@
             <name type="person"><choice><abbr>Dr.</abbr><expan>Doctor</expan></choice> J. Q. Folmar</name>, <name type="place" subtype="address"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice> State <choice><abbr>Hospt.</abbr><expan>Hospital</expan></choice><lb/><location><geo>30.706597 -84.841442</geo></location></name>
          </p>
          <p>
-            <choice><sic>you</sic><corr>You</corr></choice> must not believe anything<lb/>
+            you must not believe anything<lb/>
             wrong of me for I am the same as when<lb/>
             you first<choice><orig>.</orig><reg/></choice> <supplied reason="omitted-in-original">met</supplied> me<choice><orig/><reg>.</reg></choice> Tell my pastor &amp; Deacon to do all they<lb/>
             can for me.
          </p>
          <closer>
             <salute>
-               <hi rend="center">
-                  <choice><sic>your</sic><corr>Your</corr></choice> sister in Christ.<lb/>
-                  </hi>
+               <hi rend="center">your sister in Christ.</hi><lb/>
             </salute>
                   <signed>
-                     <hi rend="right">
-                     <name type="person">Sarah Best</name>.<lb/>
-                     </hi>
+                     <hi rend="right"><name type="person">Sarah Best</name>.</hi><lb/>
                   </signed>
                </closer>
       </body>
