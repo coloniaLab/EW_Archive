@@ -45,7 +45,7 @@
       <body>
          <pb n="1" facs="../images/ew_b5_1583_001.jpg"/>
          <head>
-            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August nineteenth, nineteen thirty</expan></choice></date><lb/>
+            <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August 19, 1930</expan></choice></date><lb/>
          </head>
          <p>
             Dear <name type="person">miss White</name><choice><orig/><reg>.</reg></choice> i was over<lb/>

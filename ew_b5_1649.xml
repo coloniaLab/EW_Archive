@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Funds for St. John's School House</title>
+            <title>Letters of Appeal - Soliciting Funds for School House</title>
             <author>J. A. Wynn and S. G. Bellamy</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Typed letter, with handwritten additions, from J. A. Wynn and S. G. Bellamy to Eartha M. M. White on 1/29/1925 requesting donations for a school house at St. John.</p>
+                     <p>Typed letter, with handwritten additions, from J. A. Wynn and S. G. Bellamy to Eartha M. M. White on 1/29/1925 soliciting donations for a school house at St. John. Paper has many small holes.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -50,11 +50,11 @@
                Marianna,
                <supplied reason="hole in paper" cert="high"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice></supplied>
             </name>,
-               <handShift script="cursive" medium="dark-blue-ink"/><date when="1925-01-09"><choice><abbr>Jan</abbr><expan>January</expan></choice> <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied><handShift script="print" medium="black-ink"/>, <choice><abbr>192<handShift script="cursive" medium="dark-blue-ink"/>5</abbr><expan>nineteen twenty-five</expan></choice></date><lb/>
+               <handShift script="cursive" medium="dark-blue-ink"/><date when="1925-01-09"><choice><abbr>Jan</abbr><expan>January</expan></choice> <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied><handShift script="typed" medium="black-ink"/>, 192<handShift script="cursive" medium="dark-blue-ink"/>5</date><lb/>
             </hi>
          </head>
          <p rend="indent">
-            <handShift script="print" medium="black-ink"/>We want to build a school house at <name type="place">St. John.</name> <name type="person">Mr. <supplied reason="hole in paper" cert="high">Rosenwald</supplied></name><note type="editorial"><mentioned>Rosenwald is likely the philanthropist Julius Rosenwald</mentioned></note> has <supplied reason="hole in paper" cert="high">promised</supplied> us<lb/>
+            <handShift script="typed" medium="black-ink"/>We want to build a school house at <name type="place">St. John.</name> <name type="person">Mr. <supplied reason="hole in paper" cert="high">Rosenwald</supplied></name><note type="editorial"><mentioned>Rosenwald is likely the philanthropist Julius Rosenwald</mentioned></note> has <supplied reason="hole in paper" cert="high">promised</supplied> us<lb/>
             $900; that is, if we can raise $900 ourselves. The past year was a bad crop year. <supplied reason="hole in paper" cert="high">So</supplied><lb/>
             we would be <supplied reason="hole in paper" cert="high">pleased</supplied> to have you help us raise our $900.<lb/>
          </p>

@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title of your document goes here</title>
-            <author>Name of author of document goes here</author>
+            <title>Letters of Appeal - Soliciting Donations for Lorenzo DeCosta's Funeral</title>
+            <author>Mrs. Deborah Daniels</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Aislinn Kelly</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from Mrs Deborah Daniel's to Eartha M. M. White on 2/16/1930 informing White on the death of Turanza Decasta; includes hand-addressed envelope to Miss E. M. M. White City.</p>
+                     <p>Handwritten letter from Mrs. Deborah Daniel's to Eartha M. M. White on 2/16/1930 informing White of the death of Lorenzo DeCosta and soliciting donations for his funeral; includes hand-addressed envelope to Miss E. M. M. White, City (Jacksonville).</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -46,7 +46,7 @@
          <pb n="1" facs="../images/ew_b5_1660_001.jpg"/>
          <head>
             <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
-            <date when="1930-02-16"><choice><abbr>Feb 16-30</abbr><expan>February sixteenth, nineteen thirty</expan></choice></date><lb/>
+            <date when="1930-02-16"><choice><abbr>Feb 16-30</abbr><expan>February 16, 1930</expan></choice></date><lb/>
          </head>
          <opener>
             <salute>
@@ -54,19 +54,21 @@
             </salute>
          </opener>
          <p>
-            This comes to notify you of <name type="person">Torenza Decosta</name><lb/>
-            death, he died at the County Hospital, I am<lb/>
+            This comes to notify<lb/>
+            you of <name type="person">Lorenzo Decosta</name><note type="editorial"><mentioned>Lorenzo</mentioned> really looks like Torenza, particularly because the "T" matches all of the other "Ts" in Mrs. Daniels' hand.</note><lb/>
+            death<choice><orig>,</orig><reg>.</reg></choice> he died at the<lb/>
+            <name type="place">County Hospital</name><choice><orig>,</orig><reg>.</reg></choice> I am<lb/>
             asking you for any<lb/>
             donation you may<lb/>
             be able to raise ___<lb/>
             Towards his <choice><sic>funerall</sic><corr>funeral</corr></choice><lb/>
             Thanking you in<lb/>
-            advance<lb/>
+            advance<choice><orig/><reg>.</reg></choice><lb/>
          </p>
          <closer>
             <name type="person">Mrs Deborah Daniels</name><lb/>
-            <name type="place" subtype="address">#1177 <choice><sic>Bredier</sic><corr>Bridier</corr></choice> <choice><abbr>St</abbr><expan>Street</expan></choice></name>
-            P.S. <name type="person">L. L. Pratt</name> has body.
+            <name type="place" subtype="address">#1177 <choice><sic>Bredier</sic><corr>Bridier</corr></choice> <choice><abbr>St</abbr><expan>Street</expan></choice><location><geo>30.337634 -81.638081</geo></location></name><lb/>
+            P.S. <name type="person"><choice><abbr>L.</abbr><expan>Lawton</expan></choice> L. Pratt</name> has body.<lb/>
          </closer>
       </body>
   </text>

@@ -47,7 +47,7 @@
          <head>
             <hi rend="right">
                <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned> likely refers to Jacksonville because the following address corresponds to one in Jacksonville</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
-               <date when="1929-04-11">April, <choice><abbr>11, 1929</abbr><expan>eleventh, nineteen twenty-nine</expan></choice></date><lb/>
+               <date when="1929-04-11">April, 11, 1929</date><lb/>
             </hi>
          </head>
          <opener>

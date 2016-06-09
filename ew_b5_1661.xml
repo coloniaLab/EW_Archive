@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Requesting Visit</title>
-            <author>Lucile Boston</author>
+            <title>Letters of Appeal - Soliciting Donations for Orphanage</title>
+            <author>Mrs. E. C. Jenkins</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Aislinn Kelly</name>
@@ -25,11 +25,11 @@
                   <settlement>Jacksonville</settlement>                  
                   <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
                   <collection>Eartha M.M. White Collection</collection>
-                  <idno>Folder B5, Item 1655</idno>                  
+                  <idno>Folder B5, Item 1661</idno>                
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from Lucile Boston to Eartha M. M. White on 1/13/1930 requesting a visit from White.</p>
+                     <p>Handwritten letter from Mrs. E. C. Jenkins, Secretary/Treasurer of Jenkins Orphanage Institute, to Eartha M. M. White on 11/7/1928 soliciting donations.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,26 +43,25 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_b5_1655_001.jpg"/>
-         <head>
-            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
-            <date when="1930-01-13"><choice><abbr>Feb, 13, 1930</abbr><expan>February 13, 1930</expan></choice></date><lb/>
-            Mrs E. M. White.<lb/>
-         </head>
+         <pb n="1" facs="../images/ew_b5_1661_001.jpg"/>
+         <div>
+            <head>
+            <!--Elaborate heading goes here-->
+            </head>
+         </div>
+         <div>
+            <head>
+               <name type="place">Charleston,S.C.</name> <date when="1928-11-01">November 1, 1928.</date><lb/>
+            </head>
+            <opener>
+               <salute>Kind Friend:-</salute><lb/>
+            </opener>
          <p>
-            <hi rend="left">Dear. Just a few</hi><lb/>
-            lines to let you Hear from me<lb/>
-            a <choice><sic>strangle</sic><corr>stranger</corr></choice> to you, but not to<lb/>
-            god, is my <choice><sic>belive</sic><corr>belief</corr></choice><choice><orig/><reg>.</reg></choice> Mrs White w<lb break="no"/>
-            hen <supplied reason="illegible" cert="high">Around</supplied>my way<choice><orig/><reg>,</reg></choice> I wish to<lb/>
-            <supplied reason="illegible" cert="high">Have</supplied> a talk please with you<choice><orig/><reg>.</reg></choice><lb/>
-            <choice><orig>disable</orig><reg>unable</reg></choice> to come to you. Will<lb/>
-            you please let me <choice><sic>Here</sic><corr>hear</corr></choice><lb/>
-            from you. Oblige<lb/>
-            <name type="person"><hi rend="right"><supplied reason="illegible" cert="high">Lucile</supplied></hi><lb/>
-               Boston</name><lb/>
-            <name type="place" subtype="address">1506 Haines <choice><abbr>ave.</abbr><expan>Avenue</expan></choice></name><lb/>
+            <lb/>
+            The second line of your transcription goes here.<lb/>
+            Etc.<lb/>
          </p>
+         </div>
       </body>
   </text>
 </TEI>

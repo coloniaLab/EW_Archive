@@ -7,7 +7,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letters of Appeal - Debt</title>
+            <title>Letters of Appeal - House Lost to Fire</title>
             <author>H. B. Barnes</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from H. B. Barnes to Eartha M. M. White on 9/28/1900 regarding debt.</p>
+                     <p>Handwritten letter from H. B. Barnes to Eartha M. M. White on 9/28/1900 requesting assistance after his house burnt down and his family lost everything.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -45,24 +45,25 @@
       <body>
          <pb n="1" facs="../images/ew_b5_1654_001.jpg"/>
          <head>
-            <date when="1900-09-28"><choice><abbr>9-28-19<hi rend="superscript">00</hi></abbr><expan>September twenty-eighth, nineteen hundred</expan></choice></date><lb/>
+            <date when="1900-09-28"><choice><abbr>9-28-19<hi rend="superscript"><hi rend="underline">00</hi></hi></abbr><expan>September 28, 1900</expan></choice></date><lb/>
             <!--don't know what this line says, check in special collections--><lb/>
             <name type="person">Miss E. M. White</name><lb/>
          </head>
          <p>
             <hi rend="left">Dear madam</hi><lb/>
-            I <supplied reason="messy handwriting" cert="medium">sent</supplied> <del type="strikeout">I</del> my debt Write you<lb/>
-            to Let you <supplied reason="omitted-in-original" cert="low">know</supplied> that I Truble<lb/>
-            my House got Last <choice><sic>Nitght</sic><corr>Night</corr></choice> Last <supplied reason="text-smudged" cert="low">alh</supplied><lb/>
-            that we what<lb/>
-            you give Mrs barnes<lb/>
+            I <supplied reason="illegible" cert="medium">seat</supplied> <del type="strikeout">l</del> my deft<choice><orig/><reg>.</reg></choice> Write you<lb/>
+            to Let you <supplied reason="omitted-in-original" cert="low">know</supplied> that I <supplied reason="illegible" cert="medium"><choice><sic>Truble</sic><corr>trouble</corr></choice></supplied><lb/>
+            my House got <supplied reason="illegible" cert="medium"><choice><sic>brurnt</sic><corr>burnt</corr></choice></supplied><lb/>
+            up Last <choice><sic>Nitght</sic><corr>Night</corr></choice><choice><orig/><reg>.</reg></choice> Lost <supplied reason="text-smudged" cert="low">all</supplied><lb/>
+            that we have <supplied reason="illegible" cert="low">and</supplied> what<lb/>
+            you give Mrs barnes<choice><orig/><reg>.</reg></choice><lb/>
             Please take this <choice><sic>Pertision</sic><corr>Petition</corr></choice>
-            and Do what you can<lb/>
-            for me<lb/>
+            and <supplied reason="illegible" cert="medium"><choice><sic>Da</sic><corr>do</corr></choice></supplied> what you can<lb/>
+            for me<choice><orig/><reg>.</reg></choice><lb/>
          </p>
          <closer>
             <signed>
-               <name type="person">H. b. barnes</name>
+               <name type="person">H. b. barnes</name><note type="editorial">The <mentioned>b.</mentioned> could be a capital "C".</note><lb/>
             </signed>
          </closer>
       </body>
