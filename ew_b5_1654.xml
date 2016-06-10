@@ -46,7 +46,7 @@
          <pb n="1" facs="../images/ew_b5_1654_001.jpg"/>
          <head>
             <date when="1900-09-28"><choice><abbr>9-28-19<hi rend="superscript"><hi rend="underline">00</hi></hi></abbr><expan>September 28, 1900</expan></choice></date><lb/>
-            <!--don't know what this line says, check in special collections--><lb/>
+            <name type="place"><supplied reason="illegible" cert="medium">Bayard</supplied> <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
             <name type="person">Miss E. M. White</name><lb/>
          </head>
          <p>
