@@ -85,12 +85,12 @@
                Sunday=School Congress Subjects
                A List of Subjects to Be Discussed Before<lb/>
             the Third Annual Session of the<lb/>
-            <emph rend="case(allcaps)">National Baptist Sunday<lb/>
-               School Congress</emph><lb/>
-            And Young Peoples' Chautauqua<lb/>
+            <emph rend="case(allcaps)"><name type="organization">National Baptist Sunday<lb/>
+               School Congress</name></emph><lb/>
+            And <name type="organization">Young Peoples' Chautauqua</name><lb/>
             <emph rend="case(allcaps)">To Be Held At</emph><lb/>
-            <name type="place" subtype="address">Bethel Baptist Institutional Church,
-               <emph rend="case(allcaps)">Jacksonville, Fla.</emph></name>,<lb/>
+            <name type="organization">Bethel Baptist Institutional Church</name>,
+            <emph rend="case(allcaps)"><name type="place" subtype="city">Jacksonville, <choice><abbr>Fla.</abbr><expan>Florida.</expan></choice></name></emph>,<lb/>
             <date from="1908-06-24" to="1908-06-29">June 24-29, 1908</date><lb/>
             <cb n="2"/>
             <hi rend="right"><figure><graphic url="ew_b5_1662_002_001.jpg"/></figure><figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder B5, Item 1662.</desc><graphic url="../images/ew_b5_1662_002_001.jpg"></graphic></figure></hi>
@@ -99,8 +99,8 @@
          </head>
             <list rend="numbered">
                <cb n="1"/>
-               <item> The National Baptist Sunday School<lb/>
-                  Congress: Its origin and Purpose.</item><lb/>
+               <item> <name type="organization">The National Baptist Sunday School<lb/>
+                  Congress</name>: Its origin and Purpose.</item><lb/>
                <item> The Origin and History of the Sun<lb break="no"/>
                day School Movement.</item><lb/>
                <item> The Modern Sunday School: Its<lb/>
@@ -139,8 +139,49 @@
                <item> Music: Its Character, Place and<lb/>
                Influence in the Sunday School.</item><lb/>
                <cb n="2"/>
-               <item></item>
+               <item> Lessen Reviews: How to Conduct<lb/>
+               Them.</item><lb/>
+               <item> Grading the Sunday School: How<lb/>
+               And When.</item><lb/>
+               <item> The Cradle-Roll: What is It, and<lb/>
+               How to Conduct It.</item><lb/>
+               <item> Primary Department: Who Should<lb/>
+               Teach It.</item><lb/>
+               <item> The Sunday School Home Depart<lb break="no"/>
+               ment: How Conducted.</item><lb/>
+               <item> Modern Missions: Their Claims<lb/>
+               Upon the Sunday School.</item><lb/>
+               <item> Sunday School Finances: How<lb/>
+               Raised.</item><lb/>
+               <item> The Sunday School Expenses:<lb/>
+               Who Should Be Responsible for Them.</item><lb/>
+               <item> Sunday School: Its Relations to<lb/>
+               Benevolence.</item><lb/>
+               <item> Sunday School Entertainments:<lb/>
+               Their Character and Purpose.</item><lb/>
+               <item> Children's Day: How to Observe<lb/>
+               It.</item><lb/>
+               <item> The Child's Place in Sunday<lb/>
+               School.</item><lb/>
+               <item> Bible Day: Its Claim Upon the<lb/>
+               Sunday School</item><lb/>
+               <item> Country Sunday Schools: How to<lb/>
+               Organize and Conduct Them.</item><lb/>
+               <item> The Value of Sunday School Sta<lb break="no"/>
+               tistics: How to Obtain Them.</item><lb/>
+               <item> Sunday School Prerequisites—<lb/>
+               Maps, Charts, Blackboards, etc.: How<lb/>
+               To Use Them.</item><lb/>
+               <item> The Present Demands of the Sun<lb break="no"/>
+               day School.</item><lb/>
+               <item> Women, Young and Old, in the Sun<lb break="no"/>
+               day School: their opportunities for good.</item>
                </list>
+         </div>
+         <div>
+            <p>
+               <emph rend="case(allcaps)"><name type="person">R. H. Boyd</name></emph>, <choice><abbr>Sec'y</abbr><expan>Secretary</expan></choice>, N. B. P. B., <name type="place" subtype="city">Nashville, <choice><abbr>Tenn.</abbr><expan>Tennessee.</expan></choice></name><lb/>
+            </p>
          </div>
          <pb n="3" facs="../images/ew_b5_1662_003.jpg"/>
          <gap reason="half of second page missing"/>
@@ -162,6 +203,7 @@
          </closer>
          </div>
          <pb n="3" facs="../images/ew_b5_1662_003.jpg"/>
+         <gap reason="page-fragment"/>
          <div>
             <p>
                
