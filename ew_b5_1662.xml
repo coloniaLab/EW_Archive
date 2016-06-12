@@ -80,7 +80,7 @@
          <pb n="2" facs="../images/ew_b5_1662_002.jpg"/>
          <div>
          <head>
-            <hi rend="right"><figure><graphic url="ew_b5_1662_002_001.jpg"/></figure><figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder B5, Item 1662.</desc><graphic url="../images/ew_b5_1662_002_001.jpg"></graphic></figure></hi>
+            <cb n="1"/>
                <handShift script="typed" medium="red-ink"/>
                Sunday=School Congress Subjects
                A List of Subjects to Be Discussed Before<lb/>
@@ -92,6 +92,10 @@
             <name type="place" subtype="address">Bethel Baptist Institutional Church,
                <emph rend="case(allcaps)">Jacksonville, Fla.</emph></name>,<lb/>
             <date from="1908-06-24" to="1908-06-29">June 24-29, 1908</date><lb/>
+            <cb n="2"/>
+            <hi rend="right"><figure><graphic url="ew_b5_1662_002_001.jpg"/></figure><figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder B5, Item 1662.</desc><graphic url="../images/ew_b5_1662_002_001.jpg"></graphic></figure></hi>
+            <name type="place">Bethel Baptist Institutional Church</name>, <name type="place" subtype="city">Jacksonville, <choice><abbr>Fla.</abbr><expan>Florida.</expan></choice></name><lb/>
+            <emph rend="case(allcaps)"><name type="person"><choice><abbr>Rev.</abbr><expan>Reverend</expan></choice> J. E. Ford</name></emph>, D. D., Pastor.<lb/>
          </head>
             <list rend="numbered">
                <cb n="1"/>
@@ -156,6 +160,12 @@
          <closer>
             <salute>yours</salute> <name type="person">Ruth</name> (P <gap reason="illegible"/>)<lb/>
          </closer>
+         </div>
+         <pb n="3" facs="../images/ew_b5_1662_003.jpg"/>
+         <div>
+            <p>
+               
+            </p>
          </div>
       </body>
   </text>
