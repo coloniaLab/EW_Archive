@@ -46,12 +46,11 @@
          <pb n="1" facs="../images/ew_b5_1581_001.jpg"/>
          <p>
             In case <del type="strikeout">ly</del> you get me the janitor<lb/>
-            job or any other kind please let<lb/>
+            job or any other kind<choice><orig/><reg>,</reg></choice> please let<lb/>
             me Know<choice><orig/><reg>.</reg></choice> <supplied reason="illegible" cert="high">I am</supplied> the same man what<lb/>
             was around there the other day.<lb/>
          </p>
          <closer>
-            
             <signed>
                <hi rend="center"><name type="person">Willie Harn</name></hi><lb/>
             </signed>

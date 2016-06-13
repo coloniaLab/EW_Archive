@@ -46,13 +46,13 @@
          <pb n="1" facs="../images/ew_b5_1648_001.jpg"/>
          <head>
             <hi rend="right">
-               <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned> likely refers to Jacksonville because the following address corresponds to one in Jacksonville</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
-               <date when="1929-04-11">April, 11, 1929</date><lb/>
+               <name type="place" subtype="city">City,</name><note type="editorial"><mentioned>City</mentioned> likely refers to Jacksonville because the following address corresponds to one in Jacksonville.</note> <name type="place" subtype="address">1624 Davis <choice><abbr>St</abbr><expan>Street</expan></choice></name><lb/>
+               <date when="1929-04-11">April, 11, 1929.</date><lb/>
             </hi>
          </head>
          <opener>
             <name type="person">Mrs. E. M. M. White.</name><lb/>
-            <name type="place" subtype="city">City.<note type="editorial">again, <mentioned>City</mentioned> refers to Jacksonvile because White lived there</note></name><lb/>
+            <name type="place" subtype="city">City.<note type="editorial">Again, <mentioned>City</mentioned> refers to Jacksonville.</note></name><lb/>
          </opener>
          <p>
             Dear <name type="person">Mrs. White</name>: I am trying to<lb/>
@@ -68,7 +68,7 @@
             If this letter is given your<lb/>
             attention, please reply. And I will<lb/>
             call to see you personally for<lb/>
-            further information.
+            further information.<lb/>
          </p>
          <closer>
             <salute>

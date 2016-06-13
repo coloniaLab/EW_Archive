@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter on Bethel Baptist Church letterhead from Ruth (?) to Eartha M. M. White requesting financial assistance to pay creditors. No date given, but the letterhead indicates that it was probably sometime between 1900 and 1909.</p>
+                     <p>Handwritten letter on Bethel Baptist Church letterhead from Ruth (?) to Eartha M. M. White requesting financial assistance to pay creditors. No date given, but the letterhead indicates that it was probably sometime between 1908 and 1909.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -176,7 +176,7 @@
                day School.</item><lb/>
                <item> Women, Young and Old, in the Sun<lb break="no"/>
                day School: their opportunities for good.</item>
-               </list>
+               </list><lb/>
          </div>
          <div>
             <p>
@@ -202,12 +202,70 @@
             <salute>yours</salute> <name type="person">Ruth</name> (P <gap reason="illegible"/>)<lb/>
          </closer>
          </div>
-         <pb n="3" facs="../images/ew_b5_1662_003.jpg"/>
-         <gap reason="page-fragment"/>
+         <pb n="4" facs="../images/ew_b5_1662_004.jpg"/>
+         <gap reason="half of page missing"/>
          <div>
-            <p>
-               
-            </p>
+               <list rend="numbered">
+                  <cb n="2"/>
+                  <item> The Sunday School: Its Relations<lb/>
+                     and Obligations to the Church.</item><lb/>
+                  <item> The Duties and Obligations of a<lb/>
+                     Baptist Church to its Sunday School.</item><lb/>
+                  <item> The Pastor's Place and Opportuni<lb break="no"/>
+                     ties in the Sunday School.</item><lb/>
+                  <item> Baptist Sunday School Literature:<lb/>
+                     Its Authors and Publishers.</item><lb/>
+                  <item> Sunday School Officers: How and<lb/>
+                     by Whom Selected.</item>
+                  <item> Sunday School Officers: Their<lb/>
+                     Character, Qualification and Duty.</item><lb/>
+                  <item> The Sunday School Teacher: His<lb/>
+                     Duties, Opportunities and Responsibili<lb break="no"/>
+                     ties.</item><lb/>
+                  <item> The Sunday School Superintend<lb break="no"/>
+                     ent, His Co-Workers and Advisers.</item><lb/>
+                  <item> The Sunday School Teachers'<lb/>
+                     Meeting: How to Conduct It.</item><lb/>
+                  <item> The Problem of Sunday School<lb/>
+                     Teaching: Whom, How and What to<lb/>
+                     Teach.</item><lb/>
+                  <item> The Sunday School Library: Its<lb/>
+                     Contents, and How Circulated.</item><lb/>
+                  <item> Music: Its Character, Place and<lb/>
+                     Influence in the Sunday School.</item><lb/>
+                  <cb n="2"/>
+               <item> The Sunday School Expenses:<lb/>
+                  Who Should Be Responsible for Them.</item><lb/>
+               <item> Sunday School: Its Relations to<lb/>
+                  Benevolence.</item><lb/>
+               <item> Sunday School Entertainments:<lb/>
+                  Their Character and Purpose.</item><lb/>
+               <item> Children's Day: How to Observe<lb/>
+                  It.</item><lb/>
+               <item> The Child's Place in Sunday<lb/>
+                  School.</item><lb/>
+               <item> Bible Day: Its Claim Upon the<lb/>
+                  Sunday School</item><lb/>
+               <item> Country Sunday Schools: How to<lb/>
+                  Organize and Conduct Them.</item><lb/>
+               <item> The Value of Sunday School Sta<lb break="no"/>
+                  tistics: How to Obtain Them.</item><lb/>
+               <item> Sunday School Prerequisites—<lb/>
+                  Maps, Charts, Blackboards, etc.: How<lb/>
+                  To Use Them.</item><lb/>
+               <item> The Present Demands of the Sun<lb break="no"/>
+                  day School.</item><lb/>
+               <item> Women, Young and Old, in the Sun<lb break="no"/>
+                  day School: their opportunities for good.</item><lb/>
+                  </list>
+               <p>
+                  <emph rend="case(allcaps)"><name type="person">R. H. Boyd</name></emph>, <choice><abbr>Sec'y</abbr><expan>Secretary</expan></choice>, N. B. P. B., <name type="place" subtype="city">Nashville, <choice><abbr>Tenn.</abbr><expan>Tennessee.</expan></choice></name><lb/>
+                  <note place="marginRight">
+                     I have some silver<gap reason="half of page missing"/><lb/>
+                     come let you hold<gap reason="half of page missing"/><lb/>
+                     like.<lb/>
+                  </note>
+               </p>
          </div>
       </body>
   </text>

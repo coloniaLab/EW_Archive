@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from H. B. Perkins to Eartha M. M. White on 8/19/1930 regarding employment. It is accompanied by an envelope hand-addressed to Miss. White, but without a street address.</p>
+                     <p>Handwritten letter from H. B. Perkins to Eartha M. M. White on 8/19/1930, regarding employment. It is accompanied by an envelope hand-addressed to Miss. White, but without a street address.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -44,6 +44,7 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b5_1583_001.jpg"/>
+         <div>
          <head>
             <name type="place" subtype="city">Jacksonville</name> <date when="1930-08-19"><choice><abbr>8 19. 1930.</abbr><expan>August 19, 1930</expan></choice></date><lb/>
          </head>
@@ -61,6 +62,13 @@
                <location><geo>30.335235 -81.686038</geo></location></name><lb/>
             <signed><name type="person">H. B. Perkins</name></signed><lb/>
          </closer>
+         </div>
+         <pb/>
+         <div>
+            <p>
+            <name type="person">Miss. White</name><lb/>
+            </p>
+         </div>
       </body>
   </text>
 </TEI>

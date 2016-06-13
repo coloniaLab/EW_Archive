@@ -50,11 +50,13 @@
                Marianna,
                <supplied reason="hole in paper" cert="high"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice></supplied>
             </name>,
-               <handShift script="cursive" medium="dark-blue-ink"/><date when="1925-01-09"><choice><abbr>Jan</abbr><expan>January</expan></choice> <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied><handShift script="typed" medium="black-ink"/>, 192<handShift script="cursive" medium="dark-blue-ink"/>5</date><lb/>
+               <handShift script="cursive" medium="dark-blue-ink"/>
+               <date when="1925-01-09"><choice><abbr>Jan</abbr><expan>January</expan></choice> <supplied reason="hole in paper" cert="high"><choice><abbr>29<hi rend="superscript">th</hi></abbr><expan>twenty-ninth</expan></choice></supplied>
+                  <handShift script="typed" medium="black-ink"/>, 192<handShift script="cursive" medium="dark-blue-ink"/>5</date><lb/>
             </hi>
          </head>
          <p rend="indent">
-            <handShift script="typed" medium="black-ink"/>We want to build a school house at <name type="place">St. John.</name> <name type="person">Mr. <supplied reason="hole in paper" cert="high">Rosenwald</supplied></name><note type="editorial"><mentioned>Rosenwald is likely the philanthropist Julius Rosenwald</mentioned></note> has <supplied reason="hole in paper" cert="high">promised</supplied> us<lb/>
+            <handShift script="typed" medium="black-ink"/>We want to build a school house at <name type="place">St. John.</name> <name type="person">Mr. <supplied reason="hole in paper" cert="high">Rosenwald</supplied></name><note type="editorial"><mentioned>Rosenwald</mentioned> is likely the philanthropist Julius Rosenwald</note> has <supplied reason="hole in paper" cert="high">promised</supplied> us<lb/>
             $900; that is, if we can raise $900 ourselves. The past year was a bad crop year. <supplied reason="hole in paper" cert="high">So</supplied><lb/>
             we would be <supplied reason="hole in paper" cert="high">pleased</supplied> to have you help us raise our $900.<lb/>
          </p>
@@ -67,14 +69,14 @@
          </p>
          <closer>
             <salute>
-               <hi rend="center">Yours truly,</hi>
+               <hi rend="center">Yours truly,</hi><lb/>
             </salute>
             <signed>
                <hi rend="right">
                   <name type="person"><emph rend="case(allcaps)">
-                     J. A. Wynn</emph>, Chairman</name><lb/>
+                     J. A. Wynn</emph></name>, Chairman<lb/>
                   <name type="person"><emph rend="case(allcaps)">
-                     S. G. Bellamy</emph>, Secretary</name><lb/>
+                     S. G. Bellamy</emph></name>, Secretary<lb/>
                </hi>
             </signed>
          </closer>

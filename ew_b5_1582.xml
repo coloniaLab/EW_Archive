@@ -47,7 +47,7 @@
          <head>
             <hi rend="center">
                <name type="person">G. D. Rogers</name>. .<lb/>
-               <name type="place" subtype="address">207. <choice><abbr>9th</abbr><expan>ninth</expan></choice> <choice><abbr>Ave.</abbr><expan>Avenue</expan></choice></name><lb/>
+               <name type="place" subtype="address">207. <choice><abbr>9th</abbr><expan>ninth</expan></choice> <choice><abbr>Ave.</abbr><expan>Avenue.</expan></choice></name><lb/>
             </hi>
          </head>        
          <head>
@@ -65,10 +65,10 @@
                Dear <name type="person">Mrs. White.</name>
             </salute>
          </opener>
-         <p>
+         <p rend="indent">
             I am told by <name type="person">Mr. C.E.Todd.</name> that you might give me some infor<lb break="no"/> 
             mation concerning a woman that lived sometime ago at <name type="place" subtype="address">2001 Davis <choice><abbr>St.</abbr><expan>Street.</expan></choice></name><lb/>
-            <choice><sic>she</sic><corr>She</corr></choice> had a nephew that died here last Aug and he was a veteran of the<lb/>
+            she had a nephew that died here last Aug and he was a veteran of the<lb/>
             last <handShift medium="red-ink"/>WAR,<note type="editorial"><mentioned>last WAR</mentioned> refers to the First World War because that is the war that precedes this letter's date of 1929</note><handShift medium="black-ink"/> and left her his insurance and I <choice><sic>cannit</sic><corr>cannot</corr></choice> locate her<choice><orig>,</orig><reg>.</reg></choice> If you<lb/>
             know her and know anything about her whereabouts kindly let me<lb/>
             know and Oblige yours very Truly.<lb/>
