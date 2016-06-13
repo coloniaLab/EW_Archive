@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Date Written: June, 30, 1896. A full page (four sides) taken from a small book, half of one page is missing but doesn't seem to be missing any text. Approximately 5x9. Very good condition</p>
+                     <p>Date Written: (April?), 30, 1896. A full page (four sides) taken from a small book, half of one page is missing but doesn't seem to be missing any text. Approximately 5x9. Very good condition</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -43,16 +43,16 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_j2_513_001.jpg"/>
+         <pb n="1" facs="../images/ew_j2_513_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
          <p>
-            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name> <date when="1896-06-30">6/30th 96</date><lb/> 
+            <name type="place" subtype="city">Jacksonville Fla</name> <unclear cert="medium" reason="The 4 is debabtable, but due to other evidence of Jordan's death date, it is most probable"><date when="1896-04-30">4/30th 96</date></unclear><lb/> 
         
          </p>
             <div>
              
                <opener> 
                 <salute>
-                  Dear <name type="person">Eartha</name><lb/>
+                  Dear <name type="person">Eartha</name> :<lb/>
                </salute>
             </opener>
                
