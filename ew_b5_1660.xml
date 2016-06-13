@@ -55,7 +55,8 @@
          </opener>
          <p>
             This comes to notify<lb/>
-            you of <name type="person">Lorenzo Decosta</name><note type="editorial"><mentioned>Lorenzo</mentioned> really looks like Torenza, particularly because the "T" matches all of the other "Ts" in Mrs. Daniels' hand.</note><lb/>
+            you of <name type="person">Lorenzo <choice><orig>Decosta</orig><reg>Decosta's</reg></choice></name>
+            <note type="editorial"><mentioned>Lorenzo</mentioned> really looks like Torenza, particularly because the "T" matches all of the other "Ts" in Mrs. Daniels' hand.</note><lb/>
             death<choice><orig>,</orig><reg>.</reg></choice> he died at the<lb/>
             <name type="place">County Hospital</name><choice><orig>,</orig><reg>.</reg></choice> I am<lb/>
             asking you for any<lb/>
