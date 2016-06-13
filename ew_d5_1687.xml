@@ -43,9 +43,9 @@
   </teiHeader>
   <text>
       <body>
-         <pb n="1" facs="../images/ew_d5_1687_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
+         <pb n="1" facs="../images/ew_d5_1687_001.jpg"/>
          <div>
-         <note place="marginTop">Suspense- Negro Book June 1918</note>
+            <note place="marginTop">Suspense- Negro Book June  <supplied reason="text faded" cert="medium">20, 1941</supplied> </note>
             <head><label rend="case(allcaps)">Chapter I: Early History</label></head>
             <p rend="indent">
             <hi rend="underline">The First Negroes in <name type="place">Florida</name>,</hi>Perhaps the earliest mention of<lb/>
@@ -74,11 +74,11 @@
             <p rend="indent">
             With slavery a widespread institution in <name type="place">Europe</name>, it was natural<lb/>
             that slaves were used in developing <name type="place">the New World</name>. There were some<lb/>
-            Negro slaves with <name type="person">John Harkins</name> when he stopped at <name type="place">Fort Caroline</name> on the<lb/>
+               Negro slaves with <name type="person">John Harkins</name> when he stopped at <name type="place">Fort Caroline<location><geo>30.385350 -81.497227</geo></location></name> on the<lb/>
             <pb n="2" facs="../images/ew_d5_1687_002.jpg"/> 
-            <name type="place">St. Johns River</name> in <date when="1565">1565</date>. He had sold most of his slaves to <name type="person_group">Spaniards</name><lb/>
+               <name type="place">St. Johns River<location><geo>30.401351 -81.400876</geo></location></name> in <date when="1565">1565</date>. He had sold most of his slaves to <name type="person_group">Spaniards</name><lb/>
             in the <name type="place">West Indies</name>, but one Negro was reported lost on the shore in<lb/>
-            front of <name type="place">Fort Caroline</name>, and was believed to have been eaten by an al<lb break="no"/>
+               front of <name type="place">Fort Caroline<location><geo>30.385350 -81.497227</geo></location></name>, and was believed to have been eaten by an al<lb break="no"/>
             ligator. It is not improbable, however, that he escaped and sought<lb/>
             refuge among the Indians, as so many of his race did later.<lb/>
          </p>
@@ -127,7 +127,7 @@
             Negroes frequently escaped from their masters in <name type="place">Carolina</name>, and made<lb/>
             their way southward to the <name type="person_group">Spanish</name> territory of <name type="place">Florida</name>. Here the<lb/>
             <name type="person_group">Spaniards</name> erected a fort for the refugees, a few miles north of their<lb/>
-            own <name type="place">San Marcos</name>. This fort, called <name type="place">Fort Moosa</name>,was built between <date when="1687">1687</date><lb/>
+               own <name type="place">San Marcos</name>. This fort, called <name type="place">Fort Moosa<location><geo>29.927681 -81.325081</geo></location></name>,was built between <date when="1687">1687</date><lb/>
             and <date when="1695">1695</date>; it consisted of a large square with breastwork and four<lb/>
             bastions. In and near this fort a larger group of Negroes lived in<lb/>
             comparative freedom.<lb/>     
@@ -142,12 +142,12 @@
             the free status of <name type="place">Georgia</name>.<lb/>
          </p>
             <p rend="indent">
-            By <date when="1740-06">June of 1740</date>, the number of Negroes occupying <name type="place">Fort Moosa</name> had<lb/>
+               By <date when="1740-06">June of 1740</date>, the number of Negroes occupying <name type="place">Fort Moosa<location><geo>29.927681 -81.325081</geo></location></name> had<lb/>
             become a factor in the threatening hostilities between the <name type="person_group">Spaniards</name><lb/>
             and <name type="person">Governor James Oglethorpe of <name type="place">Georgia</name></name>. Learning that the <name type="person_group">English</name>man<lb/>
             planned an attack, the <name type="person_group">Spanish</name> governor, <name type="person">Montiano</name>, strengthened both<lb/>
-            forts <name type="place">Moosa</name> and <name type="place">San Marcos</name>. A band of 80 <name type="person_group">Scotch Highlnders</name>, however,<lb/>
-            captured <name type="place">Fort Moosa</name> in the early days of the <name type="person">Oglethorpe</name> invasion of<lb/>
+               forts <name type="place">Moosa<location><geo>29.927681 -81.325081</geo></location></name> and <name type="place">San Marcos<location><geo>29.897908 -81.311529</geo></location></name>. A band of 80 <name type="person_group">Scotch Highlnders</name>, however,<lb/>
+               captured <name type="place">Fort Moosa<location><geo>29.927681 -81.325081</geo></location></name> in the early days of the <name type="person">Oglethorpe</name> invasion of<lb/>
             <name type="place">St. Augustine</name>, and it was later retaken only after several hundred<lb/>
             <name type="person_group">Spaniards</name> and Negroes had been hurled against it. In this engagement,<lb/>
             the <name type="person_group">English</name> leader, <name type="person">Colonel Palmer</name>, was killed, and many of his men<lb/>
@@ -334,8 +334,8 @@
          </p>
                <pb n="11" facs="../images/ew_d5_1687_011.jpg"/>
          <p rend="indent">
-            <hi rend="underline">Capture of the Last Indian on <name type="place">Amelia Island</name></hi>. <name type="person">Morris Drummond</name>,<lb/>
-            Negro resident of <name type="place">Amelia Island</name> near the northeasten border of <name type="place">Flor<lb break="no"/>
+            <hi rend="underline">Capture of the Last Indian on <name type="place">Amelia Island<location><geo>30.626669 -81.459823</geo></location></name></hi>. <name type="person">Morris Drummond</name>,<lb/>
+            Negro resident of <name type="place">Amelia Island<location><geo>30.626669 -81.459823</geo></location></name> near the northeasten border of <name type="place">Flor<lb break="no"/>
             ida</name>, gave the following account of the capture of the last Indian<lb/>
             there: "You want to hear how dey ketch de las Indian on dis hyear is<lb break="no"/>
             land? My granpaw say dey keep a-noticin someun in de cawn patch--de<lb/>
@@ -354,7 +354,7 @@
             cawn. Den we all rush im. We ain fraid of one Indian. Dey took dat<lb/>
             Indian an take im ta de plantation, an keep im dar under guard til de<lb/>
             officer come an git im an take im ta de Indian Reservation. An dat was<lb/>
-            de las Indian ever seed on de <name type="place">Island of Amelia</name>."<lb/>
+            de las Indian ever seed on de <name type="place">Island of Amelia<location><geo>30.626669 -81.459823</geo></location></name>."<lb/>
          </p>
             </div>
          <pb n="12" facs="../images/ew_d5_1687_012.jpg"/>
@@ -403,7 +403,7 @@
          </p>
          <p rend="indent">
             <hi rend="underline">The Larger Plantations</hi>. Among the larger slaveholders was<lb/>
-            <name type="person">Zephaniah Kingsley</name> on <name type="place">Fort George Island</name>, near the mouth of the <name type="place">St.<lb/>
+            <name type="person">Zephaniah Kingsley</name> on <name type="place">Fort George Island<location><geo>30.439425 -81.437700</geo></location></name>, near the mouth of the <name type="place">St.<lb/>
                Johns River</name>s. <name type="person">Kingsley</name> was concerned with slaves in a number of ways.<lb/>
             He brought them from <name type="place">Africa</name> in his own ships, worked them on his<lb/>
             plantation, and trained them for sale in the slave markets. This<lb/>
@@ -999,7 +999,7 @@
                   <pb n="33" facs="../images/ew_d5_1687_033.jpg"/>
                   In west <name type="place">Florida</name>, they aided white troops in attacking the villages of<lb/>
                   <name type="place">Zucheeanna</name> and <name type="place">Marianna</name>. At <name type="place">Tampa</name> they were used as military police<lb break="no"/>
-                  men. <name type="place">Andrews Bay</name>, and P<name type="place">ensacola</name>, destroying farm crops and other sup<lb break="no"/>
+                  men. <name type="place">Andrews Bay</name>, and <name type="place">Pensacola</name>, destroying farm crops and other sup<lb break="no"/>
                   plies that were intended for the Confederate Army. They fought in<lb/>
                   the skirmishes of <name type="place">Marianna</name> and <name type="place">Natural Bridge</name>, and played a prominent<lb/>
                   part in the Battle of Olustee.<lb/>
@@ -1015,7 +1015,7 @@
                   are better than white soldiers in this part of the country." Another<lb/>
                   white leader of Negroes, <name type="person">Thomas Wentworth Higginson</name>, stated that<lb/>
                   "nobody knows about blacks who has not seen or read, except<lb/>
-                  <name type="person_group">French Zouaves</name>." A Northern war correspondent, present at <name type="place">Fort Myers</name><lb/>
+                  <name type="person_group">French Zouaves</name>." A Northern war correspondent, present at <name type="place">Fort Myers<location><geo>26.639749 -81.872125</geo></location></name><lb/>
                   when it was attacked by <name type="person_group">Confederate cavalry</name>, wrote that "The colored<lb/>
                   soldiers were in the thickest of the fight and could hardly be re<lb break="no"/>
                   strained; they seemed totally unconcerned of danger and the constant<lb/>
@@ -1829,11 +1829,11 @@
                example of the bureau's work was the <name type="place">Jacksonville Negro school</name>,<lb/>
                which was constructed with the financial aid of local white citizens.<lb/>
                This institution grew and expanded, and evolved into the present-day<lb/>
-               <name type="place">Staton High School</name>. <name type="place">Cookman Institute</name>, also in <name type="place">Jacksonville</name>, was<lb/>
+               <name type="place">Staton High School<location><geo>30.352171 -81.672350</geo></location></name>. <name type="place">Cookman Institute<location><geo>29.212173 -81.032388</geo></location></name>, also in <name type="place">Jacksonville</name>, was<lb/>
                founded in <date when="1872">1872</date>. This was another of the bureau's ventures, and<lb/>
-               out of it has developed <name type="place">Bethuns-Cookman College</name>, located at <name type="place">Daytona<lb/>
+               out of it has developed <name type="place">Bethuns-Cookman College<location><geo>29.212173 -81.032388</geo></location></name>, located at <name type="place">Daytona<lb/>
                Beach</name>. Third among the Negro school of higher learning established<lb/>
-               after emancipation was <name type="place">Edward Waters College</name>, a <name type="person_group">Methodist</name> institu<lb break="no"/>
+               after emancipation was <name type="place">Edward Waters College<location><geo>30.343684 -81.683699</geo></location></name>, a <name type="person_group">Methodist</name> institu<lb break="no"/>
                tion founded in <date when="1873">1873</date>. Like the others, it is still in existence,<lb/>
                though it has moved from <name type="place">Live Oak</name>, its first location, to <name type="place">Jacksonville</name>,<lb/>
                where it has a student body of several hundred.<lb/>
@@ -1901,7 +1901,7 @@
                   Carolina</name>, in <date when="1860">1860</date>, of slave parents, <name type="person">Hart</name> came to <name type="place">Jacksonville</name> from<lb/>
                <name type="place">Charleston</name> in <date when="1865">1865</date> with his mother and step-father. The latter taught<lb/>
                him plastering and bricklaying, and he later became a contractor.<lb/>
-               After two years as town clerk of <name type="place">LaVilla</name> and one year as tax assessor<lb/>
+               After two years as town clerk of <name type="place">LaVilla<location><geo>30.334787 -81.667064</geo></location></name> and one year as tax assessor<lb/>
                of the same place, he established, in <date when="1902">1902</date>, <name type="place">Hart's Bank</name>, the first<lb/>
                bank to be operated by Negroes in <name type="place">Jacksonville</name>. It functioned until<lb/>
                <date when="1913">1913</date> when he closed it voluntarily and paid off his depositors in full.<lb/>
@@ -1911,8 +1911,8 @@
                he was the son of <name type="person">George W.</name> and <name type="person">Fannie Wetmore</name>.<lb/>
             </p>
             <p rend="indent">
-               His early education was received at <name type="place">Cookman Institute</name>, <name type="place">Jackson<lb break="no"/>
-                  ville</name>; he graduated from the law school of the <name type="place">University of Michigan</name>;<lb/>
+               His early education was received at <name type="place">Cookman Institute<location><geo>29.212210 -81.032227</geo></location></name>, <name type="place">Jackson<lb break="no"/>
+                  ville</name>; he graduated from the law school of the <name type="place">University of Michigan<location><geo>42.278075 -83.738364</geo></location></name>;<lb/>
                and he practiced law in <name type="place">Jacksonville</name> and served with distinction as<lb/>
                a city councilman. <name type="person">Wetmore</name> was noted for his fight against social<lb/>
                segregation, familiarly known as the "Jim Crow" law. He later moved<lb/>
@@ -1934,7 +1934,7 @@
                minor political posts. Elected to the state legislature in <date when="1882">1882</date>, he<lb/>
                served for two years, and was a member of the legislative committee<lb/>
                which recommended establishment of the <name type="place">Florida Agricultural and<lb/>
-                  Mechanical College</name> at <name type="place">Tallahassee</name>.<lb/>
+                  Mechanical College<location><geo>30.425796 -84.282857</geo></location></name> at <name type="place">Tallahassee</name>.<lb/>
             </p>
             <p rend="indent">
                In <date when="1887">1887</date>, at <name type="place">Gainsvile</name>, he founded the  <hi rend="underline">Florida Sentinel</hi>, a<lb/>
@@ -2057,7 +2057,7 @@
             </p>
             <p rend="indent">
                A <date when="1939">1939</date> survey of the economic status of Negro teachers, issued by<lb/>
-               the <name type="place">University of Florida</name>, states the following:<lb/>
+               the <name type="place">University of Florida<location><geo>29.644295 -82.354447</geo></location></name>, states the following:<lb/>
             </p>
             <p rend="indent">
                "The average salary received by these teachers in <date when="1934">1934</date>-<date when="1935">35</date> was $457.<lb/>
@@ -2129,7 +2129,7 @@
                         Oak</name> with about two hundred and fifty students. <name type="person_group">The Methodist Episco<lb break="no"/>
                      pal Church</name> has a junior college at <name type="place">Jacksonville</name>. Also at<lb/>
                      <name type="place">Jacksonville</name> is the school operated by the <name type="person_group">African Methodist Church</name>,<lb/>
-                     <name type="place">Edward Waters College</name>. <name type="person_group">The Roman Catholic</name> and <name type="person_group">Protestant Episcopal</name><lb/>
+               <name type="place">Edward Waters College<location><geo>30.343637 -81.683688</geo></location></name>. <name type="person_group">The Roman Catholic</name> and <name type="person_group">Protestant Episcopal</name><lb/>
                      <pb n="70" facs="../images/ew_d5_1687_070.jpg"/>  
                churches conduct parochial schools at <name type="place">Tampa</name>, <name type="place">Miami</name>, <name type="place">Jacksonville</name>, and<lb/>
                <name type="place">Pensacola</name>.<lb/>
