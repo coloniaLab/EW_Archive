@@ -81,6 +81,9 @@
                Yours truly,
             </salute>
             <signed rend="center">
+               <handShift medium="blue pen"/>
+               <unclear cert="low" reason="Handwritten signature is difficult to read.">J. Henderson</unclear>
+               <handShift medium="black type"/>
                Head--Business Education and<lb/>
                Administration<lb/>
             </signed>
