@@ -118,7 +118,7 @@
             </name>
          </head>
             <p>
-               <name type="person">Miss Ertha White</name><lb/>
+               <name type="person">Miss <choice><sic>Ertha</sic><corr>Eartha</corr></choice> White</name><lb/>
                <name type="place" subtype="address"><del type="strikeout">1449 Milnor Avenue</del><location><geo>30.342118 -81.638860</geo></location></name><lb/>
                <name type="place" subtype="city">Jacksonville, Florida</name><lb/>
                <add type="no_caret"><handShift script="cursive" medium="pencil"/><name type="place" subtype="address">613 W. Ashley<lb/>

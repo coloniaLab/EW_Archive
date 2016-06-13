@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Letters of Appeal - Solicitation from Rev. Drake</title>
-            <author>Name of author of document goes here</author>
+            <author>Reverend J. W. Drake</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Aislinn Kelly</name>
@@ -44,6 +44,7 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b5_1558_001.jpg"/>
+         <!--I have not transcribed the letterhead-->
          <div>
          <head>
             <hi rend="right">
@@ -55,7 +56,7 @@
             <name type="place" subtype="city">Jacksonville, <choice><abbr>Fla.</abbr><expan>Florida</expan></choice></name><lb/>
             <salute>Dear Co-Worker;</salute><lb/>
          </opener>
-         <p>
+         <p rend="indent">
             you will see from this, that<lb/>
             I am, on the job. to put <name type="place"><choice><abbr>Fla.</abbr><expan>Florida</expan></choice></name> over the<lb/>
             top. I am greatly depending upon<lb/>
@@ -63,17 +64,17 @@
             <supplied reason="illegible" cert="medium">quota</supplied> of fifty thousand quarters<lb/>
             for <name type="place">Florida</name>.
          </p>
-         <p>
+         <p rend="indent">
             I mailed our letters yesterday<lb/>
             and to-day to every Moderator in<lb/>
             the state.<lb/>
          </p>
-         <p>
+         <p rend="indent">
             I am, now writing you sisters<lb/>
-            to <supplied reason="illegibl" cert="medium">begin</supplied> to line up your district<lb/>
+            to <supplied reason="illegible" cert="medium">begin</supplied> to line up your district<lb/>
             see your pastor, and plan your Meetings.
          </p>
-         <p>
+         <p rend="indent">
             If any time I can be of any<lb/>
             service to you write or wire me,<lb/>
             as I have <choice><sic>planed</sic><corr>planned</corr></choice> to visit every association<lb/>
@@ -84,14 +85,16 @@
             <p>
             in the state. I have a few 20¢ <supplied reason="illegible" cert="medium">gleaners</supplied><lb/>
                if you can use a few write me.<lb/>
+            </p>
+               <p rend="indent">
                May I be favored with an<lb/>
                early reply from you.<lb/>
-            </p>
+               </p>
             <closer>
                <salute>
                yours for redemption of Africa<lb/>
                </salute>
-               <signed><name type="person">J. W. Drake</name>.</signed>
+               <signed><name type="person">J. W. Drake</name>.</signed><lb/>
             </closer>
          </div>
       </body>
