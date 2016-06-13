@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Handwritten letter from Lucile Boston to Eartha M. M. White on 1/13/1930 requesting a visit from White.</p>
+                     <p>Handwritten letter from Lucile Boston to Eartha M. M. White on 1/13/1930 requesting a visit from White. Envelope included.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -44,10 +44,13 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b5_1655_001.jpg"/>
+         <!--the envelope that accompanies this letter has not been transcribed/encoded-->
          <head>
-            <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
+            <hi rend="right">
+               <name type="place" subtype="city">Jacksonville <choice><abbr>Fla</abbr><expan>Florida</expan></choice></name><lb/>
             <date when="1930-01-13"><choice><abbr>Feb, 13, 1930</abbr><expan>February 13, 1930</expan></choice></date><lb/>
-            Mrs E. M. White.<lb/>
+            </hi>
+            <name type="person">Mrs <choice><abbr>E.</abbr><expan>Eartha</expan></choice> M. White</name>.<lb/>
          </head>
          <p>
             <hi rend="left">Dear. Just a few</hi><lb/>

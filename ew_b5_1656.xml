@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Letters of Appeal - Florida History</title>
-            <author>Name of author of document goes here</author>
+            <author>Edward Jones</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Aislinn Kelly</name>
@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>Typed letter with handwritten signature from Edward Jones to Eartha M. M. White on 4/11/1967 regarding an effort to find and document black communities history in and contribution to Florida; letter accompanied by envelope.</p>
+                     <p>Typed letter with handwritten signature from Edward Jones to Eartha M. M. White on 4/11/1967 regarding an effort to find and document black communities' history in and contribution to Florida; letter accompanied by envelope.</p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -122,7 +122,7 @@
                <name type="place" subtype="address"><del type="strikeout">1449 Milnor Avenue</del><location><geo>30.342118 -81.638860</geo></location></name><lb/>
                <name type="place" subtype="city">Jacksonville, Florida</name><lb/>
                <add type="no_caret"><handShift script="cursive" medium="pencil"/><name type="place" subtype="address">613 W. Ashley<lb/>
-                  32202</name></add><lb/>
+                  32202<location><geo>30.332646 -81.664248</geo></location></name></add><lb/>
             </p>
          </div>
       </body>
