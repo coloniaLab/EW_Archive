@@ -10,7 +10,7 @@
             <title>Forming an N.A.A.C.P Anti-Lynching Committee</title>
             <author><name type="person">Mary B. Talbert</name></author>
             <respStmt>
-               <resp>Encoded into XML and transcribed by</resp>
+               <resp>Transcribed and encoded in XML by</resp>
                <name>Chad Germany</name>
             </respStmt>
          </titleStmt>
@@ -45,7 +45,7 @@
       <body>
          <pb n="1" facs="../images/ew_y2_648_001.jpg"/>
          <opener> Dear Friend and Co-worker :- </opener>
-         <p rend="indent">At the <name type="place">Newark</name>Conference of the <orgName type="acronym"><choice><abbr>N.A.C.P.</abbr><expan>National Association For The Advancement Of Colored People</expan></choice></orgName>, re-<lb/>
+         <p rend="indent">At the <name type="place">Newark </name>Conference of the <orgName type="acronym"><choice><abbr>N.A.C.P.</abbr><expan>National Association For The Advancement Of Colored People</expan></choice></orgName>, re-<lb/>
          cently, <name role="politician"> Congressman </name><name type="person"> Dyer </name> said, that if one million colored<lb/>
          people and white people got together and decide Lynching would<lb/>
          go, as well as other <choice><sic> undemocratin </sic><corr> undemocratic </corr></choice> things against the negro.<lb/></p>
