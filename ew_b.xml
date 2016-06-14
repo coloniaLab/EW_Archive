@@ -44,7 +44,7 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
-         <figure><graphic url="ew_b_001_001.jpg"/></figure>
+         
          <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder B, Item no number.</desc><graphic url="../images/ew_b_001_001.jpg"></graphic></figure>
          <div>
             <head rend="center">
