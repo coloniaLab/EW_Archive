@@ -7,8 +7,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title of your document goes here</title>
-            <author>Name of author of document goes here</author>
+            <title>A Breif Description of James Weldon Johnson</title>
+            <author>Unknown</author>
             <respStmt>
                <resp>Transcription, edition, and encoding</resp>
                <name>Lauren Kelley Winters</name>
@@ -49,10 +49,10 @@
             <date when="1939-06-26">June 26, 1938</date>. His father was <name type="person">Rev. James Johnson</name> of <name type="place">Virginia</name>. His mother <name type="person">Ellen<lb/>
                Louise Johnson</name> of <name type="place">Nassau</name>. His grandmother, <name type="person">Mary Barton</name>. He was the second child<lb/>
             of a family of three. A sister died in infancy before he was born. His brother<lb/>
-            <name type="person">Rosemond</name> who still lives, residing in <name type="place">N. Y.</name> He attended <name type="place">Stanton High School</name> in<lb/>
-            this City under <name type="person">Dr. D. W. Culp</name> and later <name type="person">Mr. Authe<del type="overwritten">r</del>l</name>. After finishing <name type="place">Stanton</name> he<lb/>
+            <name type="person">Rosemond</name> who still lives, residing in <name type="place">N. Y.</name> He attended <name type="place">Stanton High School<location><geo>30.352255 -81.673036</geo></location></name> in<lb/>
+            this City under <name type="person">Dr. D. W. Culp</name> and later <name type="person">Mr. Authe<del type="overwritten">r</del>l</name>. After finishing <name type="place">Stanton<location><geo>30.352255 -81.673036</geo></location></name> he<lb/>
             attended school in <name type="place">Atlanta</name> , returning to <name type="place">Jacksonville</name>, he bacame a teacher in the<lb/>
-            <name type="place">Stanton School</name> as assistant to <name type="person">Mr. Authel</name>. The school being an elementary school<lb/>
+            <name type="place">Stanton School<location><geo>30.352255 -81.673036</geo></location></name> as assistant to <name type="person">Mr. Authel</name>. The school being an elementary school<lb/>
             at the time. It was during his administration as principal of the school that he<lb/>
             <del type="strikeout">hr</del> he made it a high school which was the first and only high school for Negroes in<lb/>
             the city. He liked the profession of teaching but owing to the fact at that time all<lb/>
@@ -73,7 +73,7 @@
                Arthur Wall Smith</name> and of the dearest, <name type="person">J. Settiers</name>. I like to think of the girl that<lb/>
             everyone thought he would marry, <name type="person">Jannie Grant</name> who went to <name type="place">Tallahassee</name> while he was in<lb/>
             <name type="place">Atlanta</name> and before he was the Godfather of one of her girls. I like to think of him<lb/>
-            singing in the choir of <name type="place">Ebenez er Church</name> with his mother. I like to think of him as<lb/>
+            singing in the choir of <name type="place">Ebenez er Church<location><geo>30.404934 -81.721208</geo></location></name> with his mother. I like to think of him as<lb/>
             President of the <name type="place">Duval</name> County Teachers and now<lb/>
             <pb n="2" facs="../images/ew_g2_496_002.jpg"/>
             a s a little financial hint, these brothers thought they moved from <name type="place">Jacksonville</name><lb/>

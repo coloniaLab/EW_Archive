@@ -46,7 +46,7 @@
          <pb n="1" facs="../images/ew_g2_502_001.jpg"/>
          <div>
             <head>
-               <name type="person">Miss Dena Snodgrass</name>. <name type="place" subtype="address">3680 Henrick Street</name>. <name type="place">Jacksonville, Florida 32205</name>
+               <name type="person">Miss Dena Snodgrass</name>. <name type="place" subtype="address">3680 Hedrick Street<location><geo>30.293346 -81.704349</geo></location></name>. <name type="place">Jacksonville, Florida 32205</name>
             </head>
          </div>
          <div>
@@ -58,7 +58,7 @@
             <p>
                <name type="person">Dr. Daniel Schafer</name><lb/>
                Department of History<lb/>
-               <name type="place">University of North Florida<lb/>
+               <name type="place">University of North Florida<location><geo>30.270070 -81.508378</geo></location><lb/>
                Jacksonville, Florida</name><lb/>
             </p>
          </div>
@@ -75,7 +75,7 @@
             Box 1949, <name type="place">Jacksonville (32201)</name> has generously donated the<lb/>
             enclosed letters from <name type="person">Mrs. James Weldon Johnson</name> to him. These<lb/>
             are for the collection of black memorabilila at the <name type="place">University<lb/>
-            of North Florida library</name>. Please acknowledge to <name type="person">Mr. Ward</name>.<lb/>
+               of North Florida library<location><geo>30.270070 -81.508378</geo></location></name>. Please acknowledge to <name type="person">Mr. Ward</name>.<lb/>
          </p>
             <p>
                Xeroxed copies of the enclosed have been given by <name type="person">Mr. Ward</name> to<lb/>
@@ -87,7 +87,7 @@
                sorry I do not have exact date) about <name type="person">James Weldon Johnson</name> and<lb/>
                the error in locating the marker erected in his memory. This<lb/>
                mistake was a natural one for amaturs to make for <name type="place">Lee Street</name><lb/>
-               where the <name type="person">Johnsons</name> lived was once <name type="place">Third Street</name>. The marker was<lb/>
+               where the <name type="person">Johnsons</name> lived was once <name type="place">Third Street</name>. The marker was<location><geo>30.330144 -81.670309</geo></location><lb/>
                placed on the preset <name type="place">Third Street</name>, some miles away!<lb/>
             </p>
             <p>
