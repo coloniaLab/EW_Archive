@@ -45,8 +45,11 @@
       <body>
          <pb n="1" facs="../images/ew_j2_513_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
          <p>
-            <name type="place" subtype="city">Jacksonville Fla</name> <unclear cert="medium" reason="The 4 is debabtable, but due to other evidence of Jordan's death date, it is most probable"><date when="1896-04-30">4/30th 96</date></unclear><lb/> 
-        
+            <name type="place" subtype="city">Jacksonville Fla</name> <unclear cert="medium" reason="number is unclear"><date when="1896-04-30">4/30th 96</date></unclear>
+            <note type="editorial"> evidence gathered that resulted in the information on https://www.unf.edu/library/specialcollections/manuscripts/eartha-white/Eartha_White_Selected_Resources.aspx
+            about the month of James Jordan's death leads to the numer 4 (April) being the best plausible guess as to what the 
+            author of the letter intended to write</note>
+             
          </p>
             <div>
              

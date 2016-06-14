@@ -29,7 +29,7 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p>A description of the object, including its material (type of paper, etc.), dimensions, number of pages, print or handwritten, etc., and some mention of its condition, if relevant.</p>
+                     <p> Previously copied letter, modern paper.Date: Jan 18, 1936 </p>
                   </objectDesc>
                </physDesc>
             </msDesc>
@@ -44,52 +44,118 @@
   <text>
       <body>
          <pb n="1" facs="../images/ew_b_001.jpg"/><!-- Here is your first page break. You need to make the image name here match the name of your file -->
-         <p>
+         <figure><graphic url="ew_b_001_001.jpg"/></figure>
+         <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder B, Item no number.</desc><graphic url="../images/ew_b_001_001.jpg"></graphic></figure>
+         <div>
+            <head rend="center">
+           
             The Afro-American Life Insurance Company<lb/>
-            INCORPORATED UNDER THE LAWS OF FLORIDA<lb/>
-            PAID UP CAPITAL STOCK $150,000.00<lb/>
-            A.L. LEWIS, PRESIDENT                   J.H. LEWIS, VICE PRESIDENT<lb/>
-            LOUIS D. ERVIN, CASHIER                 WILLIAM H. LEE, SECRETARY<lb/>
-            HOME OFFICE 101-105 E. UNION STREET<lb/>
-            OFFICE OF PRESIDENT <lb/>
-            P.O. BOX 660<lb/>
-            JACKSONVILLE, FLORIDA<lb/>
-            January 18- 1936<lb/>
-            
-            Miss Eartha White<lb/>
-            611 West Ashley Street<lb/>
-            Jacksonville, Florida<lb/>
-            
-            My dear Miss White:<lb/>
+               
+            </head>
+         </div>
+         <div>
+               <p>
+                  <hi rend="center">INCORPORATED UNDER THE LAWS OF FLORIDA</hi><lb/>
+               </p>
+               <p>
+                 
+                  <hi rend="center">PAID UP CAPITAL STOCK $150,000.00</hi><lb/>
+               </p>
+               <p>
+                  <hi rend="center"><name type="person">A.L. LEWIS</name>,<name role="administrator">  PRESIDENT </name>               <name type="person">J.H. LEWIS</name>,<name role="administrator">  VICE PRESIDENT</name></hi><lb/>
+               </p>
+               <p>
+                  <hi rend="center"><name type="person">LOUIS D. ERVIN</name>,<name role="administrator">  CASHIER</name>                 <name type="person">WILLIAM H. LEE</name>,<name role="administrator">  SECRETARY</name></hi><lb/>
+               </p>
+               <p>
+                  <hi rend="center"><name type="place">HOME OFFICE</name> <name type="place" subtype="address"> 101-105 E. UNION STREET<location><geo>30.331966 -81.654918</geo></location></name></hi><lb/>
+               </p>
+               <p>
+                  <name type="place">OFFICE OF PRESIDENT</name> <lb/>
+               </p>
+               <p>
+                  <hi rend="center"><name type="place" subtype="address">P.O. BOX 660</name></hi><lb/>
+               </p>
+               <p>
+                  <hi rend="center"><name type="place" subtype="city">JACKSONVILLE, FLORIDA</name></hi><lb/>
+               </p>
+         
+         
+         </div>
+         <div>
+            <p>
+             <date when="1936-01-18">January 18- 1936</date><lb/>
+            </p>  
+         </div>
+         <div>
+            <p>
+            <name type="person">Miss Eartha White</name><lb/>
+               <name type="place" subtype="address">611 West Ashley Street<lb/>
+                  Jacksonville, Florida</name><location><geo>30.332490 -81.664152</geo></location><lb/>
+            </p>
+         </div>
+            <div>
+              
+               <opener>
+                  <salute>
+                     My dear <name type="person">Miss White</name>:<lb/>
+                  </salute>
+               </opener>
+              
+            </div>
+         <div>
+            <p>
             
             I noticed recently your publication with reference<lb/>
-            to (the) History Society for Jacksonville Negroes.<lb/>
-            
+               to<supplied reason="omitted-in-original" cert="high">the</supplied><name type="organization"> History Society for Jacksonville Negroes</name>.<lb/>
+            </p>
+            <p>
             I have always felt that some one should write a<lb/>
-            history of the Negroes of our city, as far back<lb/>
+            history of the <name type="person_group">Negroes</name> of our <name type="place">city</name>, as far back<lb/>
             as we can get information, so that in future years<lb/>
             the young generation will know of some of the<lb/>
             accomplishments and hardships. You have my hearty<lb/>
-            support and if i can be of any service to you, <lb/>
-            call on me. 
-            
-            Mayor Aslop called me and stated that he wanted to <lb/>
-            appoint you and myself as an Advisory Committee on<lb/>
-            the Slum Housing Act, and ask that I talk with <lb/>
-            Mr. Bradshaw, who I saw this morning and he<lb/>
-            suggested that we talk with Mr. Edwards in Barnett<lb/>
-            Bank building next Monday or Tuesday. Please get<lb/>
+            support and if I can be of any service to you, <lb/>
+            call on me.<lb/> 
+            </p>
+            <p>
+               <name type="person">Mayor Aslop</name> called me and stated that he wanted to <lb/>
+               appoint you and myself as an <name type="committee">Advisory Committee</name> on<lb/>
+               the <name type="legislation">Slum Housing Act</name>, and ask that I talk with <lb/>
+           <name type="person">Mr. Bradshaw</name>, who I saw this morning and he<lb/>
+               suggested that we talk with <name type="person">Mr. Edwards</name> in <name type="place">Barnett<lb/>
+                  Bank building<location><geo>30.328120 -81.659319</geo></location></name> next Monday or Tuesday. Please get<lb/>
             in touch with me for this meeting. 
-            
+            </p>
+            <p>
             May I wish for you continued good health and success. 
+            </p>
+         </div>
+       
+          
+            <closer>
+               <salute>
+                  <hi rend="center">
+                     Very truly yours,<lb/>
+                  </hi>
+               </salute>
+               <signed>
+                  <name type="person"> <name type="person">A.L. LEWIS</name>,<name role="administrator">  PRESIDENT</name></name>.<lb/>
+               </signed>
+            </closer>
+          
+        
+         
+         
+         
+           
+         <note place="marginLeft">ALL- eaj </note> 
+           
+         <!--That "note" right above this was the only way I could
+         find for it to let me include that tect after the letter closer-->
             
-            Very truly yours, 
-            
-            A.L. LEWIS, PRESIDENT
-            
-            ALL- eaj
-            
-         </p>
+          
+      
       </body>
   </text>
 </TEI>

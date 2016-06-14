@@ -111,7 +111,7 @@
                arrangement, simply buy your round-trip ticket from <lb/>
                <name type="company">Florida Motor Line</name> and when you get to <name type="place" subtype="city">Chicago</name> go to <name type="address">Florida <lb/>
                Normal Headquarters, 4322 South Michigan Avenue, Apartment No. 1, <lb/>
-               <name type="place" subtype="city">Chicago</name></name>, for assistance and information as to accomodations. <lb/>
+                  <name type="place" subtype="city">Chicago</name><location><geo>41.815823 -87.623414</geo></location></name>, for assistance and information as to accomodations. <lb/>
             </p>
         </div>
          <div>
@@ -169,7 +169,7 @@
             Wire or write to <name type= "company">The Florida Normal World Fair Tours</name>, <lb/>
             <name type="place" subtype="city">ST. Augustine, Fla.</name> Phone 611 <lb/>
             or <name type="place" subtype="address">Florida Nor. World Fair Headquarters, 4322 (Apartment 1) <lb/>
-               South Michigan Avenue, Chicago, Ill.</name><lb/>
+               South Michigan Avenue, Chicago, Ill.<location><geo>41.815823 -87.623414</geo></location></name><lb/>
                </p>
             </div>
             
@@ -182,9 +182,9 @@
                <div> <head> Application Form </head><lb/>
                <p>
             Date................................................. <date when="1933">1933</date>
-           <name type="address">To the Florida Nor, World Fair Tour Committee, <lb/>
-            N.W. Collier, Chairman, <lb/>
-              <name type="place" subtype="city">St. Augusustine, Fla. </name></name><lb/>
+           <name type="organization">To the Florida Nor, World Fair Tour Committee,</name> <lb/>
+              <name type="person">N.W. Collier</name>, <name role="administrator">Chairman</name>, <lb/>
+              <name type="place" subtype="city">St. Augusustine, Fla. </name><lb/>
             Gentlemen: <lb/>
             Enclosed please find my check, money order, or cash for Five Dollars, for <lb/>
             which please make reservation for your ALL-EXPENSE TOUR........... Trip to <lb/>
