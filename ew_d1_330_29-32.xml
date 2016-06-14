@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The article "Negro Health in Jacksonville" from The Crisis magazine</title>
+            <author>C. Frederick Duncan, M.D.</author>
+            <respStmt>
+               <resp>Transcription, edition, and encoding</resp>
+               <name>Michael "Dean" Rice</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document forms part of the project "Editing the Eartha M.M. White Archive" at the University of North Florida.</p>            
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region>Florida</region>                  
+                  <settlement>Jacksonville</settlement>                  
+                  <repository>University of North Florida, Thomas G. Carpenter Library Special Collections and Archives</repository> 
+                  <collection>Eartha M.M. White Collection</collection>
+                  <idno>Folder D1, Item 330, p. 29 - 32</idno>                  
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <p>The following documents are pages 29, 30, and 32  out of the January, 1942 publication of The Crisis magazine (p.31 has been omitted due to lack of pertinence, but can be found in the UNF Special Collections). Documents are in good condition. Documents are print and approximately 9 inches by 12 inches.</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <p>This file was transcribed and encoded according to the editorial criteria of the project "Editing the Eartha M.M. White Archive." Using the various options encoded within &lt;choice&gt; elements, this file enables the viewing of a diplomatic transcription and a regularized reading text.</p>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1" facs="../images/ew_d1_330_29-32_001.jpg"/>
+         <p>January, 1942 <hi rend="right"><choice><orig>29</orig><reg/></choice></hi>
+         </p>
+         <div>
+         <head rend="center"><hi rend="xx-large">Negro Health in <name type="place" subtype="city">Jacksonville</name></hi><lb/>
+            <hi rend="x-large">By <name type="person">C. Frederick Duncan, M.D.</name></hi><lb/></head>
+         </div>
+      <div>
+         
+            <cb n="1"/>
+         <p>
+            <hi rend="x-large">H</hi><emph rend="case(allcaps)">ealth</emph>, the normal condition of<lb/>
+            body and mind with all the parts<lb/>
+            functioning normally, is the most<lb/>
+            desirable state of all human beings. Such<lb/>
+            a worthy attainment this is, that human<lb/>
+            society has organized to make this state<lb/>
+            of normalcy possible in every commun<lb break="no"/>
+            ity. Thus there are central, state, and<lb/>
+            municipal laws in operation to safeguard<lb/>
+            the health of every individual within<lb/>
+            their respective control. If this axiom<lb/>
+            of governmental responsibility were im<lb break="no"/>
+            partial, in that the practical operation<lb/>
+            was made imperative without circum<lb break="no"/>
+            scription and discrimination to all<lb/>
+            groups, races, and complexions, there<lb/>
+            would be no cause for complaint. It is<lb/>
+            regrettable, however, that the health of<lb/>
+            the <name type="person_group">Negro</name> in the city of <name type="place" subtype="city">Jacksonville</name> is<lb/>
+            hazarded by three main factors: politics,<lb/>
+            economic conditions, and ignorance.<lb/>
+         </p>
+         <p rend="indent">
+            The latter may well be classified as<lb/>
+            the central point from which the other<lb/>
+            two radiate. State vital statistics harp<lb/>
+            upon the proneness to disease and nu<lb break="no"/>
+            <cb n="2"/>
+            merical surplus of <name type="person_group">Negro</name> mortality in<lb/>
+            comparison to that of <name type="person_group">whites</name>. Yet the<lb/>
+            state politics through individuals who<lb/>
+            are armed with state authority merci<lb break="no"/>
+            lessly and consistently relegate the<lb/>
+            <name type="person_group">Negro</name> into a situation of impotence in<lb/>
+            denying him the practical means of pro<lb break="no"/>
+            tection by disenfranchising him. The<lb/>
+            municipality steals from him his right<lb/>
+            to go to the polls to vote, thus denying<lb/>
+            him a voice in the formation of laws<lb/>
+            which concern him. Therefore we have<lb/>
+            the segregated <name type="person_group">Negro</name> districts and<lb/>
+            <name type="person_group">Negro</name> ghettos, the former characterized<lb/>
+            by poorly laid out, unpaved, sandrutted,<lb/>
+            and non-lighted streets; inadequate and<lb/>
+            poor sanitary conditions; lack of prop<lb break="no"/>
+            erly arranged playgrounds and swim<lb break="no"/>
+            ming pools; lanes that are physical and<lb/>
+            moral hazards. Moreover, almost all<lb/>
+            the <name type="person_group">Gehennas</name> of the city of <name type="place" subtype="city">Jacksonville</name><lb/>
+            are in the <name type="person_group">Negro</name> sections of the com<lb break="no"/>
+            munity. With such state and municipal<lb/>
+            settings, is it to be wondered at that<lb/>
+            <name type="person_group">Negroes</name> are more exposed to contagious<lb/>
+            <cb n="3"/>
+            and infectious diseases than are the non-<lb/>
+            <name type="person_group">Negro</name> groups?<lb/>
+         </p>
+            <p rend="indent">
+               The <name type="person_group">Negro</name> ghettos, thanks to the<lb/>
+               <name type="person">Roosevelt</name> administration, are disappear<lb break="no"/>
+               ing and their places taken by <name type="organization">Federal<lb/>
+               Housing</name> accommodations. Yes, before<lb/>
+               the advent of these <name type="organization">Federal Housing</name><lb/>
+               projects, these ghettos had been the<lb/>
+               putrid, yea, the gangrenous, the cancer<lb break="no"/>
+               <hi rend="center">(<hi rend="italic">Continued on page 32</hi>)</hi><lb/>
+            </p>
+         <p>
+         <figure><graphic url="ew_d1_330_29-32_001_001.jpg"/></figure>
+            <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_001_001.jpg"></graphic></figure>
+            </p>
+         </div>
+         <div>
+            <head rend="center"><hi rend="xx-large"/><name type="organization">The Clara White Mission<location><geo>30.332632 -81.664020</geo></location></name></head>
+         </div>
+         <div>
+            <figure><graphic url="ew_d1_330_29-32_001_002.jpg"/></figure>
+            <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_001_002.jpg"></graphic></figure>
+            <p>
+               <hi rend="italic">For a quarter century <name type="organization">the Clara White Mission<location><geo>30.332632 -81.664020</geo></location></name>, <name type="place" subtype="address">611 W. Ashley St.<location><geo>30.332632 -81.664020</geo></location></name>, has cared for <name type="place" subtype="city">Jacksonville's</name> needy, aged and orphaned; distributed food,<lb/>
+                  sponsored tuberculosis prevention, housed and guided <name type="organization"><choice><abbr>WPA</abbr><expan>Works Progress Administration</expan></choice></name> sewing, writing, and art projects, and instructed the blind. In addition to<lb/>
+                  food, clothing, shoes, shelter and employment are given. Annual outings are given the blind, poor, orphaned and aged; a boys' and girls' improve<lb break="no"/>
+                  ment club is operated, and a drum and bugle corps maintained. The mission, named after <name type="person">Clara White</name>, a pioneer citizen, and headed by her<lb/>
+                  daughter, <name type="person">Miss Eartha M. M. White</name>, is supported by the contributions of <name type="person_group">white</name> and <name type="person_group">colored</name> citizens. The above photograph shows one of the<lb/>
+                  <hi rend="center">many activities of the <name type="organization">the Clara White Mission<location><geo>30.332632 -81.664020</geo></location></name><lb/>
+                  </hi>
+               </hi>
+            </p>
+            <pb n="2" facs="../images/ew_d1_330_29-32_002.jpg"/>
+            <p>
+               <choice><orig>30</orig><reg/></choice><hi rend="right"><title level="m">The Crisis</title></hi><lb/> 
+            </p>
+            <figure><graphic url="ew_d1_330_29-32_002_001.jpg"/></figure>
+            <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_002_001.jpg"></graphic></figure>
+            <p>
+               <hi rend="italic">
+                  <name type="organization">The Junior Service League of <name type="place" subtype="city">Jacksonville, <choice><abbr>Fla.</abbr><expan>Florida</expan></choice></name></name>, a charitable organization aiding underprivileged children for the past<lb/>
+                  eight years. <choice><abbr>1st</abbr><expan>First</expan></choice> row: <name type="person">Mrs. Mildred Christopher</name>; <name type="person">Miss Gwendolyn Holland</name>, treasurer; <name type="person">Miss Edythe Boyd</name>, corr. <choice><abbr>sec'y</abbr><expan>secretary</expan></choice>;<lb/>
+                  <name type="person">Mrs. Florence J. Dixon</name>, president; <name type="person">Mrs. Almira Wilson</name>, <choice><abbr>ass't sec'y</abbr><expan>assistant secretary</expan></choice>; <name type="person">Miss Alethia B. Frazier</name>, <choice><abbr>vice-pres.</abbr><expan>vice-president</expan></choice>; <name type="person">Mrs. Mamie<lb/>
+                     H. Butler</name>; <name type="person">Mrs. Altamease Young</name>. <choice><abbr>2nd</abbr><expan>Second</expan></choice> row: <name type="person">Mrs. Irene James</name>, <name type="person">Mrs. Wilhelmina J. Rutledge</name>, <name type="person">Mrs. Louise S. Brown</name>,<lb/>
+                  <name type="person">Mrs. Ethel M. Powell</name>, <name type="person">Mrs. Thelma H. Livingston</name>, <name type="person">Mrs. Thelma L. Harris</name>, <name type="person">Mrs. Eloise W. Green</name>, <name type="person">Mrs. Lucile G.<lb/>
+                     Coleman</name>, <name type="person">Mrs. Annie S. Currie</name>. <choice><abbr>3rd</abbr><expan>Third</expan></choice> row: <name type="person">Mrs. Nellie Lewis</name>, <name type="person">Mrs. Harriet Graham</name>, <name type="person">Miss Rebecca Lundy</name>, <name type="person">Mrs. Mel<lb break="no"/>
+                        <hi rend="center">tonia J. Brooks</hi></name><hi rend="center"><name type="person">Mrs. Catherine Jackson</name><name type="person">Mrs. Luther W. James</name></hi>  
+               </hi>           
+            </p>
+            <figure><graphic url="ew_d1_330_29-32_002_002.jpg"/></figure>
+            <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_002_002.jpg"></graphic></figure>
+            <p>
+               <hi rend="italic">Members of <name type="organization">Chi chapter, Iota Phi Lambda sorority</name>, <name type="place" subtype="address">315 Broad St., Jacksonville</name>, are business and professional women. Organized<lb/>
+                  in <date when="1936">1936</date> and has had four various presidents. In the first row, left to right, are: <name type="person">Sorors Irene Alexander</name>, <name type="person">Alethia B. Frazier</name>, presi<lb break="no"/>
+                  dent, and <name type="person">Edith C. Boyd</name>. Second row: <name type="person">Annie Haley-Robinson</name>, <name type="person">Kathryn Hawkins-Blanchard</name>, <name type="person">Eartha M. White</name> and <name type="person">Mar<lb break="no"/>
+                     garet G. Simms</name>. Back row: <name type="person">Nettye J. Leapheart</name>, <name type="person">Inez D. Walton</name> and <name type="person">Julia S. Brown</name>. Not shown <name type="person">Robie Epps-Bryant</name>, <name type="person">Mabel<lb/>
+                        <hi rend="center">Ervin-Latson</hi></name>,<hi rend="center"><name type="person">Ellen M. Wilson</name></hi><lb/>    
+               </hi>
+            </p>
+            
+            
+               
+               <pb n="3" facs="../images/ew_d1_330_29-32_003.jpg"/>
+               <p>
+                  <choice><orig>32</orig><reg/></choice><hi rend="right"><title level="m">The Crisis</title></hi>
+               </p>
+               </div>
+               <div>
+                  <head rend="center"><hi rend="x-large">Negro Health</hi><lb/>
+                     (<hi rend="italic">Continued from page 29</hi>)<lb/></head>
+               </div>
+               <div>
+                  
+                  <cb n="1"/>
+                  <p>
+                     ous centres of infection, depravity, vice,<lb/>
+                     and all other deplorable units entering<lb/>
+                     the undermining of human health, and<lb/>
+                     most vicious evidences of municipal<lb/>
+                     criminality. Please pardon me if I de<lb break="no"/>
+                     cline to comment on some of the death<lb/>
+                     traps, unhygienic and cramped excuses<lb/>
+                     that the state and county call school<lb/>
+                     houses for <name type="person_group">Negro</name> children.
+                  </p>
+                  <p rend="indent">
+                     Yes, there are a few state and munic<lb break="no"/>
+                     ipal clinics: the majority are for in<lb break="no"/>
+                     digent <name type="person_group">white</name> groups, yet those of the<lb/>
+                     indigent <name type="person_group">Negro</name> group whose economic<lb/>
+                     conditions beg for a few crumbs are left<lb/>
+                     without a dental clinic, and  the niggardly<lb/>
+                     amount spent for the so-called relief of<lb/>
+                     <name type="person_group">Negro</name> indigents is so manipulated that<lb/>
+                     <name type="person_group">Negro</name> physicians are not deemed eligi<lb break="no"/>
+                     ble to serve the indigent members of<lb/>
+                     their group. In this particular matter<lb/>
+                     there is methodical and organized<lb/>
+                     cajolery.
+                  </p>
+                  <p rend="indent">
+                     Education must play an important<lb/>
+                     part toward the well-being of all groups.<lb/>
+                     Cursed by the institution of slavery, the<lb/>
+                     teachings of which have passed into the<lb/>
+                     system and contaminated him mentally<lb/>
+                     and spiritually, the average <name type="person_group">Negro</name> does<lb/>
+                     not know himself. The state authorities<lb/>
+                     premeditatedly have so directed his edu<lb break="no"/>
+                     cation with a view to their contempla<lb break="no"/>
+                     tive purposes—to keep him in perpetual<lb/>
+                     ignorance, and there lingers in the<lb/>
+                     <name type="person_group">Negro's</name> system the baneful trust be<lb break="no"/>
+                     tween the slave and his master. Thus<lb/>
+                     he must not think for himself and what<lb break="no"/>
+                     ever his <name type="person_group">Negro</name> antitype instructs him<lb/>
+                     for his welfare must first receive the<lb/>
+                     assent of a <name type="person_group">white</name> boss; too, we have a<lb/>
+                     situation wherein a well trained and<lb/>
+                     qualified oculist of fame advised a<lb/>
+                     woman of his race to have a certain<lb/>
+                     work done to her eye. She chose to<lb/>
+                     accept the instructions and advice of a<lb/>
+                     <name type="person_group">white</name> blacksmith and lost her eye. There<lb/>
+                     are parallel conditions as to the <name type="person_group">Negro's</name>
+                     choice of a physician.<lb/>
+                  </p>
+                  <p rend="indent">
+                     It is refreshing to note, however, that<lb/>
+                     there is a seeming renaissance in the<lb/>
+                     <name type="person_group">Negro's</name> confidence in the health advis<lb break="no"/>
+                     ers of his own group.
+                  </p>
+                  <figure><graphic url="ew_d1_330_29-32_003_001.jpg"/></figure>
+                  <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_003_001.jpg"></graphic></figure>
+                  <cb n="2"/>
+                  <p rend="indent">
+                     The Defense program has given us a<lb/>
+                     noteworthy opportunity to compare the<lb/>
+                     health of our group with that of the<lb/>
+                     other group. Yes, there are deplorable<lb/>
+                     discoveries in the health conditions of<lb/>
+                     the young manhood of our group; there<lb/>
+                     are diseases — contagions, infections,<lb/>
+                     lung affections, heart and kidney in<lb break="no"/>
+                     volvements. The satisfaction rests in<lb/>
+                     the thought that with general improve<lb break="no"/>
+                     ment along all lines within the <name type="person_group">Negro</name><lb/>
+                     himself, his awakening racial selfcon<lb break="no"/>
+                     sciousness, the situation is hopeful.<lb/>
+                     There are more and better babies of the<lb/>
+                     right type with worthy parental trans<lb break="no"/>
+                     missions. The <name type="organization">Federal</name> projects have<lb/>
+                     eliminated the septic <name type="person_group">Negro</name> ghettos.<lb/>
+                     When the city fathers eliminate Gehen<lb break="no"/>
+                     nas from the <name type="person_group">Negro</name> sections, and with<lb/>
+                     <cb n="3"/>
+                     amelioration in politics, better <name type="person_group">Negro</name><lb/>
+                     economic conditions and improved edu<lb break="no"/>
+                     cation, better health situations among<lb/>
+                     the <name type="person_group">Negroes</name> will be an accomplished<lb/>
+                     fact in the city of <name type="place" subtype="city">Jacksonville</name>.
+                  </p>
+                  <figure><graphic url="ew_d1_330_29-32_003_002.jpg"/></figure>
+                  <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_003_002.jpg"></graphic></figure>
+                  <figure><graphic url="ew_d1_330_29-32_003_003.jpg"/></figure>
+                  <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_003_003.jpg"></graphic></figure>
+                  <figure><graphic url="ew_d1_330_29-32_003_004.jpg"/></figure>
+                  <figure><desc>Taken from University of North Florida Special Collections, Eartha M.M. White Collection, Folder D1, Item 330.</desc><graphic url="../images/ew_d1_330_29-32_003_004.jpg"></graphic></figure>
+      </div>
+      </body>
+  </text>
+</TEI>
